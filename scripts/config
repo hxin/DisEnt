@@ -1,0 +1,24 @@
+DB=xin3
+HOST=nrg.inf.ed.ac.uk
+USER=xin
+PSW=12091209
+USECACHE=n
+MM_LOC=/home/xin/MetaMap/public_mm
+
+#which data you want to update
+HDO=n
+GENERIF=n
+OMIM=n
+ENTREZ=n
+ENSEMBL=n
+METAMAP=n
+NCBO=y
+
+#SPECIES="drosophila_melanogaster:fly,mus_musculus:mouse,saccharomyces_cerevisiae:yeast,rattus_norvegicus:rat"
+SPECIES="drosophila_melanogaster:fly"
+#drosophila_melanogaster:fly
+#rattus_norvegicus:rat
+#mus_musculus:mouse
+#saccharomyces_cerevisiae:yeast
+#danio_rerio:zebrafish
+#caenorhabditis_elegans:C_elegans

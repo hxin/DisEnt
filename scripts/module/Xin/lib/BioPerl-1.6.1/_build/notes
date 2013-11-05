@@ -1,0 +1,5 @@
+do{ my $x = {
+       'network' => 0,
+       'chosen_scripts' => 'all'
+     };
+$x; }

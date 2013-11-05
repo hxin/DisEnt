@@ -1,0 +1,52 @@
+do{ my $x = {
+       'build_requires' => {
+                             'Test::Harness' => '2.62',
+                             'Test::More' => 0,
+                             'CPAN' => '1.81',
+                             'Module::Build' => '0.2805'
+                           },
+       'conflicts' => {},
+       'requires' => {
+                       'Scalar::Util' => 0,
+                       'perl' => '5.6.1',
+                       'IO::String' => 0,
+                       'Data::Stag' => '0.11',
+                       'DB_File' => 0,
+                       'ExtUtils::Manifest' => '1.52'
+                     },
+       'recommends' => {
+                         'Ace' => '0/access of ACeDB database/Bio::DB::Ace,Bio::DB::GFF::Adaptor::ace',
+                         'Math::Random' => '0/Random Phylogenetic Networks/Bio::PhyloNetwork::RandomFactory',
+                         'Storable' => '2.05/storing sequence objects in local file cache/Bio::DB::FileCache,Bio::SeqFeature::Collection,Bio::PopGen::HtSNP,Bio::PopGen::TagHaplotype,Bio::DB::GFF::Adaptor::berkeleydb',
+                         'SVG::Graph' => '0.01/creating SVG images/Bio::TreeIO::svggraph',
+                         'Bio::ASN1::EntrezGene' => '0/parsing entrezgene/Bio::SeqIO::entrezgene [circular dependency!]',
+                         'GraphViz' => '0/Phylogenetic Network Visulization/Bio::PhyloNetwork::GraphViz',
+                         'List::MoreUtils' => '0/Back- or reverse-translation of sequences/Bio::Tools::SeqPattern,Bio::Tools::SeqPattern::BackTranslate',
+                         'Algorithm::Munkres' => '0/Phylogenetic Networks/Bio::PhyloNetwork',
+                         'HTML::HeadParser' => '3/parsing <HEAD> section of HTML docs/Bio::Tools::Analysis::DNA::ESEfinder',
+                         'SVG' => '2.26/creating SVG images/Bio::Draw::Pictogram',
+                         'HTTP::Request::Common' => '0/GenBank+GenPept sequence retrieval, remote http Blast jobs/Bio::DB::*,Bio::Tools::Run::RemoteBlast,Bio::Tools::Analysis::Protein*,Bio::Tools::Analysis::DNA*',
+                         'Text::ParseWords' => '0/test scripts/Bio::DB::SeqFeature::Store::FeatureFileLoader',
+                         'Spreadsheet::WriteExcel' => '0/writing Excel files/Bio::Microarray::Tools::ReseqChip',
+                         'XML::Writer' => '0.4/parsing and writing xml/Bio::SeqIO::agave,Bio::SeqIO::game::gameWriter,Bio::SeqIO::chadoxml,Bio::SeqIO::tinyseq,Bio::Variation::IO::xml,Bio::SearchIO::Writer::BSMLResultWriter',
+                         'XML::DOM::XPath' => '0.13/parsing interpro features/Bio::FeatureIO::interpro',
+                         'PostScript::TextBlock' => '0/EPS output/Bio::Tree::Draw::Cladogram',
+                         'Spreadsheet::ParseExcel' => '0/parsing Excel files/Bio::SeqIO::excel,Bio::Microarray::Tools::ReseqChip',
+                         'XML::SAX' => '0.15/parsing xml/Bio::SearchIO::blastxml,Bio::SeqIO::tigrxml,Bio::SeqIO::bsml_sax',
+                         'URI::Escape' => '0/dealing with web resources/Bio::FeatureIO::gff,Bio::FeatureIO::interpro,Bio::DB::Biblio::eutils,Bio::DB::EUtilParameters,Bio::DB::Query::GenBank,Bio::DB::NCBIHelper,Bio::SeqFeature::Annotated',
+                         'Graph' => '0/ontology engine implementation for the GO parser/Bio::PhyloNetwork',
+                         'XML::Simple' => '0/reading custom XML/Bio::Tools::EUtilities,Bio::DB::HIV,Bio::DB::Query::HIVQuery',
+                         'SOAP::Lite' => '0/Bibliographic queries/Bio::DB::Biblio::soap',
+                         'HTML::Entities' => '0/remote analysis POST submissions/Bio::SearchIO::blastxml',
+                         'Array::Compare' => '0/Phylogenetic Networks/Bio::PhyloNetwork',
+                         'XML::Parser' => '0/parsing xml/Bio::Biblio::IO::medlinexml',
+                         'Convert::Binary::C' => '0/strider functionality/Bio::SeqIO::strider',
+                         'XML::Twig' => '0/parsing xml/Bio::Variation::IO::xml,Bio::DB::Taxonomy::entrez,Bio::DB::Biblio::eutils',
+                         'Set::Scalar' => '0/proper operation/Bio::Tree::Compatible',
+                         'LWP::UserAgent' => '0/remote access/Bio::DB::*,Bio::Tools::Run::RemoteBlast,Bio::WebAgent',
+                         'XML::Parser::PerlSAX' => '0/parsing xml/Bio::SeqIO::tinyseq,Bio::SeqIO::game::gameSubs,Bio::OntologyIO::InterProParser,Bio::ClusterIO::dbsnp',
+                         'XML::SAX::Writer' => '0/writing xml/Bio::SeqIO::tigrxml',
+                         'Clone' => '0/cloning objects/Bio::Tools::Primer3'
+                       }
+     };
+$x; }

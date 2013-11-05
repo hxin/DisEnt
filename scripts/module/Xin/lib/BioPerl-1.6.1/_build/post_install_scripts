@@ -1,0 +1,4 @@
+do{ my $x = {
+       'maintenance/symlink_script.pl' => 1
+     };
+$x; }

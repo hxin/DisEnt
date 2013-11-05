@@ -1,0 +1,48 @@
+do{ my $x = {
+       'Network' => {
+                      'test' => undef,
+                      'feature_requires' => {
+                                              'LWP::UserAgent' => 0
+                                            },
+                      'description' => 'Enable tests that need an internet connection'
+                    },
+       'BioDBSeqFeature_mysql' => {
+                                    'test' => undef,
+                                    'feature_requires' => {
+                                                            'DBD::mysql' => 0,
+                                                            'DBI' => 0
+                                                          },
+                                    'description' => 'MySQL tests for Bio::DB::SeqFeature::Store'
+                                  },
+       'BioDBGFF' => {
+                       'test' => undef,
+                       'excludes_os' => [
+                                          'mswin'
+                                        ],
+                       'feature_requires' => {
+                                               'DBI' => 0
+                                             },
+                       'description' => 'BioDBGFF database tests (will need to answer questions before really enabling)'
+                     },
+       'BioDBSeqFeature_BDB' => {
+                                  'feature_requires' => {
+                                                          'DB_File' => 0
+                                                        },
+                                  'description' => 'BDB tests for Bio::DB::SeqFeature::Store'
+                                },
+       'BioDBSeqFeature_SQLite' => {
+                                     'feature_requires' => {
+                                                             'DBD::SQLite' => 0,
+                                                             'DBI' => 0
+                                                           },
+                                     'description' => 'SQLite tests for Bio::DB::SeqFeature::Store'
+                                   },
+       'BioDBSeqFeature_Pg' => {
+                                 'feature_requires' => {
+                                                         'DBD::Pg' => 0,
+                                                         'DBI' => 0
+                                                       },
+                                 'description' => 'Postgres tests for Bio::DB::SeqFeature::Store'
+                               }
+     };
+$x; }
