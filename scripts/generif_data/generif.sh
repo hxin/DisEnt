@@ -27,6 +27,6 @@ mysqlimport -h $HOST -u $USER -p$PSW $DB -L -c do_acc,entrez_id,pmid,rif  $BASED
 echo "updating HDO ids for GeneRIF data..."$(date +"%T")
 perl $BASEDIR/updateID.pl $DB $HOST $USER $PSW
 
-echo "caculating generif_human_gene2disease..."$(date +"%T")
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_generif_gene2disease.sql
+#echo "caculating generif_human_gene2disease..."$(date +"%T")
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_generif_gene2disease.sql
 

@@ -1,5 +1,11 @@
 BASEDIR=$(dirname $0)
 
+CONFIG_FILE=$BASEDIR/../config
+
+if [ -f $CONFIG_FILE ]; then
+        . $CONFIG_FILE
+fi
+
 
 #create two table base on the ftp file
 if [ $USECACHE = 'n' ]; then
@@ -24,5 +30,5 @@ echo 'inserting into db...'$(date +"%T")
 mysqlimport -h $HOST -u $USER -p$PSW -c mim_acc,type,entrez_id,gene_symbol -L $DB $BASEDIR/tmp/OMIM_mim2gene.txt
 
 
-echo "caculating omim_human_gene2disease..."$(date +"%T")
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_omim_gene2disease.sql
+#echo "caculating omim_human_gene2disease..."$(date +"%T")
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_omim_gene2disease.sql

@@ -1,5 +1,12 @@
 BASEDIR=$(dirname $0)
 
+
+CONFIG_FILE=$BASEDIR/../config
+
+if [ -f $CONFIG_FILE ]; then
+        . $CONFIG_FILE
+fi
+
 if [ $USECACHE = 'n' ]; then
 echo "fetching hdo raw file..."$(date +"%T")
 wget -O $BASEDIR/tmp/doid.obo http://purl.obolibrary.org/obo/doid.obo

@@ -27,7 +27,7 @@ echo 'Sorting mapping...'$(date +"%T")
 perl $BASEDIR/ensembl_average_score.pl $DB $HOST $USER $PSW  >$BASEDIR/tmp/MetaMap_ensembl2do
 mysqlimport -h $HOST -u $USER -p$PSW -L $DB $BASEDIR/tmp/MetaMap_ensembl2do
 
-echo "caculating ensembl_human_disease_hdo table..."$(date +"%T")
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/calculate_human_disease_hdo.sql
+#echo "caculating ensembl_human_disease_hdo table..."$(date +"%T")
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/calculate_human_disease_hdo.sql
 
 exit 0

@@ -28,49 +28,6 @@ echo 'Some process taks hours even days to finish. So if just using cache data, 
 echo 'To Add more species, you need to edit the config file, if adding new species other than f/m/r/h/z/y then you need to update the ensembl data for homolog'
 
 
-#echo "do you want to update hdo data?(y/n)(default n)"
-#read HDO
-#
-#if [ -z "$HDO" ] 
-#then HDO="n"
-#fi
-#
-#echo "do you want to update generif data?(y/n)(default n)"
-#read GENERIF
-#
-#if [ -z "$GENERIF" ] 
-#then GENERIF="n"
-#fi
-#
-#echo "do you want to update omim data?(y/n)(default n)"
-#read OMIM
-#
-#if [ -z "$OMIM" ] 
-#then OMIM="n"
-#fi
-#
-#echo "do you want to update entrez data?(y/n)(default n)"
-#read ENTREZ
-#
-#if [ -z "$ENTREZ" ] 
-#then ENTREZ="n"
-#fi
-#
-#echo "do you want to update ensembl data?(y/n)(default n)(26+hours)"
-#read ENSEMBL
-#
-#if [ -z "$ENSEMBL" ] 
-#then ENSEMBL="n"
-#fi
-#
-#echo "do you want to update metamap mapping data?(y/n)(default n)"
-#read METAMAP
-#
-#if [ -z "$METAMAP" ] 
-#then METAMAP="n"
-#fi
-
-
 start=$(date +"%T")
 echo "Start...Current time : $start"
 

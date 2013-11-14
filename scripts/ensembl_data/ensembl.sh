@@ -35,5 +35,5 @@ echo "inserting into db..."$(date +"%T")
 mysqlimport -h $HOST -u $USER -p$PSW --delete -L $DB $BASEDIR/tmp/ENSEMBL_variation2gene
 
 
-echo "caculating VARIATION_human_gene2disease..."$(date +"%T")
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_variation_gene2disease.sql
+#echo "caculating VARIATION_human_gene2disease..."$(date +"%T")
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_variation_gene2disease.sql

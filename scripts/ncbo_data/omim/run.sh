@@ -14,5 +14,5 @@ mysqlimport -h $HOST -u $USER -p$PSW --delete -L $DB $BASEDIR/tmp/NCBO_omim2do_r
 echo "updating hdo deiease name..."$(date +"%T")
 perl $BASEDIR/map_hdo_des.pl $DB $HOST $USER $PSW
 
-echo "joining MetaMap result..."
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_all.sql
+#echo "joining MetaMap result..."
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/caculate_all.sql
