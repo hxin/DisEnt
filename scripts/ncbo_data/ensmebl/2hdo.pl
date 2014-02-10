@@ -11,21 +11,20 @@ use PadWalker;
 use Data::Dumper;
 
 
-my($db,$host,$user,$psw)=@ARGV;
-my $dbh   = DBI->connect ( "dbi:mysql:database=$db;host=$host;port=3306" , $user , $psw ) or die $DBI::errstr;
-my $sth = $dbh->prepare("select distinct phenotype_id,phenotype_description from ENSEMBL_variation2phenotype;");
-$sth->execute();
-my $dis_ref = {};
-while ( my @row = $sth->fetchrow_array ) {
-	$dis_ref->{$row[0]}=$row[1];
+my($in)=@ARGV;
+
+open (MYIN, $in);
+my $out=$in."_parsed";
+open (MYOUT, ">".$out);
+
+
+while ( <MYIN> ) {
+	chomp;
+	my @row = split(/\t/, $_);	
+	ncbo_annotator($row[0],$row[1]);
 }
 
-#	print Dumper(%{$dis_ref});
 
-for my $id ( keys %{$dis_ref} ) {
-        my $des = $dis_ref->{$id};
-	ncbo_annotator($id,$des);
-}
 
 
 
@@ -79,11 +78,12 @@ if ($response->is_success) {
 
 		if(%{$M_ConceptREF}){
 			foreach my $c (keys %{$M_ConceptREF}){
-   			 	print $source_id,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c}."\n";
+   			 	print MYOUT $source_id,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c}."\n";
    			 }    
-		}else{
-			print $source_id,"\t",$des,"\t\\N\t\\N"."\n";
 		}
+		#else{
+		#	print $source_id,"\t",$des,"\t\\N\t\\N"."\n";
+		#}
 
 
     
@@ -92,7 +92,7 @@ if ($response->is_success) {
 else {
 	my $time = localtime();
     #print $res->status_line, " at $time\n";
-	print $response->content, " at $time\n";
+	print MYOUT $response->content, " at $time\n";
 }
 
 

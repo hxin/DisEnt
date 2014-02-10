@@ -1,5 +1,16 @@
-DROP TABLE IF EXISTS GeneRIF_disease2gene;
-CREATE TABLE `GeneRIF_disease2gene` (
+DROP TABLE IF EXISTS GeneRIF_basic;
+CREATE TABLE  `GeneRIF_basic` (
+`id` INT( 11 ) NOT NULL AUTO_INCREMENT ,
+ `gene_id` INT( 50 ) NOT NULL ,
+ `pmid` INT( 50 ) NOT NULL ,
+ `rif` TEXT NOT NULL ,
+PRIMARY KEY (  `id` ) ,
+KEY  `pmid` (  `pmid` ) ,
+KEY  `gene_id` (  `gene_id` )
+);
+
+DROP TABLE IF EXISTS GeneRIF_disease2gene_dga;
+CREATE TABLE `GeneRIF_disease2gene_dga` (
   `entrez_id` int(11) DEFAULT NULL,
 /*  `pmed_title` text,*/
   `pmid` int(11) DEFAULT NULL,
@@ -12,4 +23,9 @@ CREATE TABLE `GeneRIF_disease2gene` (
 /*  KEY `umls_acc` (`umls_acc`),*/
   KEY `do_acc` (`do_acc`)
 /*  KEY `unknown_acc` (`unknown_acc`)*/
-) ENGINE=MyISAM 
+);
+
+
+
+
+

@@ -50,3 +50,4774 @@ mapping human homolog to entrez id...10:41:35
 caculating variation2gene...10:42:15
 inserting into db...
 caculating VARIATION_human_gene2disease...10:43:35
+waiting for process to be finished...16:42:39
+waiting for process to be finished...16:43:57
+waiting for process to be finished...16:44:29
+waiting for process to be finished...16:45:15
+waiting for process to be finished...16:46:06
+waiting for process to be finished...16:46:29
+loading rifs from db...16:53:05
+start chunking rif files...16:53:05
+empty chunk folder...16:53:05
+spliting file...16:53:05
+start queries ncbo...16:53:05
+waiting for process to be finished...16:53:05
+loading rifs from db...16:53:29
+start chunking rif files...16:53:29
+empty chunk folder...16:53:29
+spliting file...16:53:29
+start queries ncbo...16:53:29
+waiting for process to be finished...16:53:29
+finish!16:53:33
+joining result...
+loading rifs from db...16:55:37
+start chunking rif files...16:55:37
+empty chunk folder...16:55:37
+spliting file...16:55:37
+start queries ncbo...16:55:37
+waiting for process to be finished...16:55:37
+finish!16:55:40
+joining result...
+loading rifs from db...16:59:41
+start chunking rif files...16:59:41
+empty chunk folder...16:59:41
+spliting file...16:59:41
+start queries ncbo...16:59:41
+waiting for process to be finished...16:59:41
+finish!16:59:45
+joining result...
+loading rifs from db...17:02:30
+start chunking rif files...17:02:30
+empty chunk folder...17:02:30
+spliting file...17:02:30
+start queries ncbo...17:02:30
+waiting for process to be finished...17:02:30
+loading rifs from db...17:02:51
+start chunking rif files...17:02:51
+empty chunk folder...17:02:51
+spliting file...17:02:51
+start queries ncbo...17:02:51
+waiting for process to be finished...17:02:52
+finish!17:03:25
+joining result...
+loading rifs from db...17:08:39
+start chunking rif files...17:08:43
+empty chunk folder...17:08:43
+spliting file...17:08:43
+start queries ncbo...17:08:44
+waiting for process to be finished...17:08:44
+finish!17:08:53
+joining result...
+loading rifs from db...17:09:06
+start chunking rif files...17:09:15
+empty chunk folder...17:09:15
+spliting file...17:09:15
+start queries ncbo...17:09:15
+waiting for process to be finished...17:09:15
+loading phenotypes from db...17:30:37
+start chunking rif files...17:30:37
+empty chunk folder...17:30:37
+spliting file...17:30:37
+start queries ncbo...17:30:37
+waiting for process to be finished...17:30:37
+finish!17:30:37
+joining result...
+loading phenotypes from db...17:31:02
+start chunking rif files...17:31:02
+empty chunk folder...17:31:02
+spliting file...17:31:02
+start queries ncbo...17:31:02
+waiting for process to be finished...17:31:02
+loading phenotypes from db...17:32:16
+start chunking rif files...17:32:16
+empty chunk folder...17:32:16
+spliting file...17:32:16
+start queries ncbo...17:32:16
+waiting for process to be finished...17:32:16
+finish!17:32:24
+joining result...
+loading phenotypes from db...17:35:53
+start chunking rif files...17:35:53
+empty chunk folder...17:35:53
+spliting file...17:35:53
+start queries ncbo...17:35:53
+waiting for process to be finished...17:35:53
+finish!17:35:59
+joining result...
+loading phenotypes from db...18:16:33
+start chunking rif files...18:16:33
+empty chunk folder...18:16:33
+spliting file...18:16:33
+start queries ncbo...18:16:33
+waiting for process to be finished...18:16:33
+finish!18:16:40
+joining result...
+loading phenotypes from db...18:17:08
+start chunking rif files...18:17:09
+empty chunk folder...18:17:09
+spliting file...18:17:09
+start queries ncbo...18:17:09
+waiting for process to be finished...18:17:09
+finish!18:21:52
+joining result...
+inserting into db...20:54:03
+loading rifs from db...21:01:19
+start chunking rif files...21:01:19
+empty chunk folder...21:01:19
+spliting file...21:01:19
+start queries ncbo...21:01:19
+waiting for process to be finished...21:01:19
+finish!21:01:28
+joining result...
+loading rifs from db...21:07:46
+start chunking rif files...21:07:46
+empty chunk folder...21:07:46
+spliting file...21:07:46
+start queries ncbo...21:07:46
+waiting for process to be finished...21:07:46
+finish!21:07:53
+joining result...
+loading rifs from db...21:09:25
+start chunking rif files...21:09:25
+empty chunk folder...21:09:25
+spliting file...21:09:25
+start queries ncbo...21:09:25
+waiting for process to be finished...21:09:25
+finish!21:10:11
+joining result...
+loading rifs from db...21:11:36
+start chunking rif files...21:11:36
+empty chunk folder...21:11:36
+spliting file...21:11:36
+start queries ncbo...21:11:36
+waiting for process to be finished...21:11:36
+finish!21:11:43
+joining result...
+loading rifs from db...21:17:08
+start chunking rif files...21:17:08
+empty chunk folder...21:17:08
+spliting file...21:17:08
+start queries ncbo...21:17:08
+waiting for process to be finished...21:17:08
+finish!21:17:14
+joining result...
+loading rifs from db...21:17:29
+start chunking rif files...21:17:29
+empty chunk folder...21:17:29
+spliting file...21:17:29
+start queries ncbo...21:17:29
+waiting for process to be finished...21:17:29
+finish!21:17:35
+joining result...
+loading rifs from db...21:18:07
+start chunking rif files...21:18:07
+empty chunk folder...21:18:07
+spliting file...21:18:07
+start queries ncbo...21:18:07
+waiting for process to be finished...21:18:07
+finish!21:18:17
+joining result...
+loading OMIM disease from db...21:29:47
+start chunking rif files...21:29:48
+empty chunk folder...21:29:48
+spliting file...21:29:48
+start queries ncbo...21:29:48
+waiting for process to be finished...21:29:48
+finish!21:29:48
+joining result...
+inserting into db...21:29:48
+loading OMIM disease from db...21:30:40
+start chunking rif files...21:30:40
+empty chunk folder...21:30:40
+spliting file...21:30:40
+start queries ncbo...21:30:40
+waiting for process to be finished...21:30:40
+finish!21:30:40
+joining result...
+inserting into db...21:30:40
+loading OMIM disease from db...21:32:43
+start chunking rif files...21:32:43
+empty chunk folder...21:32:43
+spliting file...21:32:43
+loading OMIM disease from db...21:33:02
+start chunking rif files...21:33:02
+empty chunk folder...21:33:02
+spliting file...21:33:02
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+loading OMIM disease from db...21:33:06
+start chunking rif files...21:33:06
+empty chunk folder...21:33:06
+spliting file...21:33:06
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+loading OMIM disease from db...21:33:12
+start chunking rif files...21:33:12
+empty chunk folder...21:33:12
+spliting file...21:33:12
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+start queries ncbo...21:33:12
+waiting for process to be finished...21:33:12
+loading OMIM disease from db...21:34:42
+start chunking rif files...21:34:42
+empty chunk folder...21:34:42
+spliting file...21:34:42
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+start queries ncbo...21:34:42
+waiting for process to be finished...21:34:42
+finish!21:34:49
+joining result...
+./tmp/chunks/dis_chunk_000_parsed
+./tmp/chunks/dis_chunk_001_parsed
+./tmp/chunks/dis_chunk_002_parsed
+./tmp/chunks/dis_chunk_003_parsed
+./tmp/chunks/dis_chunk_004_parsed
+./tmp/chunks/dis_chunk_005_parsed
+./tmp/chunks/dis_chunk_006_parsed
+./tmp/chunks/dis_chunk_007_parsed
+./tmp/chunks/dis_chunk_008_parsed
+./tmp/chunks/dis_chunk_009_parsed
+./tmp/chunks/dis_chunk_010_parsed
+./tmp/chunks/dis_chunk_011_parsed
+./tmp/chunks/dis_chunk_012_parsed
+./tmp/chunks/dis_chunk_013_parsed
+./tmp/chunks/dis_chunk_014_parsed
+./tmp/chunks/dis_chunk_015_parsed
+./tmp/chunks/dis_chunk_016_parsed
+./tmp/chunks/dis_chunk_017_parsed
+./tmp/chunks/dis_chunk_018_parsed
+./tmp/chunks/dis_chunk_019_parsed
+./tmp/chunks/dis_chunk_020_parsed
+./tmp/chunks/dis_chunk_021_parsed
+./tmp/chunks/dis_chunk_022_parsed
+./tmp/chunks/dis_chunk_023_parsed
+./tmp/chunks/dis_chunk_024_parsed
+./tmp/chunks/dis_chunk_025_parsed
+./tmp/chunks/dis_chunk_026_parsed
+./tmp/chunks/dis_chunk_027_parsed
+./tmp/chunks/dis_chunk_028_parsed
+./tmp/chunks/dis_chunk_029_parsed
+./tmp/chunks/dis_chunk_030_parsed
+./tmp/chunks/dis_chunk_031_parsed
+./tmp/chunks/dis_chunk_032_parsed
+./tmp/chunks/dis_chunk_033_parsed
+./tmp/chunks/dis_chunk_034_parsed
+./tmp/chunks/dis_chunk_035_parsed
+./tmp/chunks/dis_chunk_036_parsed
+./tmp/chunks/dis_chunk_037_parsed
+./tmp/chunks/dis_chunk_038_parsed
+./tmp/chunks/dis_chunk_039_parsed
+inserting into db...21:34:49
+loading phenotypes from db...21:46:36
+start chunking rif files...21:46:36
+empty chunk folder...21:46:36
+spliting file...21:46:36
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...21:46:36
+waiting for process to be finished...21:46:36
+finish!21:46:42
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+./tmp/chunks/pts_chunk_010_parsed
+./tmp/chunks/pts_chunk_011_parsed
+./tmp/chunks/pts_chunk_012_parsed
+./tmp/chunks/pts_chunk_013_parsed
+./tmp/chunks/pts_chunk_014_parsed
+./tmp/chunks/pts_chunk_015_parsed
+./tmp/chunks/pts_chunk_016_parsed
+./tmp/chunks/pts_chunk_017_parsed
+./tmp/chunks/pts_chunk_018_parsed
+./tmp/chunks/pts_chunk_019_parsed
+./tmp/chunks/pts_chunk_020_parsed
+./tmp/chunks/pts_chunk_021_parsed
+./tmp/chunks/pts_chunk_022_parsed
+./tmp/chunks/pts_chunk_023_parsed
+./tmp/chunks/pts_chunk_024_parsed
+./tmp/chunks/pts_chunk_025_parsed
+./tmp/chunks/pts_chunk_026_parsed
+./tmp/chunks/pts_chunk_027_parsed
+./tmp/chunks/pts_chunk_028_parsed
+./tmp/chunks/pts_chunk_029_parsed
+./tmp/chunks/pts_chunk_030_parsed
+./tmp/chunks/pts_chunk_031_parsed
+./tmp/chunks/pts_chunk_032_parsed
+./tmp/chunks/pts_chunk_033_parsed
+./tmp/chunks/pts_chunk_034_parsed
+./tmp/chunks/pts_chunk_035_parsed
+./tmp/chunks/pts_chunk_036_parsed
+./tmp/chunks/pts_chunk_037_parsed
+./tmp/chunks/pts_chunk_038_parsed
+./tmp/chunks/pts_chunk_039_parsed
+inserting into db...21:46:42
+loading phenotypes from db...21:47:30
+start chunking rif files...21:47:31
+empty chunk folder...21:47:31
+spliting file...21:47:31
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...21:47:31
+waiting for process to be finished...21:47:31
+finish!21:47:36
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+./tmp/chunks/pts_chunk_010_parsed
+./tmp/chunks/pts_chunk_011_parsed
+./tmp/chunks/pts_chunk_012_parsed
+./tmp/chunks/pts_chunk_013_parsed
+./tmp/chunks/pts_chunk_014_parsed
+./tmp/chunks/pts_chunk_015_parsed
+./tmp/chunks/pts_chunk_016_parsed
+./tmp/chunks/pts_chunk_017_parsed
+./tmp/chunks/pts_chunk_018_parsed
+./tmp/chunks/pts_chunk_019_parsed
+./tmp/chunks/pts_chunk_020_parsed
+./tmp/chunks/pts_chunk_021_parsed
+./tmp/chunks/pts_chunk_022_parsed
+./tmp/chunks/pts_chunk_023_parsed
+./tmp/chunks/pts_chunk_024_parsed
+./tmp/chunks/pts_chunk_025_parsed
+./tmp/chunks/pts_chunk_026_parsed
+./tmp/chunks/pts_chunk_027_parsed
+./tmp/chunks/pts_chunk_028_parsed
+./tmp/chunks/pts_chunk_029_parsed
+./tmp/chunks/pts_chunk_030_parsed
+./tmp/chunks/pts_chunk_031_parsed
+./tmp/chunks/pts_chunk_032_parsed
+./tmp/chunks/pts_chunk_033_parsed
+./tmp/chunks/pts_chunk_034_parsed
+./tmp/chunks/pts_chunk_035_parsed
+./tmp/chunks/pts_chunk_036_parsed
+./tmp/chunks/pts_chunk_037_parsed
+./tmp/chunks/pts_chunk_038_parsed
+./tmp/chunks/pts_chunk_039_parsed
+inserting into db...21:47:36
+loading phenotypes from db...21:48:01
+start chunking rif files...21:48:01
+empty chunk folder...21:48:01
+spliting file...21:48:01
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...21:48:01
+waiting for process to be finished...21:48:01
+finish!21:48:07
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+./tmp/chunks/pts_chunk_010_parsed
+./tmp/chunks/pts_chunk_011_parsed
+./tmp/chunks/pts_chunk_012_parsed
+./tmp/chunks/pts_chunk_013_parsed
+./tmp/chunks/pts_chunk_014_parsed
+./tmp/chunks/pts_chunk_015_parsed
+./tmp/chunks/pts_chunk_016_parsed
+./tmp/chunks/pts_chunk_017_parsed
+./tmp/chunks/pts_chunk_018_parsed
+./tmp/chunks/pts_chunk_019_parsed
+./tmp/chunks/pts_chunk_020_parsed
+./tmp/chunks/pts_chunk_021_parsed
+./tmp/chunks/pts_chunk_022_parsed
+./tmp/chunks/pts_chunk_023_parsed
+./tmp/chunks/pts_chunk_024_parsed
+./tmp/chunks/pts_chunk_025_parsed
+./tmp/chunks/pts_chunk_026_parsed
+./tmp/chunks/pts_chunk_027_parsed
+./tmp/chunks/pts_chunk_028_parsed
+./tmp/chunks/pts_chunk_029_parsed
+./tmp/chunks/pts_chunk_030_parsed
+./tmp/chunks/pts_chunk_031_parsed
+./tmp/chunks/pts_chunk_032_parsed
+./tmp/chunks/pts_chunk_033_parsed
+./tmp/chunks/pts_chunk_034_parsed
+./tmp/chunks/pts_chunk_035_parsed
+./tmp/chunks/pts_chunk_036_parsed
+./tmp/chunks/pts_chunk_037_parsed
+./tmp/chunks/pts_chunk_038_parsed
+./tmp/chunks/pts_chunk_039_parsed
+inserting into db...21:48:07
+loading phenotypes from db...21:50:04
+start chunking rif files...21:50:04
+empty chunk folder...21:50:04
+spliting file...21:50:04
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...21:50:04
+waiting for process to be finished...21:50:04
+finish!21:50:10
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+./tmp/chunks/pts_chunk_010_parsed
+./tmp/chunks/pts_chunk_011_parsed
+./tmp/chunks/pts_chunk_012_parsed
+./tmp/chunks/pts_chunk_013_parsed
+./tmp/chunks/pts_chunk_014_parsed
+./tmp/chunks/pts_chunk_015_parsed
+./tmp/chunks/pts_chunk_016_parsed
+./tmp/chunks/pts_chunk_017_parsed
+./tmp/chunks/pts_chunk_018_parsed
+./tmp/chunks/pts_chunk_019_parsed
+./tmp/chunks/pts_chunk_020_parsed
+./tmp/chunks/pts_chunk_021_parsed
+./tmp/chunks/pts_chunk_022_parsed
+./tmp/chunks/pts_chunk_023_parsed
+./tmp/chunks/pts_chunk_024_parsed
+./tmp/chunks/pts_chunk_025_parsed
+./tmp/chunks/pts_chunk_026_parsed
+./tmp/chunks/pts_chunk_027_parsed
+./tmp/chunks/pts_chunk_028_parsed
+./tmp/chunks/pts_chunk_029_parsed
+./tmp/chunks/pts_chunk_030_parsed
+./tmp/chunks/pts_chunk_031_parsed
+./tmp/chunks/pts_chunk_032_parsed
+./tmp/chunks/pts_chunk_033_parsed
+./tmp/chunks/pts_chunk_034_parsed
+./tmp/chunks/pts_chunk_035_parsed
+./tmp/chunks/pts_chunk_036_parsed
+./tmp/chunks/pts_chunk_037_parsed
+./tmp/chunks/pts_chunk_038_parsed
+./tmp/chunks/pts_chunk_039_parsed
+inserting into db...21:50:10
+loading phenotypes from db...21:51:40
+start chunking rif files...21:51:40
+empty chunk folder...21:51:40
+spliting file...21:51:40
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...21:51:40
+waiting for process to be finished...21:51:41
+finish!21:51:47
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+./tmp/chunks/pts_chunk_010_parsed
+./tmp/chunks/pts_chunk_011_parsed
+./tmp/chunks/pts_chunk_012_parsed
+./tmp/chunks/pts_chunk_013_parsed
+./tmp/chunks/pts_chunk_014_parsed
+./tmp/chunks/pts_chunk_015_parsed
+./tmp/chunks/pts_chunk_016_parsed
+./tmp/chunks/pts_chunk_017_parsed
+./tmp/chunks/pts_chunk_018_parsed
+./tmp/chunks/pts_chunk_019_parsed
+./tmp/chunks/pts_chunk_020_parsed
+./tmp/chunks/pts_chunk_021_parsed
+./tmp/chunks/pts_chunk_022_parsed
+./tmp/chunks/pts_chunk_023_parsed
+./tmp/chunks/pts_chunk_024_parsed
+./tmp/chunks/pts_chunk_025_parsed
+./tmp/chunks/pts_chunk_026_parsed
+./tmp/chunks/pts_chunk_027_parsed
+./tmp/chunks/pts_chunk_028_parsed
+./tmp/chunks/pts_chunk_029_parsed
+./tmp/chunks/pts_chunk_030_parsed
+./tmp/chunks/pts_chunk_031_parsed
+./tmp/chunks/pts_chunk_032_parsed
+./tmp/chunks/pts_chunk_033_parsed
+./tmp/chunks/pts_chunk_034_parsed
+./tmp/chunks/pts_chunk_035_parsed
+./tmp/chunks/pts_chunk_036_parsed
+./tmp/chunks/pts_chunk_037_parsed
+./tmp/chunks/pts_chunk_038_parsed
+./tmp/chunks/pts_chunk_039_parsed
+inserting into db...21:51:47
+loading rifs from db...21:56:11
+start chunking rif files...21:56:11
+empty chunk folder...21:56:11
+spliting file...21:56:11
+start queries ncbo...21:56:11
+waiting for process to be finished...21:56:11
+finish!21:56:17
+joining result...
+loading rifs from db...21:58:21
+start chunking rif files...21:58:21
+empty chunk folder...21:58:21
+spliting file...21:58:21
+start queries ncbo...21:58:21
+waiting for process to be finished...21:58:22
+finish!21:58:28
+joining result...
+loading rifs from db...21:58:38
+start chunking rif files...21:58:38
+empty chunk folder...21:58:38
+spliting file...21:58:38
+start queries ncbo...21:58:38
+waiting for process to be finished...21:58:38
+finish!21:58:44
+joining result...
+loading rifs from db...21:59:59
+start chunking rif files...21:59:59
+empty chunk folder...21:59:59
+spliting file...21:59:59
+start queries ncbo...21:59:59
+waiting for process to be finished...21:59:59
+finish!22:00:06
+joining result...
+loading rifs from db...22:00:34
+start chunking rif files...22:00:34
+empty chunk folder...22:00:34
+spliting file...22:00:34
+start queries ncbo...22:00:34
+waiting for process to be finished...22:00:34
+finish!22:00:40
+joining result...
+loading rifs from db...22:00:59
+start chunking rif files...22:01:00
+empty chunk folder...22:01:00
+spliting file...22:01:00
+start queries ncbo...22:01:00
+waiting for process to be finished...22:01:00
+finish!22:01:06
+joining result...
+loading OMIM disease from db...22:03:29
+start chunking rif files...22:03:29
+empty chunk folder...22:03:29
+spliting file...22:03:29
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+start queries ncbo...22:03:29
+waiting for process to be finished...22:03:29
+finish!22:03:36
+joining result...
+./tmp/chunks/dis_chunk_000_parsed
+./tmp/chunks/dis_chunk_001_parsed
+./tmp/chunks/dis_chunk_002_parsed
+./tmp/chunks/dis_chunk_003_parsed
+./tmp/chunks/dis_chunk_004_parsed
+./tmp/chunks/dis_chunk_005_parsed
+./tmp/chunks/dis_chunk_006_parsed
+./tmp/chunks/dis_chunk_007_parsed
+./tmp/chunks/dis_chunk_008_parsed
+./tmp/chunks/dis_chunk_009_parsed
+./tmp/chunks/dis_chunk_010_parsed
+./tmp/chunks/dis_chunk_011_parsed
+./tmp/chunks/dis_chunk_012_parsed
+./tmp/chunks/dis_chunk_013_parsed
+./tmp/chunks/dis_chunk_014_parsed
+./tmp/chunks/dis_chunk_015_parsed
+./tmp/chunks/dis_chunk_016_parsed
+./tmp/chunks/dis_chunk_017_parsed
+./tmp/chunks/dis_chunk_018_parsed
+./tmp/chunks/dis_chunk_019_parsed
+./tmp/chunks/dis_chunk_020_parsed
+./tmp/chunks/dis_chunk_021_parsed
+./tmp/chunks/dis_chunk_022_parsed
+./tmp/chunks/dis_chunk_023_parsed
+./tmp/chunks/dis_chunk_024_parsed
+./tmp/chunks/dis_chunk_025_parsed
+./tmp/chunks/dis_chunk_026_parsed
+./tmp/chunks/dis_chunk_027_parsed
+./tmp/chunks/dis_chunk_028_parsed
+./tmp/chunks/dis_chunk_029_parsed
+./tmp/chunks/dis_chunk_030_parsed
+./tmp/chunks/dis_chunk_031_parsed
+./tmp/chunks/dis_chunk_032_parsed
+./tmp/chunks/dis_chunk_033_parsed
+./tmp/chunks/dis_chunk_034_parsed
+./tmp/chunks/dis_chunk_035_parsed
+./tmp/chunks/dis_chunk_036_parsed
+./tmp/chunks/dis_chunk_037_parsed
+./tmp/chunks/dis_chunk_038_parsed
+./tmp/chunks/dis_chunk_039_parsed
+inserting into db...22:03:36
+loading phenotypes from db...22:07:59
+start chunking rif files...22:07:59
+empty chunk folder...22:07:59
+spliting file...22:07:59
+start queries ncbo...22:07:59
+waiting for process to be finished...22:07:59
+finish!22:07:59
+joining result...
+inserting into db...22:07:59
+loading OMIM disease from db...22:07:59
+start chunking rif files...22:07:59
+empty chunk folder...22:07:59
+spliting file...22:07:59
+start queries ncbo...22:07:59
+waiting for process to be finished...22:07:59
+finish!22:07:59
+joining result...
+inserting into db...22:07:59
+loading OMIM disease from db...22:10:45
+start chunking rif files...22:10:45
+empty chunk folder...22:10:45
+spliting file...22:10:45
+start queries ncbo...22:10:45
+waiting for process to be finished...22:10:45
+finish!22:10:45
+joining result...
+inserting into db...22:10:45
+loading OMIM disease from db...22:11:31
+start chunking rif files...22:11:31
+empty chunk folder...22:11:31
+spliting file...22:11:31
+start queries ncbo...22:11:31
+waiting for process to be finished...22:11:31
+finish!22:11:31
+joining result...
+inserting into db...22:11:31
+loading OMIM disease from db...22:11:42
+start chunking rif files...22:11:42
+empty chunk folder...22:11:42
+spliting file...22:11:42
+start queries ncbo...22:11:43
+waiting for process to be finished...22:11:43
+finish!22:11:43
+joining result...
+inserting into db...22:11:43
+loading OMIM disease from db...22:11:46
+start chunking rif files...22:11:46
+empty chunk folder...22:11:46
+spliting file...22:11:46
+start queries ncbo...22:11:46
+waiting for process to be finished...22:11:46
+finish!22:11:46
+joining result...
+inserting into db...22:11:46
+loading phenotypes from db...22:17:12
+start chunking rif files...22:17:12
+empty chunk folder...22:17:12
+spliting file...22:17:12
+loading phenotypes from db...22:17:38
+start chunking rif files...22:17:38
+empty chunk folder...22:17:38
+spliting file...22:17:38
+loading phenotypes from db...22:19:01
+start chunking rif files...22:19:01
+empty chunk folder...22:19:01
+spliting file...22:19:01
+loading phenotypes from db...22:20:16
+start chunking rif files...22:20:16
+empty chunk folder...22:20:16
+spliting file...22:20:16
+loading phenotypes from db...22:21:02
+start chunking rif files...22:21:02
+empty chunk folder...22:21:02
+spliting file...22:21:02
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...22:21:02
+waiting for process to be finished...22:21:02
+finish!22:21:09
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+inserting into db...22:21:09
+loading phenotypes from db...22:21:49
+start chunking rif files...22:21:49
+empty chunk folder...22:21:49
+spliting file...22:21:49
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...22:21:49
+waiting for process to be finished...22:21:50
+finish!22:21:56
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+inserting into db...22:21:56
+loading OMIM disease from db...22:21:56
+start chunking rif files...22:21:56
+empty chunk folder...22:21:56
+spliting file...22:21:56
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+start queries ncbo...22:21:56
+waiting for process to be finished...22:21:56
+finish!22:22:03
+joining result...
+./ncbo_data/omim/tmp/chunks/dis_chunk_000_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_001_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_002_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_003_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_004_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_005_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_006_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_007_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_008_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_009_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_010_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_011_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_012_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_013_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_014_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_015_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_016_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_017_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_018_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_019_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_020_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_021_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_022_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_023_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_024_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_025_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_026_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_027_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_028_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_029_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_030_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_031_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_032_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_033_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_034_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_035_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_036_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_037_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_038_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_039_parsed
+inserting into db...22:22:03
+loading phenotypes from db...22:23:25
+start chunking rif files...22:23:25
+empty chunk folder...22:23:25
+spliting file...22:23:25
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+start queries ncbo...22:23:25
+waiting for process to be finished...22:23:25
+finish!22:23:31
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+inserting into db...22:23:31
+loading OMIM disease from db...22:23:31
+start chunking rif files...22:23:31
+empty chunk folder...22:23:31
+spliting file...22:23:31
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+start queries ncbo...22:23:31
+waiting for process to be finished...22:23:31
+finish!22:23:38
+joining result...
+./ncbo_data/omim/tmp/chunks/dis_chunk_000_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_001_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_002_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_003_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_004_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_005_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_006_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_007_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_008_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_009_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_010_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_011_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_012_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_013_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_014_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_015_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_016_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_017_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_018_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_019_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_020_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_021_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_022_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_023_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_024_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_025_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_026_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_027_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_028_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_029_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_030_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_031_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_032_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_033_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_034_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_035_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_036_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_037_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_038_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_039_parsed
+inserting into db...22:23:38
+loading rifs from db...22:23:38
+start chunking rif files...22:23:38
+empty chunk folder...22:23:38
+spliting file...22:23:38
+start queries ncbo...22:23:38
+waiting for process to be finished...22:23:38
+finish!22:23:45
+joining result...
+loading phenotypes from db...01:40:18
+start chunking rif files...01:40:19
+empty chunk folder...01:40:19
+spliting file...01:40:19
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+start queries ncbo...01:40:19
+waiting for process to be finished...01:40:19
+finish!01:40:26
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_040_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_041_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_042_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_043_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_044_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_045_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_046_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_047_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_048_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_049_parsed
+inserting into db...01:40:26
+loading OMIM disease from db...01:40:26
+start chunking rif files...01:40:26
+empty chunk folder...01:40:26
+spliting file...01:40:26
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+dis_chunk_040
+dis_chunk_041
+dis_chunk_042
+dis_chunk_043
+dis_chunk_044
+dis_chunk_045
+dis_chunk_046
+dis_chunk_047
+dis_chunk_048
+dis_chunk_049
+start queries ncbo...01:40:27
+waiting for process to be finished...01:40:27
+finish!01:40:33
+joining result...
+./ncbo_data/omim/tmp/chunks/dis_chunk_000_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_001_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_002_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_003_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_004_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_005_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_006_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_007_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_008_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_009_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_010_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_011_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_012_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_013_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_014_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_015_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_016_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_017_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_018_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_019_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_020_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_021_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_022_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_023_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_024_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_025_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_026_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_027_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_028_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_029_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_030_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_031_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_032_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_033_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_034_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_035_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_036_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_037_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_038_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_039_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_040_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_041_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_042_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_043_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_044_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_045_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_046_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_047_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_048_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_049_parsed
+inserting into db...01:40:33
+loading rifs from db...01:40:34
+start chunking rif files...01:40:34
+empty chunk folder...01:40:34
+spliting file...01:40:34
+start queries ncbo...01:40:34
+waiting for process to be finished...01:40:34
+finish!01:40:41
+joining result...
+loading phenotypes from db...01:42:38
+start chunking rif files...01:42:38
+empty chunk folder...01:42:38
+spliting file...01:42:38
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+start queries ncbo...01:42:38
+waiting for process to be finished...01:42:39
+finish!01:42:43
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_040_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_041_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_042_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_043_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_044_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_045_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_046_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_047_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_048_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_049_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_050_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_051_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_052_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_053_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_054_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_055_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_056_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_057_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_058_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_059_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_060_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_061_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_062_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_063_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_064_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_065_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_066_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_067_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_068_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_069_parsed
+inserting into db...01:42:43
+loading OMIM disease from db...01:42:43
+start chunking rif files...01:42:43
+empty chunk folder...01:42:43
+spliting file...01:42:43
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+dis_chunk_040
+dis_chunk_041
+dis_chunk_042
+dis_chunk_043
+dis_chunk_044
+dis_chunk_045
+dis_chunk_046
+dis_chunk_047
+dis_chunk_048
+dis_chunk_049
+dis_chunk_050
+dis_chunk_051
+dis_chunk_052
+dis_chunk_053
+dis_chunk_054
+dis_chunk_055
+dis_chunk_056
+dis_chunk_057
+dis_chunk_058
+dis_chunk_059
+dis_chunk_060
+dis_chunk_061
+dis_chunk_062
+dis_chunk_063
+dis_chunk_064
+dis_chunk_065
+dis_chunk_066
+dis_chunk_067
+dis_chunk_068
+dis_chunk_069
+start queries ncbo...01:42:43
+waiting for process to be finished...01:42:44
+loading phenotypes from db...01:43:19
+start chunking rif files...01:43:19
+empty chunk folder...01:43:19
+spliting file...01:43:19
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+start queries ncbo...01:43:19
+waiting for process to be finished...01:43:20
+loading phenotypes from db...01:49:20
+start chunking rif files...01:49:20
+empty chunk folder...01:49:20
+spliting file...01:49:20
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+start queries ncbo...01:49:20
+waiting for process to be finished...01:49:21
+loading phenotypes from db...01:49:39
+start chunking rif files...01:49:39
+empty chunk folder...01:49:39
+spliting file...01:49:39
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+pts_chunk_070
+pts_chunk_071
+pts_chunk_072
+pts_chunk_073
+pts_chunk_074
+pts_chunk_075
+pts_chunk_076
+pts_chunk_077
+pts_chunk_078
+pts_chunk_079
+start queries ncbo...01:49:39
+waiting for process to be finished...01:49:40
+loading phenotypes from db...01:50:19
+start chunking rif files...01:50:20
+empty chunk folder...01:50:20
+spliting file...01:50:20
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+pts_chunk_070
+pts_chunk_071
+pts_chunk_072
+pts_chunk_073
+pts_chunk_074
+pts_chunk_075
+pts_chunk_076
+pts_chunk_077
+pts_chunk_078
+pts_chunk_079
+pts_chunk_080
+pts_chunk_081
+pts_chunk_082
+pts_chunk_083
+pts_chunk_084
+pts_chunk_085
+pts_chunk_086
+pts_chunk_087
+pts_chunk_088
+pts_chunk_089
+pts_chunk_090
+pts_chunk_091
+pts_chunk_092
+pts_chunk_093
+pts_chunk_094
+pts_chunk_095
+pts_chunk_096
+pts_chunk_097
+pts_chunk_098
+pts_chunk_099
+start queries ncbo...01:50:20
+waiting for process to be finished...01:50:20
+loading phenotypes from db...01:51:35
+start chunking rif files...01:51:37
+empty chunk folder...01:51:37
+spliting file...01:51:37
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+pts_chunk_050
+pts_chunk_051
+pts_chunk_052
+pts_chunk_053
+pts_chunk_054
+pts_chunk_055
+pts_chunk_056
+pts_chunk_057
+pts_chunk_058
+pts_chunk_059
+pts_chunk_060
+pts_chunk_061
+pts_chunk_062
+pts_chunk_063
+pts_chunk_064
+pts_chunk_065
+pts_chunk_066
+pts_chunk_067
+pts_chunk_068
+pts_chunk_069
+start queries ncbo...01:51:37
+waiting for process to be finished...01:51:38
+loading phenotypes from db...01:59:46
+start chunking rif files...01:59:47
+empty chunk folder...01:59:47
+spliting file...01:59:47
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+start queries ncbo...01:59:47
+waiting for process to be finished...01:59:47
+finish!02:02:31
+joining result...
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_000_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_001_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_002_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_003_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_004_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_005_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_006_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_007_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_008_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_009_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_010_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_011_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_012_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_013_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_014_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_015_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_016_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_017_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_018_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_019_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_020_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_021_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_022_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_023_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_024_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_025_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_026_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_027_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_028_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_029_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_030_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_031_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_032_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_033_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_034_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_035_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_036_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_037_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_038_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_039_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_040_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_041_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_042_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_043_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_044_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_045_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_046_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_047_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_048_parsed
+./ncbo_data/ensmebl/tmp/chunks/pts_chunk_049_parsed
+inserting into db...02:02:31
+loading OMIM disease from db...02:02:31
+start chunking rif files...02:02:31
+empty chunk folder...02:02:31
+spliting file...02:02:32
+dis_chunk_000
+dis_chunk_001
+dis_chunk_002
+dis_chunk_003
+dis_chunk_004
+dis_chunk_005
+dis_chunk_006
+dis_chunk_007
+dis_chunk_008
+dis_chunk_009
+dis_chunk_010
+dis_chunk_011
+dis_chunk_012
+dis_chunk_013
+dis_chunk_014
+dis_chunk_015
+dis_chunk_016
+dis_chunk_017
+dis_chunk_018
+dis_chunk_019
+dis_chunk_020
+dis_chunk_021
+dis_chunk_022
+dis_chunk_023
+dis_chunk_024
+dis_chunk_025
+dis_chunk_026
+dis_chunk_027
+dis_chunk_028
+dis_chunk_029
+dis_chunk_030
+dis_chunk_031
+dis_chunk_032
+dis_chunk_033
+dis_chunk_034
+dis_chunk_035
+dis_chunk_036
+dis_chunk_037
+dis_chunk_038
+dis_chunk_039
+dis_chunk_040
+dis_chunk_041
+dis_chunk_042
+dis_chunk_043
+dis_chunk_044
+dis_chunk_045
+dis_chunk_046
+dis_chunk_047
+dis_chunk_048
+dis_chunk_049
+start queries ncbo...02:02:32
+waiting for process to be finished...02:02:32
+finish!02:04:14
+joining result...
+./ncbo_data/omim/tmp/chunks/dis_chunk_000_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_001_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_002_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_003_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_004_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_005_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_006_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_007_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_008_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_009_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_010_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_011_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_012_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_013_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_014_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_015_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_016_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_017_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_018_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_019_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_020_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_021_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_022_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_023_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_024_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_025_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_026_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_027_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_028_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_029_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_030_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_031_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_032_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_033_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_034_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_035_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_036_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_037_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_038_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_039_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_040_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_041_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_042_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_043_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_044_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_045_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_046_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_047_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_048_parsed
+./ncbo_data/omim/tmp/chunks/dis_chunk_049_parsed
+inserting into db...02:04:14
+loading rifs from db...02:04:15
+start chunking rif files...02:04:24
+empty chunk folder...02:04:24
+spliting file...02:04:24
+start queries ncbo...02:04:24
+waiting for process to be finished...02:04:24
+finish!04:25:36
+joining result...
+loading rifs from db...15:57:28
+loading rifs from db...16:07:24
+loading rifs from db...16:09:47
+loading rifs from db...16:19:29
+loading rifs from db...16:19:42
+loading rifs from db...16:20:34
+loading rifs from db...16:21:19
+loading rifs from db...16:22:08
+loading rifs from db...16:27:35
+start chunking rif files...16:27:44
+empty chunk folder...16:27:44
+spliting file...16:27:44
+start queries ncbo...16:27:44
+waiting for process to be finished...16:27:44
+loading rifs from db...16:29:04
+start chunking rif files...16:29:15
+empty chunk folder...16:29:15
+spliting file...16:29:15
+rifs_chunk_000
+rifs_chunk_001
+rifs_chunk_002
+rifs_chunk_003
+rifs_chunk_004
+rifs_chunk_005
+rifs_chunk_006
+rifs_chunk_007
+rifs_chunk_008
+rifs_chunk_009
+rifs_chunk_010
+rifs_chunk_011
+rifs_chunk_012
+rifs_chunk_013
+rifs_chunk_014
+rifs_chunk_015
+rifs_chunk_016
+rifs_chunk_017
+rifs_chunk_018
+rifs_chunk_019
+rifs_chunk_020
+rifs_chunk_021
+rifs_chunk_022
+rifs_chunk_023
+rifs_chunk_024
+rifs_chunk_025
+rifs_chunk_026
+rifs_chunk_027
+rifs_chunk_028
+rifs_chunk_029
+rifs_chunk_030
+rifs_chunk_031
+rifs_chunk_032
+rifs_chunk_033
+rifs_chunk_034
+rifs_chunk_035
+rifs_chunk_036
+rifs_chunk_037
+rifs_chunk_038
+rifs_chunk_039
+rifs_chunk_040
+rifs_chunk_041
+rifs_chunk_042
+rifs_chunk_043
+rifs_chunk_044
+rifs_chunk_045
+rifs_chunk_046
+rifs_chunk_047
+rifs_chunk_048
+rifs_chunk_049
+start queries ncbo...16:29:15
+waiting for process to be finished...16:29:15
+loading phenotypes from db...16:44:37
+loading phenotypes from db...16:46:26
+start chunking files...16:46:26
+empty chunk folder...16:46:26
+spliting file...16:46:26
+loading phenotypes from db...16:46:37
+start chunking files...16:46:37
+empty chunk folder...16:46:37
+spliting file...16:46:37
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+loading phenotypes from db...16:49:12
+start chunking files...16:49:13
+empty chunk folder...16:49:13
+spliting file...16:49:13
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+start metamap mapping...16:49:13
+loading phenotypes from db...16:49:34
+start chunking files...16:49:34
+empty chunk folder...16:49:34
+spliting file...16:49:34
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+pts_chunk_030
+pts_chunk_031
+pts_chunk_032
+pts_chunk_033
+pts_chunk_034
+pts_chunk_035
+pts_chunk_036
+pts_chunk_037
+pts_chunk_038
+pts_chunk_039
+pts_chunk_040
+pts_chunk_041
+pts_chunk_042
+pts_chunk_043
+pts_chunk_044
+pts_chunk_045
+pts_chunk_046
+pts_chunk_047
+pts_chunk_048
+pts_chunk_049
+start metamap mapping...16:49:34
+loading phenotypes from db...16:53:40
+start chunking files...16:53:40
+empty chunk folder...16:53:40
+spliting file...16:53:40
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...16:53:40
+waiting for process to be finished...16:53:40
+finish!16:53:51
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+loading phenotypes from db...16:58:44
+start chunking files...16:58:44
+empty chunk folder...16:58:44
+spliting file...16:58:44
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...16:58:44
+waiting for process to be finished...16:58:44
+finish!16:58:54
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!16:58:54
+loading phenotypes from db...17:01:32
+start chunking files...17:01:32
+empty chunk folder...17:01:32
+spliting file...17:01:32
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:01:32
+waiting for process to be finished...17:01:32
+finish!17:01:42
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!17:01:42
+Parsing result...17:01:42
+loading phenotypes from db...17:11:31
+start chunking files...17:11:31
+empty chunk folder...17:11:31
+spliting file...17:11:31
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:11:31
+waiting for process to be finished...17:11:31
+finish!17:11:40
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!17:11:40
+Parsing result...17:11:40
+loading phenotypes from db...17:30:11
+start chunking files...17:30:11
+empty chunk folder...17:30:11
+spliting file...17:30:11
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:30:11
+waiting for process to be finished...17:30:11
+loading phenotypes from db...17:30:18
+start chunking files...17:30:18
+empty chunk folder...17:30:18
+spliting file...17:30:18
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:30:18
+waiting for process to be finished...17:30:18
+finish!17:30:31
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!17:30:31
+Parsing result...17:30:31
+inserting into db...17:30:31
+loading phenotypes from db...17:32:05
+start chunking files...17:32:05
+empty chunk folder...17:32:05
+spliting file...17:32:05
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:32:05
+waiting for process to be finished...17:32:05
+finish!17:32:15
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!17:32:15
+Parsing result...17:32:15
+inserting into db...17:32:15
+loading phenotypes from db...17:40:53
+start chunking files...17:40:53
+empty chunk folder...17:40:53
+spliting file...17:40:53
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...17:40:53
+waiting for process to be finished...17:40:53
+loading OMIM disease from db...17:41:06
+start chunking files...17:41:06
+empty chunk folder...17:41:06
+spliting file...17:41:06
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+loading OMIM disease from db...17:41:49
+start chunking files...17:41:49
+empty chunk folder...17:41:49
+spliting file...17:41:49
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+start metamap mapping...17:41:49
+waiting for process to be finished...17:41:49
+finish!17:41:49
+joining result...
+done!17:41:49
+loading OMIM disease from db...17:42:23
+start chunking files...17:42:23
+empty chunk folder...17:42:23
+spliting file...17:42:23
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+start metamap mapping...17:42:23
+waiting for process to be finished...17:42:23
+loading OMIM disease from db...17:42:39
+loading OMIM disease from db...17:42:44
+start chunking files...17:42:44
+empty chunk folder...17:42:44
+spliting file...17:42:44
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:42:44
+waiting for process to be finished...17:42:44
+finish!17:42:50
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:42:50
+loading OMIM disease from db...17:46:32
+start chunking files...17:46:32
+empty chunk folder...17:46:32
+spliting file...17:46:32
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:46:32
+waiting for process to be finished...17:46:32
+finish!17:46:38
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:46:38
+loading OMIM disease from db...17:49:28
+start chunking files...17:49:28
+empty chunk folder...17:49:28
+spliting file...17:49:28
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:49:28
+waiting for process to be finished...17:49:28
+finish!17:49:33
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:49:34
+Parsing result...17:49:34
+loading OMIM disease from db...17:51:05
+start chunking files...17:51:05
+empty chunk folder...17:51:05
+spliting file...17:51:05
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:51:05
+waiting for process to be finished...17:51:05
+finish!17:51:12
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:51:12
+Parsing result...17:51:12
+loading OMIM disease from db...17:53:39
+start chunking files...17:53:39
+empty chunk folder...17:53:39
+spliting file...17:53:39
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:53:39
+waiting for process to be finished...17:53:39
+finish!17:53:45
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:53:45
+Parsing result...17:53:45
+loading OMIM disease from db...17:54:21
+start chunking files...17:54:21
+empty chunk folder...17:54:21
+spliting file...17:54:21
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:54:21
+waiting for process to be finished...17:54:21
+finish!17:54:28
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:54:28
+Parsing result...17:54:28
+loading OMIM disease from db...17:56:37
+start chunking files...17:56:37
+empty chunk folder...17:56:37
+spliting file...17:56:37
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...17:56:37
+waiting for process to be finished...17:56:37
+finish!17:56:43
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!17:56:43
+Parsing result...17:56:43
+loading OMIM disease from db...18:03:40
+start chunking files...18:03:40
+empty chunk folder...18:03:40
+spliting file...18:03:40
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:03:40
+waiting for process to be finished...18:03:40
+finish!18:03:47
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!18:03:47
+Parsing result...18:03:47
+loading OMIM disease from db...18:07:16
+start chunking files...18:07:16
+empty chunk folder...18:07:16
+spliting file...18:07:16
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:07:16
+waiting for process to be finished...18:07:17
+finish!18:07:22
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!18:07:22
+Parsing result...18:07:22
+inserting into db...18:07:22
+loading OMIM disease from db...18:09:11
+start chunking files...18:09:11
+empty chunk folder...18:09:11
+spliting file...18:09:11
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:09:11
+waiting for process to be finished...18:09:11
+finish!18:09:18
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!18:09:18
+Parsing result...18:09:18
+inserting into db...18:09:18
+loading OMIM disease from db...18:09:41
+start chunking files...18:09:41
+empty chunk folder...18:09:41
+spliting file...18:09:41
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:09:41
+waiting for process to be finished...18:09:41
+finish!18:09:47
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!18:09:47
+Parsing result...18:09:47
+inserting into db...18:09:47
+loading OMIM disease from db...18:10:01
+start chunking files...18:10:01
+empty chunk folder...18:10:01
+spliting file...18:10:01
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:10:01
+waiting for process to be finished...18:10:01
+finish!18:10:07
+joining result...
+./tmp/chunks/des_chunk_000_parsed
+./tmp/chunks/des_chunk_001_parsed
+./tmp/chunks/des_chunk_002_parsed
+./tmp/chunks/des_chunk_003_parsed
+./tmp/chunks/des_chunk_004_parsed
+./tmp/chunks/des_chunk_005_parsed
+./tmp/chunks/des_chunk_006_parsed
+./tmp/chunks/des_chunk_007_parsed
+./tmp/chunks/des_chunk_008_parsed
+./tmp/chunks/des_chunk_009_parsed
+done!18:10:07
+Parsing result...18:10:07
+inserting into db...18:10:07
+loading phenotypes from db...18:10:57
+start chunking files...18:10:57
+empty chunk folder...18:10:57
+spliting file...18:10:57
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...18:10:57
+waiting for process to be finished...18:10:57
+finish!18:11:07
+joining result...
+./tmp/chunks/pts_chunk_000_parsed
+./tmp/chunks/pts_chunk_001_parsed
+./tmp/chunks/pts_chunk_002_parsed
+./tmp/chunks/pts_chunk_003_parsed
+./tmp/chunks/pts_chunk_004_parsed
+./tmp/chunks/pts_chunk_005_parsed
+./tmp/chunks/pts_chunk_006_parsed
+./tmp/chunks/pts_chunk_007_parsed
+./tmp/chunks/pts_chunk_008_parsed
+./tmp/chunks/pts_chunk_009_parsed
+done!18:11:07
+Parsing result...18:11:07
+inserting into db...18:11:07
+loading phenotypes from db...18:14:56
+start chunking files...18:14:57
+empty chunk folder...18:14:57
+spliting file...18:14:57
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+start metamap mapping...18:14:57
+waiting for process to be finished...18:14:57
+finish!18:24:47
+joining result...
+./metamap_data/ensembl/tmp/chunks/pts_chunk_000_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_001_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_002_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_003_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_004_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_005_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_006_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_007_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_008_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_009_parsed
+done!18:24:48
+Parsing result...18:24:48
+inserting into db...18:24:48
+loading OMIM disease from db...18:24:48
+start chunking files...18:24:48
+empty chunk folder...18:24:48
+spliting file...18:24:48
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...18:24:48
+waiting for process to be finished...18:24:48
+finish!18:31:35
+joining result...
+./metamap_data/omim/tmp/chunks/des_chunk_000_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_001_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_002_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_003_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_004_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_005_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_006_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_007_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_008_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_009_parsed
+done!18:31:35
+Parsing result...18:31:35
+inserting into db...18:31:35
+loading rifs from db...20:49:21
+start chunking files...20:49:21
+empty chunk folder...20:49:21
+spliting file...20:49:21
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:49:26
+start chunking files...20:49:26
+empty chunk folder...20:49:26
+spliting file...20:49:26
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:49:57
+start chunking files...20:49:57
+empty chunk folder...20:49:57
+spliting file...20:49:57
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:50:12
+start chunking files...20:50:13
+empty chunk folder...20:50:13
+spliting file...20:50:13
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:50:28
+start chunking files...20:50:28
+empty chunk folder...20:50:28
+spliting file...20:50:28
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:51:14
+start chunking files...20:51:14
+empty chunk folder...20:51:14
+spliting file...20:51:14
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+loading rifs from db...20:52:11
+start chunking files...20:52:11
+empty chunk folder...20:52:11
+spliting file...20:52:11
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...20:52:11
+waiting for process to be finished...20:52:11
+finish!20:52:32
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+done!20:52:32
+Parsing result...20:52:32
+loading rifs from db...20:58:25
+start chunking files...20:58:25
+empty chunk folder...20:58:25
+spliting file...20:58:25
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...20:58:25
+waiting for process to be finished...20:58:25
+finish!20:58:44
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+done!20:58:44
+Parsing result...20:58:44
+loading rifs from db...20:59:10
+start chunking files...20:59:11
+empty chunk folder...20:59:11
+spliting file...20:59:11
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...20:59:11
+waiting for process to be finished...20:59:11
+finish!20:59:30
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+done!20:59:30
+Parsing result...20:59:30
+loading rifs from db...20:59:56
+start chunking files...20:59:56
+empty chunk folder...20:59:56
+spliting file...20:59:56
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...20:59:56
+waiting for process to be finished...20:59:56
+finish!21:00:18
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+done!21:00:18
+Parsing result...21:00:18
+finish!21:02:52
+joining result...
+./tmp/chunks/rifs_chunk_000_parsed
+./tmp/chunks/rifs_chunk_001_parsed
+./tmp/chunks/rifs_chunk_002_parsed
+./tmp/chunks/rifs_chunk_003_parsed
+./tmp/chunks/rifs_chunk_004_parsed
+./tmp/chunks/rifs_chunk_005_parsed
+./tmp/chunks/rifs_chunk_006_parsed
+./tmp/chunks/rifs_chunk_007_parsed
+./tmp/chunks/rifs_chunk_008_parsed
+./tmp/chunks/rifs_chunk_009_parsed
+./tmp/chunks/rifs_chunk_010_parsed
+./tmp/chunks/rifs_chunk_011_parsed
+./tmp/chunks/rifs_chunk_012_parsed
+./tmp/chunks/rifs_chunk_013_parsed
+./tmp/chunks/rifs_chunk_014_parsed
+./tmp/chunks/rifs_chunk_015_parsed
+./tmp/chunks/rifs_chunk_016_parsed
+./tmp/chunks/rifs_chunk_017_parsed
+./tmp/chunks/rifs_chunk_018_parsed
+./tmp/chunks/rifs_chunk_019_parsed
+./tmp/chunks/rifs_chunk_020_parsed
+./tmp/chunks/rifs_chunk_021_parsed
+./tmp/chunks/rifs_chunk_022_parsed
+./tmp/chunks/rifs_chunk_023_parsed
+./tmp/chunks/rifs_chunk_024_parsed
+./tmp/chunks/rifs_chunk_025_parsed
+./tmp/chunks/rifs_chunk_026_parsed
+./tmp/chunks/rifs_chunk_027_parsed
+./tmp/chunks/rifs_chunk_028_parsed
+./tmp/chunks/rifs_chunk_029_parsed
+./tmp/chunks/rifs_chunk_030_parsed
+./tmp/chunks/rifs_chunk_031_parsed
+./tmp/chunks/rifs_chunk_032_parsed
+./tmp/chunks/rifs_chunk_033_parsed
+./tmp/chunks/rifs_chunk_034_parsed
+./tmp/chunks/rifs_chunk_035_parsed
+./tmp/chunks/rifs_chunk_036_parsed
+./tmp/chunks/rifs_chunk_037_parsed
+./tmp/chunks/rifs_chunk_038_parsed
+./tmp/chunks/rifs_chunk_039_parsed
+./tmp/chunks/rifs_chunk_040_parsed
+./tmp/chunks/rifs_chunk_041_parsed
+./tmp/chunks/rifs_chunk_042_parsed
+./tmp/chunks/rifs_chunk_043_parsed
+./tmp/chunks/rifs_chunk_044_parsed
+./tmp/chunks/rifs_chunk_045_parsed
+./tmp/chunks/rifs_chunk_046_parsed
+./tmp/chunks/rifs_chunk_047_parsed
+./tmp/chunks/rifs_chunk_048_parsed
+./tmp/chunks/rifs_chunk_049_parsed
+done!21:02:52
+loading rifs from db...21:03:02
+start chunking files...21:03:02
+empty chunk folder...21:03:02
+spliting file...21:03:02
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...21:03:02
+waiting for process to be finished...21:03:02
+finish!21:03:21
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+done!21:03:21
+Parsing result...21:03:21
+inserting into db...21:03:21
+start queries ncbo...21:11:04
+waiting for process to be finished...21:11:04
+loading rifs from db...21:16:29
+start chunking rif files...21:16:29
+empty chunk folder...21:16:29
+spliting file...21:16:29
+rifs_chunk_000
+rifs_chunk_001
+rifs_chunk_002
+rifs_chunk_003
+rifs_chunk_004
+rifs_chunk_005
+rifs_chunk_006
+rifs_chunk_007
+rifs_chunk_008
+rifs_chunk_009
+rifs_chunk_010
+rifs_chunk_011
+rifs_chunk_012
+rifs_chunk_013
+rifs_chunk_014
+rifs_chunk_015
+rifs_chunk_016
+rifs_chunk_017
+rifs_chunk_018
+rifs_chunk_019
+rifs_chunk_020
+rifs_chunk_021
+rifs_chunk_022
+rifs_chunk_023
+rifs_chunk_024
+rifs_chunk_025
+rifs_chunk_026
+rifs_chunk_027
+rifs_chunk_028
+rifs_chunk_029
+rifs_chunk_030
+rifs_chunk_031
+rifs_chunk_032
+rifs_chunk_033
+rifs_chunk_034
+rifs_chunk_035
+rifs_chunk_036
+rifs_chunk_037
+rifs_chunk_038
+rifs_chunk_039
+rifs_chunk_040
+rifs_chunk_041
+rifs_chunk_042
+rifs_chunk_043
+rifs_chunk_044
+rifs_chunk_045
+rifs_chunk_046
+rifs_chunk_047
+rifs_chunk_048
+rifs_chunk_049
+start queries ncbo...21:16:29
+waiting for process to be finished...21:16:29
+loading rifs from db...21:17:46
+start chunking rif files...21:17:46
+empty chunk folder...21:17:46
+spliting file...21:17:46
+rifs_chunk_000
+rifs_chunk_001
+rifs_chunk_002
+rifs_chunk_003
+rifs_chunk_004
+rifs_chunk_005
+rifs_chunk_006
+rifs_chunk_007
+rifs_chunk_008
+rifs_chunk_009
+rifs_chunk_010
+rifs_chunk_011
+rifs_chunk_012
+rifs_chunk_013
+rifs_chunk_014
+rifs_chunk_015
+rifs_chunk_016
+rifs_chunk_017
+rifs_chunk_018
+rifs_chunk_019
+rifs_chunk_020
+rifs_chunk_021
+rifs_chunk_022
+rifs_chunk_023
+rifs_chunk_024
+rifs_chunk_025
+rifs_chunk_026
+rifs_chunk_027
+rifs_chunk_028
+rifs_chunk_029
+rifs_chunk_030
+rifs_chunk_031
+rifs_chunk_032
+rifs_chunk_033
+rifs_chunk_034
+rifs_chunk_035
+rifs_chunk_036
+rifs_chunk_037
+rifs_chunk_038
+rifs_chunk_039
+rifs_chunk_040
+rifs_chunk_041
+rifs_chunk_042
+rifs_chunk_043
+rifs_chunk_044
+rifs_chunk_045
+rifs_chunk_046
+rifs_chunk_047
+rifs_chunk_048
+rifs_chunk_049
+start queries ncbo...21:17:46
+waiting for process to be finished...21:17:46
+finish!21:21:25
+joining result...
+./tmp/chunks/rifs_chunk_000_parsed
+./tmp/chunks/rifs_chunk_001_parsed
+./tmp/chunks/rifs_chunk_002_parsed
+./tmp/chunks/rifs_chunk_003_parsed
+./tmp/chunks/rifs_chunk_004_parsed
+./tmp/chunks/rifs_chunk_005_parsed
+./tmp/chunks/rifs_chunk_006_parsed
+./tmp/chunks/rifs_chunk_007_parsed
+./tmp/chunks/rifs_chunk_008_parsed
+./tmp/chunks/rifs_chunk_009_parsed
+./tmp/chunks/rifs_chunk_010_parsed
+./tmp/chunks/rifs_chunk_011_parsed
+./tmp/chunks/rifs_chunk_012_parsed
+./tmp/chunks/rifs_chunk_013_parsed
+./tmp/chunks/rifs_chunk_014_parsed
+./tmp/chunks/rifs_chunk_015_parsed
+./tmp/chunks/rifs_chunk_016_parsed
+./tmp/chunks/rifs_chunk_017_parsed
+./tmp/chunks/rifs_chunk_018_parsed
+./tmp/chunks/rifs_chunk_019_parsed
+./tmp/chunks/rifs_chunk_020_parsed
+./tmp/chunks/rifs_chunk_021_parsed
+./tmp/chunks/rifs_chunk_022_parsed
+./tmp/chunks/rifs_chunk_023_parsed
+./tmp/chunks/rifs_chunk_024_parsed
+./tmp/chunks/rifs_chunk_025_parsed
+./tmp/chunks/rifs_chunk_026_parsed
+./tmp/chunks/rifs_chunk_027_parsed
+./tmp/chunks/rifs_chunk_028_parsed
+./tmp/chunks/rifs_chunk_029_parsed
+./tmp/chunks/rifs_chunk_030_parsed
+./tmp/chunks/rifs_chunk_031_parsed
+./tmp/chunks/rifs_chunk_032_parsed
+./tmp/chunks/rifs_chunk_033_parsed
+./tmp/chunks/rifs_chunk_034_parsed
+./tmp/chunks/rifs_chunk_035_parsed
+./tmp/chunks/rifs_chunk_036_parsed
+./tmp/chunks/rifs_chunk_037_parsed
+./tmp/chunks/rifs_chunk_038_parsed
+./tmp/chunks/rifs_chunk_039_parsed
+./tmp/chunks/rifs_chunk_040_parsed
+./tmp/chunks/rifs_chunk_041_parsed
+./tmp/chunks/rifs_chunk_042_parsed
+./tmp/chunks/rifs_chunk_043_parsed
+./tmp/chunks/rifs_chunk_044_parsed
+./tmp/chunks/rifs_chunk_045_parsed
+./tmp/chunks/rifs_chunk_046_parsed
+./tmp/chunks/rifs_chunk_047_parsed
+./tmp/chunks/rifs_chunk_048_parsed
+./tmp/chunks/rifs_chunk_049_parsed
+done!21:21:25
+joining result...
+./tmp/chunks/rifs_chunk_000_parsed
+./tmp/chunks/rifs_chunk_001_parsed
+./tmp/chunks/rifs_chunk_002_parsed
+./tmp/chunks/rifs_chunk_003_parsed
+./tmp/chunks/rifs_chunk_004_parsed
+./tmp/chunks/rifs_chunk_005_parsed
+./tmp/chunks/rifs_chunk_006_parsed
+./tmp/chunks/rifs_chunk_007_parsed
+./tmp/chunks/rifs_chunk_008_parsed
+./tmp/chunks/rifs_chunk_009_parsed
+./tmp/chunks/rifs_chunk_010_parsed
+./tmp/chunks/rifs_chunk_011_parsed
+./tmp/chunks/rifs_chunk_012_parsed
+./tmp/chunks/rifs_chunk_013_parsed
+./tmp/chunks/rifs_chunk_014_parsed
+./tmp/chunks/rifs_chunk_015_parsed
+./tmp/chunks/rifs_chunk_016_parsed
+./tmp/chunks/rifs_chunk_017_parsed
+./tmp/chunks/rifs_chunk_018_parsed
+./tmp/chunks/rifs_chunk_019_parsed
+./tmp/chunks/rifs_chunk_020_parsed
+./tmp/chunks/rifs_chunk_021_parsed
+./tmp/chunks/rifs_chunk_022_parsed
+./tmp/chunks/rifs_chunk_023_parsed
+./tmp/chunks/rifs_chunk_024_parsed
+./tmp/chunks/rifs_chunk_025_parsed
+./tmp/chunks/rifs_chunk_026_parsed
+./tmp/chunks/rifs_chunk_027_parsed
+./tmp/chunks/rifs_chunk_028_parsed
+./tmp/chunks/rifs_chunk_029_parsed
+./tmp/chunks/rifs_chunk_030_parsed
+./tmp/chunks/rifs_chunk_031_parsed
+./tmp/chunks/rifs_chunk_032_parsed
+./tmp/chunks/rifs_chunk_033_parsed
+./tmp/chunks/rifs_chunk_034_parsed
+./tmp/chunks/rifs_chunk_035_parsed
+./tmp/chunks/rifs_chunk_036_parsed
+./tmp/chunks/rifs_chunk_037_parsed
+./tmp/chunks/rifs_chunk_038_parsed
+./tmp/chunks/rifs_chunk_039_parsed
+./tmp/chunks/rifs_chunk_040_parsed
+./tmp/chunks/rifs_chunk_041_parsed
+./tmp/chunks/rifs_chunk_042_parsed
+./tmp/chunks/rifs_chunk_043_parsed
+./tmp/chunks/rifs_chunk_044_parsed
+./tmp/chunks/rifs_chunk_045_parsed
+./tmp/chunks/rifs_chunk_046_parsed
+./tmp/chunks/rifs_chunk_047_parsed
+./tmp/chunks/rifs_chunk_048_parsed
+./tmp/chunks/rifs_chunk_049_parsed
+done!21:24:16
+joining result...
+./tmp/chunks/rifs_chunk_000_parsed
+./tmp/chunks/rifs_chunk_001_parsed
+./tmp/chunks/rifs_chunk_002_parsed
+./tmp/chunks/rifs_chunk_003_parsed
+./tmp/chunks/rifs_chunk_004_parsed
+./tmp/chunks/rifs_chunk_005_parsed
+./tmp/chunks/rifs_chunk_006_parsed
+./tmp/chunks/rifs_chunk_007_parsed
+./tmp/chunks/rifs_chunk_008_parsed
+./tmp/chunks/rifs_chunk_009_parsed
+./tmp/chunks/rifs_chunk_010_parsed
+./tmp/chunks/rifs_chunk_011_parsed
+./tmp/chunks/rifs_chunk_012_parsed
+./tmp/chunks/rifs_chunk_013_parsed
+./tmp/chunks/rifs_chunk_014_parsed
+./tmp/chunks/rifs_chunk_015_parsed
+./tmp/chunks/rifs_chunk_016_parsed
+./tmp/chunks/rifs_chunk_017_parsed
+./tmp/chunks/rifs_chunk_018_parsed
+./tmp/chunks/rifs_chunk_019_parsed
+./tmp/chunks/rifs_chunk_020_parsed
+./tmp/chunks/rifs_chunk_021_parsed
+./tmp/chunks/rifs_chunk_022_parsed
+./tmp/chunks/rifs_chunk_023_parsed
+./tmp/chunks/rifs_chunk_024_parsed
+./tmp/chunks/rifs_chunk_025_parsed
+./tmp/chunks/rifs_chunk_026_parsed
+./tmp/chunks/rifs_chunk_027_parsed
+./tmp/chunks/rifs_chunk_028_parsed
+./tmp/chunks/rifs_chunk_029_parsed
+./tmp/chunks/rifs_chunk_030_parsed
+./tmp/chunks/rifs_chunk_031_parsed
+./tmp/chunks/rifs_chunk_032_parsed
+./tmp/chunks/rifs_chunk_033_parsed
+./tmp/chunks/rifs_chunk_034_parsed
+./tmp/chunks/rifs_chunk_035_parsed
+./tmp/chunks/rifs_chunk_036_parsed
+./tmp/chunks/rifs_chunk_037_parsed
+./tmp/chunks/rifs_chunk_038_parsed
+./tmp/chunks/rifs_chunk_039_parsed
+./tmp/chunks/rifs_chunk_040_parsed
+./tmp/chunks/rifs_chunk_041_parsed
+./tmp/chunks/rifs_chunk_042_parsed
+./tmp/chunks/rifs_chunk_043_parsed
+./tmp/chunks/rifs_chunk_044_parsed
+./tmp/chunks/rifs_chunk_045_parsed
+./tmp/chunks/rifs_chunk_046_parsed
+./tmp/chunks/rifs_chunk_047_parsed
+./tmp/chunks/rifs_chunk_048_parsed
+./tmp/chunks/rifs_chunk_049_parsed
+done!21:26:48
+loading rifs from db...21:32:13
+start chunking files...21:32:13
+empty chunk folder...21:32:13
+spliting file...21:32:13
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+start metamap mapping...21:32:13
+waiting for process to be finished...21:32:13
+loading rifs from db...21:51:34
+start chunking files...21:51:34
+empty chunk folder...21:51:34
+spliting file...21:51:34
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+start metamap mapping...21:51:34
+waiting for process to be finished...21:51:34
+finish!21:52:27
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_010_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_011_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_012_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_013_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_014_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_015_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_016_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_017_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_018_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_019_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_020_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_021_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_022_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_023_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_024_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_025_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_026_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_027_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_028_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_029_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_030_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_031_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_032_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_033_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_034_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_035_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_036_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_037_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_038_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_039_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_040_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_041_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_042_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_043_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_044_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_045_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_046_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_047_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_048_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_049_parsed
+done!21:52:27
+Parsing result...21:52:27
+inserting into db...21:52:27
+loading rifs from db...21:53:02
+start chunking files...21:53:02
+empty chunk folder...21:53:02
+spliting file...21:53:02
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+start metamap mapping...21:53:02
+waiting for process to be finished...21:53:02
+loading rifs from db...22:00:09
+start chunking files...22:00:10
+empty chunk folder...22:00:10
+spliting file...22:00:10
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+des_chunk_030
+des_chunk_031
+des_chunk_032
+des_chunk_033
+des_chunk_034
+des_chunk_035
+des_chunk_036
+des_chunk_037
+des_chunk_038
+des_chunk_039
+des_chunk_040
+des_chunk_041
+des_chunk_042
+des_chunk_043
+des_chunk_044
+des_chunk_045
+des_chunk_046
+des_chunk_047
+des_chunk_048
+des_chunk_049
+start metamap mapping...22:00:10
+waiting for process to be finished...22:00:10
+loading rifs from db...22:15:07
+start chunking files...22:15:07
+empty chunk folder...22:15:07
+spliting file...22:15:07
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+des_chunk_020
+des_chunk_021
+des_chunk_022
+des_chunk_023
+des_chunk_024
+des_chunk_025
+des_chunk_026
+des_chunk_027
+des_chunk_028
+des_chunk_029
+start metamap mapping...22:15:07
+waiting for process to be finished...22:15:07
+finish!22:17:50
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_010_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_011_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_012_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_013_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_014_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_015_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_016_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_017_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_018_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_019_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_020_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_021_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_022_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_023_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_024_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_025_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_026_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_027_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_028_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_029_parsed
+done!22:17:50
+Parsing result...22:17:50
+inserting into db...22:17:50
+loading phenotypes from db...22:27:07
+start chunking files...22:27:08
+empty chunk folder...22:27:08
+spliting file...22:27:08
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+pts_chunk_020
+pts_chunk_021
+pts_chunk_022
+pts_chunk_023
+pts_chunk_024
+pts_chunk_025
+pts_chunk_026
+pts_chunk_027
+pts_chunk_028
+pts_chunk_029
+start metamap mapping...22:27:08
+waiting for process to be finished...22:27:08
+loading phenotypes from db...22:35:42
+start chunking files...22:35:42
+empty chunk folder...22:35:42
+spliting file...22:35:42
+pts_chunk_000
+pts_chunk_001
+pts_chunk_002
+pts_chunk_003
+pts_chunk_004
+pts_chunk_005
+pts_chunk_006
+pts_chunk_007
+pts_chunk_008
+pts_chunk_009
+pts_chunk_010
+pts_chunk_011
+pts_chunk_012
+pts_chunk_013
+pts_chunk_014
+pts_chunk_015
+pts_chunk_016
+pts_chunk_017
+pts_chunk_018
+pts_chunk_019
+start metamap mapping...22:35:42
+waiting for process to be finished...22:35:42
+finish!22:45:12
+joining result...
+./metamap_data/ensembl/tmp/chunks/pts_chunk_000_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_001_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_002_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_003_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_004_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_005_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_006_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_007_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_008_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_009_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_010_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_011_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_012_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_013_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_014_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_015_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_016_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_017_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_018_parsed
+./metamap_data/ensembl/tmp/chunks/pts_chunk_019_parsed
+done!22:45:13
+Parsing result...22:45:13
+inserting into db...22:45:13
+loading OMIM disease from db...22:45:14
+start chunking files...22:45:15
+empty chunk folder...22:45:15
+spliting file...22:45:15
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+start metamap mapping...22:45:15
+waiting for process to be finished...22:45:15
+finish!22:51:20
+joining result...
+./metamap_data/omim/tmp/chunks/des_chunk_000_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_001_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_002_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_003_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_004_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_005_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_006_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_007_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_008_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_009_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_010_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_011_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_012_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_013_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_014_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_015_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_016_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_017_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_018_parsed
+./metamap_data/omim/tmp/chunks/des_chunk_019_parsed
+done!22:51:20
+Parsing result...22:51:20
+inserting into db...22:51:20
+loading rifs from db...22:51:21
+start chunking files...22:51:29
+empty chunk folder...22:51:29
+spliting file...22:51:30
+des_chunk_000
+des_chunk_001
+des_chunk_002
+des_chunk_003
+des_chunk_004
+des_chunk_005
+des_chunk_006
+des_chunk_007
+des_chunk_008
+des_chunk_009
+des_chunk_010
+des_chunk_011
+des_chunk_012
+des_chunk_013
+des_chunk_014
+des_chunk_015
+des_chunk_016
+des_chunk_017
+des_chunk_018
+des_chunk_019
+start metamap mapping...22:51:30
+waiting for process to be finished...22:51:30
+finish!11:39:59
+joining result...
+./metamap_data/generif/tmp/chunks/des_chunk_000_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_001_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_002_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_003_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_004_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_005_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_006_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_007_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_008_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_009_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_010_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_011_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_012_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_013_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_014_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_015_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_016_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_017_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_018_parsed
+./metamap_data/generif/tmp/chunks/des_chunk_019_parsed
+done!11:40:11
+Parsing result...11:40:12
+inserting into db...11:40:18
+inserting into db...17:36:48
+inserting into db...17:36:48
+inserting into db...17:38:29
+inserting into db...17:39:00
+inserting into db...17:39:00
+inserting into db...17:39:00
+inserting into db...17:57:27
+inserting into db...17:57:29
+inserting into db...18:09:11
+inserting into db...18:09:14
+inserting into db...18:09:16
+inserting into db...18:10:31
+inserting into db...18:10:34
+inserting into db...18:38:50
+inserting into db...18:38:51
+inserting into db...18:38:51
+inserting into db...01:17:54
+inserting into db...01:17:56
+inserting into db...01:17:58
+inserting into db...01:29:59
+inserting into db...01:30:00
+inserting into db...01:30:02
+inserting into db...01:31:00
+inserting into db...01:31:02

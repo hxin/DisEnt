@@ -1,4 +1,66 @@
 /**
+ALL_ensembl2do
+**/
+DROP TABLE IF EXISTS ALL_ensembl2do;
+CREATE TABLE `ALL_ensembl2do` as 
+select t3.source_id,source_description,t3.do_acc,t3.do_description, group_concat(mapping_source) as mapping_source from 
+(
+select t1.source_id,t1.source_description,t1.do_acc,t1.do_description,'M' as `mapping_source` from MetaMap_ensembl2do as t1 where t1.source_id !=0
+union all
+select t2.*,'N' as `mapping_source` from NCBO_ensembl2do as t2 where t2.source_id!=0 and t2.do_acc is not null)
+as t3  group by t3.source_id,source_description,t3.do_acc,do_description;
+
+ALTER TABLE  `ALL_ensembl2do` CHANGE  `mapping_source`  `mapping_source` VARCHAR( 200 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
+ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `source_id` );
+ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `do_acc` );
+ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `mapping_source` );
+
+/**
+ALL_omim2do
+**/
+DROP TABLE IF EXISTS ALL_omim2do;
+CREATE TABLE `ALL_omim2do` as 
+select t3.source_id,source_description,t3.do_acc,t3.do_description, group_concat(mapping_source) as mapping_source from 
+(
+select t1.source_id,t1.source_description,t1.do_acc,t1.do_description,'M' as `mapping_source` from MetaMap_omim2do as t1 where t1.source_id !=0
+union all
+select t2.*,'N' as `mapping_source` from NCBO_omim2do as t2 where t2.source_id!=0  and t2.do_acc is not null)
+as t3  group by t3.source_id,source_description,t3.do_acc,do_description;
+
+ALTER TABLE  `ALL_omim2do` CHANGE  `mapping_source`  `mapping_source` VARCHAR( 200 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
+ALTER TABLE  `ALL_omim2do` ADD INDEX (  `source_id` );
+ALTER TABLE  `ALL_omim2do` ADD INDEX (  `do_acc` );
+ALTER TABLE  `ALL_omim2do` ADD INDEX (  `mapping_source` );
+
+/**
+ALL_rif2do
+**/
+DROP TABLE IF EXISTS ALL_rif2do;
+CREATE TABLE `ALL_rif2do` as 
+select t3.source_id,source_description,t3.do_acc,t3.do_description, group_concat(mapping_source) as mapping_source from 
+(
+select t1.source_id,t1.source_description,t1.do_acc,t1.do_description,'M' as `mapping_source` from MetaMap_rif2do as t1 where t1.source_id !=0
+union all
+select t2.*,'N' as `mapping_source` from NCBO_rif2do as t2 where t2.source_id!=0  and t2.do_acc is not null)
+as t3  group by t3.source_id,source_description,t3.do_acc,do_description;
+
+ALTER TABLE  `ALL_rif2do` CHANGE  `mapping_source`  `mapping_source` VARCHAR( 200 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
+ALTER TABLE  `ALL_rif2do` ADD INDEX (  `source_id` );
+ALTER TABLE  `ALL_rif2do` ADD INDEX (  `do_acc` );
+ALTER TABLE  `ALL_rif2do` ADD INDEX (  `mapping_source` );
+
+/**
+Generif disease2gene
+**/
+DROP TABLE IF EXISTS GeneRIF_disease2gene;
+create table GeneRIF_disease2gene as
+select t2.gene_id as entrez_id,t2.pmid,t1.do_acc,t1.do_description,t1.source_description as rif 
+from ALL_rif2do as t1 left join GeneRIF_basic as t2 on t1.source_id=t2.id;
+ALTER TABLE `GeneRIF_disease2gene` ADD INDEX `entrez_id` (`entrez_id`);
+ALTER TABLE `GeneRIF_disease2gene` ADD INDEX `pmid` (`pmid`);
+ALTER TABLE `GeneRIF_disease2gene` ADD INDEX `do_acc` (`do_acc`);
+
+/**
 GeneRIF human entrez
 **/
 DROP TABLE IF EXISTS GeneRIF_human_gene2disease_entrez_hdo;
@@ -63,42 +125,7 @@ ALTER TABLE `VARIATION_human_gene2disease_entrez` ADD INDEX `disease` (`disease`
 
 
 
-/**
-ALL_ensembl2do
-**/
-DROP TABLE IF EXISTS ALL_ensembl2do;
-CREATE TABLE `ALL_ensembl2do` as 
-select t3.phenotype_id,phenotype_description,t3.do_acc,t3.do_description, group_concat(source) as source from 
-(
-select t1.phenotype_id,t1.phenotype_description,t1.do_acc,t1.do_description,'M' as `source` from MetaMap_ensembl2do_raw as t1 where t1.phenotype_id !=0
-union all
-select t2.*,'N' as `source` from NCBO_ensembl2do_raw as t2 where t2.phenotype_id!=0 and t2.do_acc is not null)
-as t3  group by t3.phenotype_id,phenotype_description,t3.do_acc,do_description;
 
-ALTER TABLE  `ALL_ensembl2do` CHANGE  `source`  `source` VARCHAR( 200 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
-ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `phenotype_id` );
-ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `do_acc` );
-ALTER TABLE  `ALL_ensembl2do` ADD INDEX (  `source` );
-
-
-
-
-/**
-ALL_omim2do
-**/
-DROP TABLE IF EXISTS ALL_omim2do;
-CREATE TABLE `ALL_omim2do` as 
-select t3.disorder_mim_acc,omim_description,t3.do_acc,t3.do_description, group_concat(source) as source from 
-(
-select t1.*,'M' as `source` from MetaMap_omim2do as t1 where t1.disorder_mim_acc !=0
-union all
-select t2.*,'N' as `source` from NCBO_omim2do_raw as t2 where t2.disorder_mim_acc!=0  and t2.do_acc is not null)
-as t3  group by t3.disorder_mim_acc,omim_description,t3.do_acc,do_description;
-
-ALTER TABLE  `ALL_omim2do` CHANGE  `source`  `source` VARCHAR( 200 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
-ALTER TABLE  `ALL_omim2do` ADD INDEX (  `disorder_mim_acc` );
-ALTER TABLE  `ALL_omim2do` ADD INDEX (  `do_acc` );
-ALTER TABLE  `ALL_omim2do` ADD INDEX (  `source` );
 
 
 
@@ -110,7 +137,7 @@ OMIM map to HDO
 DROP TABLE IF EXISTS OMIM_human_gene2disease_ensembl_hdo;
 create TABLE OMIM_human_gene2disease_ensembl_hdo as
 select distinct t1.gene,t2.do_acc as disease from OMIM_human_gene2disease_ensembl as t1 inner join ALL_omim2do as t2
-on t1.disease=t2.disorder_mim_acc;
+on t1.disease=t2.source_id;
 ALTER TABLE  `OMIM_human_gene2disease_ensembl_hdo` ADD INDEX (  `gene` );
 ALTER TABLE  `OMIM_human_gene2disease_ensembl_hdo` ADD INDEX (  `disease` );
 
@@ -118,7 +145,7 @@ ALTER TABLE  `OMIM_human_gene2disease_ensembl_hdo` ADD INDEX (  `disease` );
 DROP TABLE IF EXISTS OMIM_human_gene2disease_entrez_hdo;
 create TABLE OMIM_human_gene2disease_entrez_hdo as
 select distinct t1.gene,t2.do_acc as disease from OMIM_human_gene2disease_entrez as t1 inner join ALL_omim2do as t2
-on t1.disease=t2.disorder_mim_acc;
+on t1.disease=t2.source_id;
 ALTER TABLE  `OMIM_human_gene2disease_entrez_hdo` ADD INDEX (  `gene` );
 ALTER TABLE  `OMIM_human_gene2disease_entrez_hdo` ADD INDEX (  `disease` );
 
@@ -129,7 +156,7 @@ VARIATION map to HDO
 DROP TABLE IF EXISTS VARIATION_human_gene2disease_ensembl_hdo;
 create TABLE VARIATION_human_gene2disease_ensembl_hdo as
 select distinct t1.gene,t2.do_acc as disease from VARIATION_human_gene2disease_ensembl as t1 inner join ALL_ensembl2do as t2
-on t1.disease=t2.phenotype_id;
+on t1.disease=t2.source_id;
 
 ALTER TABLE  `VARIATION_human_gene2disease_ensembl_hdo` ADD INDEX  (  `gene` );
 ALTER TABLE  `VARIATION_human_gene2disease_ensembl_hdo` ADD INDEX  (  `disease` );
@@ -137,7 +164,7 @@ ALTER TABLE  `VARIATION_human_gene2disease_ensembl_hdo` ADD INDEX  (  `disease` 
 DROP TABLE IF EXISTS VARIATION_human_gene2disease_entrez_hdo;
 create TABLE VARIATION_human_gene2disease_entrez_hdo as
 select distinct t1.gene,t2.do_acc as disease from VARIATION_human_gene2disease_entrez as t1 inner join ALL_ensembl2do as t2
-on t1.disease=t2.phenotype_id;
+on t1.disease=t2.source_id;
 
 ALTER TABLE  `VARIATION_human_gene2disease_entrez_hdo` ADD INDEX (  `gene` );
 ALTER TABLE  `VARIATION_human_gene2disease_entrez_hdo` ADD INDEX (  `disease` );

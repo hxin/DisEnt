@@ -1,33 +1,12 @@
 #!/usr/bin/perl
-
 use strict;
-use DBI;
-use Data::Dumper;
-
 use LWP::UserAgent;
 use URI::Escape;  
 use XML::LibXML;
 use PadWalker;
 use Data::Dumper;
 
-my($db,$host,$user,$psw,$in)=@ARGV;
-
-open (MYIN, $in);
-my $out=$in."_parsed";
-open (MYOUT, ">".$out);
-
-while ( <MYIN> ) {
-	chomp;
-	my @row = split(/\t/, $_);	
-	ncbo_annotator($row[0],$row[1]);
-}
-
-
-
-
-
-sub ncbo_annotator{
-my($source_id,$des)=@_;
+my($source_id,$des)=@ARGV;
 #print Dumper(@ARGV);
 
 $|=1;
@@ -73,8 +52,10 @@ if ($response->is_success) {
 
 		if(%{$M_ConceptREF}){
 			foreach my $c (keys %{$M_ConceptREF}){
-   			 	print MYOUT $source_id,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c}."\n";
+   			 	print $source_id,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c}."\n";
    			 }    
+		}else{
+			print $source_id,"\t",$des,"\t\\N\t\\N"."\n";
 		}
 
 
@@ -121,9 +102,4 @@ sub parse_annotator_response {
 #	}
 	
 	return (\%MatchedConcepts);
-}
-
-
-
-
 }

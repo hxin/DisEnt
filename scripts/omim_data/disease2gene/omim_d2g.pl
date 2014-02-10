@@ -2,15 +2,15 @@
 
 use strict;
 use DBI;
-
+my($db,$host,$user,$psw,$file)=@ARGV;
 #my $file_path = './temp.0.txt';
-my $dbh = connectNRG();
+my $dbh   = DBI->connect ( "dbi:mysql:database=$db;host=$host;port=3306" , $user , $psw ) or die $DBI::errstr;
 my $line;
 my $current_id;
 my $current_name;
 my $start;
-#open FILE, "<", $file_path or die $!;
-READLINE: while (<>) {
+open FILE, "<", $file or die $!;
+READLINE: while (<FILE>) {
 	$line = $_;
 	chomp($line);
 	my ($dis_name,$gene_symbols,$locus_mim_acc,$location) = split(/\|/, $line);
@@ -41,7 +41,7 @@ READLINE: while (<>) {
 
 sub isPt(){
 	my ($dbh,$mim_acc)=@_;
-	my $sth = $dbh->prepare("select type from xin2.OMIM_mim2gene where mim_acc=?;");
+	my $sth = $dbh->prepare("select type from $db.OMIM_mim2gene where mim_acc=?;");
 	$sth->execute($mim_acc);
 	my @row = $sth->fetchrow_array;
 	if($row[0] eq 'phenotype' or $row[0] eq 'gene/phenotype'){
@@ -51,13 +51,7 @@ sub isPt(){
 	}
 }
 
-sub connectNRG {
-		my $dsn  = 'dbi:mysql:variation:nrg.inf.ed.ac.uk:3306';
-		my $user = 'xin';
-		my $pass = '12091209';
-		my $dbh  = DBI->connect( $dsn, $user, $pass ,{ RaiseError => 1, AutoCommit => 1 }) or die $DBI::errstr;
-		return $dbh;
-	}
+
 
 
 #17,20-lyase deficiency, isolated, 202110 (3)|CYP17A1, CYP17, P450C17|609300|10q24.32

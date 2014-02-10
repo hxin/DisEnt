@@ -1,17 +1,15 @@
 BASEDIR=$(dirname $0)
 
 
-CONFIG_FILE=$BASEDIR/../../config
+CONFIG_FILE=$BASEDIR/../../../config
 
 if [ -f $CONFIG_FILE ]; then
         . $CONFIG_FILE
 fi
 
-
-if [ $USECACHE = 'n' ]; then
 echo 'loading rifs from db...'$(date +"%T")
 echo 'loading rifs from db...'$(date +"%T") >>$LOG
-perl $BASEDIR/getrifs.pl $DB $HOST $USER $PSW > $BASEDIR/tmp/rifs
+
 
 echo 'start chunking rif files...'$(date +"%T")
 echo 'start chunking rif files...'$(date +"%T") >>$LOG
@@ -61,7 +59,7 @@ echo 'done!'$(date +"%T")
 echo 'done!'$(date +"%T") >>$LOG
 #cat $BASEDIR/tmp/chunks/all
 cp $BASEDIR/tmp/chunks/all $BASEDIR/tmp/NCBO_rif2do_raw
-fi
+exit;
 
 
 mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/generif.sql

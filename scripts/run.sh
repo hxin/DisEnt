@@ -26,6 +26,7 @@ set -e
 echo 'The script is used to update data for DisEnt tool.'
 echo 'Some process taks hours even days to finish. So if just using cache data, turn the USEFTP flag in config file to n,otherwise, y'
 echo 'To Add more species, you need to edit the config file, if adding new species other than f/m/r/h/z/y then you need to update the ensembl data for homolog'
+echo 'if you want to update any of the three source data, you need to rerun the term mapping process!!'
 
 
 start=$(date +"%T")
@@ -79,14 +80,20 @@ if [ $METAMAP = 'y' ]; then
 echo '**************************************************************'
 echo 'updating metamap data...'$(date +"%T")
 echo 'initializing...'
-#$MM_LOC/bin/skrmedpostctl restart
-#sleep 10s
-#$MM_LOC/bin/wsdserverctl restart
-#sleep 180s
+#$MM_LOC/bin/skrmedpostctl start
+#sleep 2s
+#$MM_LOC/bin/wsdserverctl start
+#sleep 120s
 echo 'Ensembl...'$(date +"%T")
 sh $BASEDIR/metamap_data/ensembl/ensembl.sh
 echo 'Omim...'$(date +"%T")
 sh $BASEDIR/metamap_data/omim/omim.sh
+echo 'GeneRIF...'$(date +"%T")
+sh $BASEDIR/metamap_data/generif/generif.sh
+#$MM_LOC/bin/skrmedpostctl start
+#sleep 2s
+#$MM_LOC/bin/wsdserverctl start
+#sleep 10s
 echo ''
 fi
 
@@ -98,8 +105,13 @@ echo 'Ensembl...'$(date +"%T")
 sh $BASEDIR/ncbo_data/ensmebl/run.sh
 echo 'Omim...'$(date +"%T")
 sh $BASEDIR/ncbo_data/omim/run.sh
+echo 'GeneRIF...'$(date +"%T")
+sh $BASEDIR/ncbo_data/generif/generif.sh
 echo ''
 fi
+
+
+
 
 ##create human_gene_dis tables
 echo '**************************************************************'
@@ -107,7 +119,6 @@ echo 'generating All_human_gene2disease tables...'$(date +"%T")
 mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/db.sql
 echo 'generating homolog disease tables...'$(date +"%T")
 perl $BASEDIR/homolog_dis.pl $DB $HOST $USER $PSW $SPECIES
-
 
 
 end=$(date +"%T")

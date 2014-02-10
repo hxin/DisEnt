@@ -1,4 +1,11 @@
 BASEDIR=$(dirname $0)
+
+CONFIG_FILE=$BASEDIR/../config
+
+if [ -f $CONFIG_FILE ]; then
+        . $CONFIG_FILE
+fi
+
 #create two table base on the ftp file
 
 if [ $USECACHE = 'n' ]; then
@@ -10,19 +17,27 @@ echo "updating generif row file..."$(date +"%T")
 
 #using the new DGA data
 #download
-#wget -O $BASEDIR/tmp/GeneRIF_disease2gene.raw http://dga.nubic.northwestern.edu/ajax/Download.ajax.php
-#parse
-cat $BASEDIR/tmp/GeneRIF_disease2gene.raw | perl $BASEDIR/generif.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_disease2gene.txt
+wget -O $BASEDIR/tmp/GeneRIF_disease2gene.raw http://dga.nubic.northwestern.edu/ajax/Download.ajax.php
+
+wget -O $BASEDIR/tmp/generifs_basic.gz ftp://ftp.ncbi.nih.gov/gene/GeneRIF/generifs_basic.gz
+zgrep -P "^9606" $BASEDIR/tmp/generifs_basic.gz |cut -f2,3,5 >$BASEDIR/tmp/GeneRIF_basic
+#mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/generif.sql
+
+
 fi
 
+#parse
+cat $BASEDIR/tmp/GeneRIF_disease2gene.raw | perl $BASEDIR/generif.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_disease2gene_dga.txt
 
 #create db tables
 echo "creating generif db table..."$(date +"%T")
 mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/generif.sql
 
+
 echo "insering into db..."$(date +"%T")
 #mysqlimport -h $HOST -u $USER -p$PSW -L $DB $BASEDIR/tmp/GeneRIF_disease2gene.txt
-mysqlimport -h $HOST -u $USER -p$PSW $DB -L -c do_acc,entrez_id,pmid,rif  $BASEDIR/tmp/GeneRIF_disease2gene.txt
+mysqlimport -h $HOST -u $USER -p$PSW $DB -L -c do_acc,entrez_id,pmid,rif  $BASEDIR/tmp/GeneRIF_disease2gene_dga.txt
+mysqlimport -h $HOST -u $USER -p$PSW -c gene_id,pmid,rif -L --delete $DB $BASEDIR/tmp/GeneRIF_basic
 
 echo "updating HDO ids for GeneRIF data..."$(date +"%T")
 perl $BASEDIR/updateID.pl $DB $HOST $USER $PSW

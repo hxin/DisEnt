@@ -19,7 +19,8 @@ mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/omim.sql
 
 #disease2gene
 echo 'Parsing omim raw file...'$(date +"%T")
-cat $BASEDIR/tmp/morbidmap| perl $BASEDIR/disease2gene/omim_d2g.pl >$BASEDIR/tmp/OMIM_disease2gene.txt
+perl $BASEDIR/disease2gene/omim_d2g.pl $DB $HOST $USER $PSW $BASEDIR/tmp/morbidmap > $BASEDIR/tmp/OMIM_disease2gene.txt
+
 mysqlimport -h $HOST -u $USER -p$PSW -c description,disorder_mim_acc,gene_symbol,locus_mim_acc,location -L $DB $BASEDIR/tmp/OMIM_disease2gene.txt
 #mim2gene
 
