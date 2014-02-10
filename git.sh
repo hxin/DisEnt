@@ -1,5 +1,6 @@
 git pull
-git add .
+echo -n "Enter commit comment > "
 read text
-git commit -a '$text'
+git add .
+git commit -m "$text"
 git push 
