@@ -33,6 +33,8 @@ start=$(date +"%T")
 echo "Start...Current time : $start"
 
 ##in order:entrez,omim,generif,ensembl,metamap
+echo "create db $DB if not exist...";
+echo "create database IF NOT EXISTS $DB DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci" | mysql -h $HOST -u $USER -p$PSW
 
 ##parpear HDO data
 if [ $HDO = 'y' ]; then
@@ -111,15 +113,14 @@ echo ''
 fi
 
 
-
-
+if [ $JOIN = 'y' ]; then
 ##create human_gene_dis tables
 echo '**************************************************************'
 echo 'generating All_human_gene2disease tables...'$(date +"%T")
 mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/db.sql
 echo 'generating homolog disease tables...'$(date +"%T")
 perl $BASEDIR/homolog_dis.pl $DB $HOST $USER $PSW $SPECIES
-
+fi
 
 end=$(date +"%T")
 echo "END...Current time : $end"
