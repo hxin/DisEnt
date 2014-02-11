@@ -6,49 +6,53 @@ PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-variation/modules
 PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-functgenomics/modules
 export PERL5LIB;
 
+##read config file
 CONFIG_FILE=./config
-
 if [ -f $CONFIG_FILE ]; then
         . $CONFIG_FILE
 fi
 
-export DB;
-export HOST;
-export USER;
-export PSW;
-export USECACHE;
-export MM_LOC;
-export RUNMETAMAP;
+##exit when error
 set -e
 
 
+echo '\n\n**************************'
+echo '**The script is used to update data for DisEnt tool. See log for detail run.'
+echo '**Some process taks hours even days to finish. So if just using cache data, turn the USECACHE flag in config file to y'
+echo '**To Add more species, you need to edit the config file, if adding new species other than f/m/r/h/z/y then you need to update the ensembl data for homolog'
+echo '**if you want to update any of the three source data, you need to rerun the term mapping process!!'
+echo '**************************'
 
-echo 'The script is used to update data for DisEnt tool.'
-echo 'Some process taks hours even days to finish. So if just using cache data, turn the USEFTP flag in config file to n,otherwise, y'
-echo 'To Add more species, you need to edit the config file, if adding new species other than f/m/r/h/z/y then you need to update the ensembl data for homolog'
-echo 'if you want to update any of the three source data, you need to rerun the term mapping process!!'
+echo "\n\n-----------------------------NEW RUN-------------------------------------" >> $LOG
 
+start=$(date +"%T %D")
+echo "Job starts at $start..." | tee -a $LOG
 
-start=$(date +"%T")
-echo "Start...Current time : $start"
+##clean tmp file
+if [ $CLEANTMP = 'y' ];then 
+	echo "[$(date +"%T %D")] Cleaning tmp files..." | tee -a $LOG
+	find . -type f -name \*.old -exec rm -f {} \;
+fi
 
 ##in order:entrez,omim,generif,ensembl,metamap
-echo "create db $DB if not exist...";
-echo "create database IF NOT EXISTS $DB DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci" | mysql -h $HOST -u $USER -p$PSW
+
+##create database if not exist
+echo "Create db $DB@$HOST if not exist..." | tee -a $LOG
+echo "create database IF NOT EXISTS $DB DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci" | mysql -h $HOST -u $USER -p$PSW 2>&1| tee -a $LOG
 
 ##parpear HDO data
 if [ $HDO = 'y' ]; then
-echo '**************************************************************'
-echo 'updating hdo data...'$(date +"%T")
-sh $BASEDIR/hdo_data/hdo.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Updating hdo data..."| tee -a $LOG
+sh $BASEDIR/hdo_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
-##parpear entez data
+##parpear entrez data
 if [ $ENTREZ = 'y' ]; then
-echo '**************************************************************'
-echo 'updating entez data...'$(date +"%T")
-sh $BASEDIR/entrez_data/entrez.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Updating entez data..."| tee -a $LOG
+sh $BASEDIR/entrez_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
