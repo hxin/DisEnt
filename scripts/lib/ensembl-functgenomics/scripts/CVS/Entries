@@ -1,0 +1,35 @@
+/DNAMethylationFeature_test_assembly.t/1.2/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/README/1.1/Thu Mar  6 11:57:43 2008//Tbranch-ensembl-74
+/bisulphite_qc.pl/1.3/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/chrY_pad_par.pl/1.2/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/peaks_report.pl/1.34/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/pwm_filter_mappings.pl/1.8/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/pwm_genome_map.pl/1.9/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/pwm_make_bed_mock_set.pl/1.3/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/pwm_thresh_filter.pl/1.5/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/run_NIMBLEGEN.sh/1.6/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/run_Sanger.sh/1.10/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/run_WGFAIRE.sh/1.3/Fri Apr 20 10:20:00 2007//Tbranch-ensembl-74
+/run_build_overlap_features.sh/1.2/Fri Jul 20 07:11:59 2007//Tbranch-ensembl-74
+/run_build_unions.sh/1.1/Wed May 30 15:26:46 2007//Tbranch-ensembl-74
+/run_bwa.sh/1.25/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+/run_create_trans_result_features.sh/1.3/Tue Feb 26 12:04:22 2008//Tbranch-ensembl-74
+/run_dump_gff_features.sh/1.1/Tue Jun  3 14:37:01 2008//Tbranch-ensembl-74
+/run_import_AnnotatedFeatures.sh/1.2/Tue Sep 13 11:15:28 2011//Tbranch-ensembl-74
+/run_update_DB_for_release.sh.example/1.2/Tue Nov 26 14:20:02 2013//Tbranch-ensembl-74
+D/array_mapping////
+D/environments////
+D/examples////
+D/export////
+D/external_features////
+D/fasta////
+D/import////
+D/mapping////
+D/miscellaneous////
+D/pipeline////
+D/pwm_mappings////
+D/regulatory_annotation////
+D/regulatory_build////
+D/release////
+D/rollback////
+D/tracking////

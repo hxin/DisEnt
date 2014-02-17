@@ -2,6 +2,11 @@
 
 
 use strict;
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/BioPerl-1.6.0';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-compara/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-functgenomics/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-variation/modules';
 use Bio::EnsEMBL::Registry;
 use Bio::EnsEMBL::Utils::Exception qw(throw) ;
 use DateTime;
@@ -10,7 +15,7 @@ use Data::Dumper;
 #use PadWalker;
 
 
-
+my($debug)=@ARGV;
 
 #print getCurrentTime()."\n";
 my $registry=connectEBI();
@@ -21,7 +26,11 @@ my $vs = $vs_adaptor->fetch_by_short_name('ph_variants');
 # Get pf adapter
 my $pf_adaptor = $registry->get_adaptor('homo_sapiens', 'variation', 'phenotypefeature');
 
-my $limit   = 999999999999;
+
+my $limit   = 9999999999999999;
+if($debug == 'y'){
+	$limit = 100
+}
 my $fetched = 0;
 
 

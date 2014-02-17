@@ -5,18 +5,22 @@
 #Could be used to update the databse or add new species into database
 
 use strict;
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl/modules';
 use Bio::EnsEMBL::Registry;
 use Bio::EnsEMBL::Utils::Exception qw(throw) ;
 use DateTime;
 #use PadWalker;
 
 my $registry = 'Bio::EnsEMBL::Registry' ;
-$registry-> load_registry_from_db(
-            - host => 'ensembldb.ensembl.org' ,    # alternatively 'useastdb.ensembl.org'
-             -user => 'anonymous'
+
+$registry->load_registry_from_db(
+    -host => 'ensembldb.ensembl.org', # alternatively 'useastdb.ensembl.org'
+    -user => 'anonymous'
 );
+
 $registry->set_reconnect_when_lost();
 my $gene_adaptor = $registry-> get_adaptor( 'Human' , 'Core', 'Gene' ); throw ("Error when getting \$gene_adaptor") if(!$gene_adaptor);
+
 
 
 ############Fetch all Human Genes from EnsEMBL Core

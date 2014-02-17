@@ -1,0 +1,24 @@
+/EXAMPLE.use_mapping.pl/1.8/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/README/1.11/Fri Jan 28 11:35:58 2011//Tbranch-ensembl-74
+/align_by_clone_identity.pl/1.8/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/align_nonident_regions.pl/1.10/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/align_nonident_regions_wrapper.pl/1.6/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/blastz_matrix.txt/1.1/Thu Apr 13 08:41:18 2006//Tbranch-ensembl-74
+/check_mapping.pl/1.12/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/cleanup_tmp_tables.sql/1.2/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/compare_assemblies.pl/1.8/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/conservation_statistics.pl/1.3/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/exon_conservation_check.pl/1.10/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/find_overlaps.pl/1.6/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/fix_asm_overlaps.pl/1.2/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/fix_cmp_overlaps.pl/1.2/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/fix_overlaps.pl/1.10/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/load_alternative_assembly.pl/1.13/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/load_feature_mappings.ini.example/1.1/Tue Jan 10 17:18:36 2012//Tbranch-ensembl-74
+/load_feature_mappings.pl/1.2/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/load_patch_fix_to_ref.pl/1.3/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/mapping_stats.pl/1.16/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/merge_cmp_gaps.pl/1.3/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+/test_assembly_mapping.ini.example/1.1/Tue Jan 10 17:20:31 2012//Tbranch-ensembl-74
+/test_assembly_mapping.pl/1.3/Mon Nov 25 16:49:36 2013//Tbranch-ensembl-74
+D/AssemblyMapper////

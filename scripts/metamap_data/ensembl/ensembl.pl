@@ -45,7 +45,7 @@ READLINE: while (<FILE>) {
 
 sub description2id{
 	my ($dbh,$term)=@_;
-	my $sth = $dbh->prepare("SELECT distinct phenotype_id FROM ENSEMBL_variation2phenotype where phenotype_description=?");
+	my $sth = $dbh->prepare("SELECT distinct phenotype_id FROM ENSEMBL_v2p where phenotype_description=?");
 	$sth->execute($term);
 	my @row = $sth->fetchrow_array;
 	return $row[0];

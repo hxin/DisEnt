@@ -1,10 +1,12 @@
 BASEDIR=$(dirname $0)
-PERL5LIB=${PERL5LIB}:${PWD}/lib/bioperl-1.2.3
-PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl/modules
-PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-compara/modules
-PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-variation/modules
-PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-functgenomics/modules
+PERL5LIB=${PERL5LIB}:${PWD}/lib/BioPerl-1.6.0
+PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-api/ensembl/modules
+PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-api/ensembl-compara/modules
+PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-api/ensembl-variation/modules
+PERL5LIB=${PERL5LIB}:${PWD}/lib/ensembl-api/ensembl-functgenomics/modules
 export PERL5LIB;
+
+
 
 ##read config file
 CONFIG_FILE=./config
@@ -14,7 +16,6 @@ fi
 
 ##exit when error
 set -e
-
 
 echo '\n\n**************************'
 echo '**The script is used to update data for DisEnt tool. See log for detail run.'
@@ -43,7 +44,7 @@ echo "create database IF NOT EXISTS $DB DEFAULT CHARACTER SET utf8 COLLATE utf8_
 ##parpear HDO data
 if [ $HDO = 'y' ]; then
 echo '**************************************************************'| tee -a $LOG
-echo "[$(date +"%T %D")] Updating hdo data..."| tee -a $LOG
+echo "[$(date +"%T %D")] Hdo data..."| tee -a $LOG
 sh $BASEDIR/hdo_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
@@ -51,68 +52,49 @@ fi
 ##parpear entrez data
 if [ $ENTREZ = 'y' ]; then
 echo '**************************************************************'| tee -a $LOG
-echo "[$(date +"%T %D")] Updating entez data..."| tee -a $LOG
+echo "[$(date +"%T %D")] Entez data..."| tee -a $LOG
 sh $BASEDIR/entrez_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
 ##parpear generif data
 if [ $GENERIF = 'y' ]; then
-echo '**************************************************************'
-echo 'updating GeneRIF data...'$(date +"%T")
-sh $BASEDIR/generif_data/generif.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] GeneRIF data..."| tee -a $LOG
+sh $BASEDIR/generif_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
 ##parpear omim data
 if [ $OMIM = 'y' ]; then
-echo '**************************************************************'
-echo 'updating omim data...'$(date +"%T")
-sh $BASEDIR/omim_data/omim.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Omim data..."| tee -a $LOG
+sh $BASEDIR/omim_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
 ##parpear ensembl data
 if [ $ENSEMBL = 'y' ]; then
-echo '**************************************************************'
-echo 'updating ensembl data...'$(date +"%T")
-sh $BASEDIR/ensembl_data/ensembl.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Ensembl data..."| tee -a $LOG
+sh $BASEDIR/ensembl_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
 
 ##parpear metamap data
 if [ $METAMAP = 'y' ]; then
-echo '**************************************************************'
-echo 'updating metamap data...'$(date +"%T")
-echo 'initializing...'
-#$MM_LOC/bin/skrmedpostctl start
-#sleep 2s
-#$MM_LOC/bin/wsdserverctl start
-#sleep 120s
-echo 'Ensembl...'$(date +"%T")
-sh $BASEDIR/metamap_data/ensembl/ensembl.sh
-echo 'Omim...'$(date +"%T")
-sh $BASEDIR/metamap_data/omim/omim.sh
-echo 'GeneRIF...'$(date +"%T")
-sh $BASEDIR/metamap_data/generif/generif.sh
-#$MM_LOC/bin/skrmedpostctl start
-#sleep 2s
-#$MM_LOC/bin/wsdserverctl start
-#sleep 10s
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Metamap data..."| tee -a $LOG
+sh $BASEDIR/metamap_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
 ##parpear NCBO data
 if [ $NCBO = 'y' ]; then
-echo '**************************************************************'
-echo 'updating ncbo data...'$(date +"%T")
-echo 'Ensembl...'$(date +"%T")
-sh $BASEDIR/ncbo_data/ensmebl/run.sh
-echo 'Omim...'$(date +"%T")
-sh $BASEDIR/ncbo_data/omim/run.sh
-echo 'GeneRIF...'$(date +"%T")
-sh $BASEDIR/ncbo_data/generif/generif.sh
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Ncbo data..." | tee -a $LOG
+sh $BASEDIR/ncbo_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
@@ -126,8 +108,8 @@ echo 'generating homolog disease tables...'$(date +"%T")
 perl $BASEDIR/homolog_dis.pl $DB $HOST $USER $PSW $SPECIES
 fi
 
-end=$(date +"%T")
-echo "END...Current time : $end"
-echo "Total:$start ---> $end"
+end=$(date +"%T %D")
+echo "[$(date +"%T %D")] END...Current time : $end" | tee -a $LOG
+echo "[$(date +"%T %D")] Total:$start ---> $end" | tee -a $LOG
 exit;
 

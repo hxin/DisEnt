@@ -1,0 +1,112 @@
+#!/usr/bin/perl
+#This script is used to create all human_xxx homologue tables and insert homology data into NRG database.
+#It also create species specified disease table base on OMIM and GeneRIF data from the database.
+#This is a combine version of script homolog_pull.pl and homolog_dis.pl
+#Could be used to update the databse or add new species into database
+
+use strict;
+use Bio::EnsEMBL::Registry;
+use Bio::EnsEMBL::Utils::Exception qw(throw) ;
+use DateTime;
+#use PadWalker;
+
+
+
+#Get all human gene from Ensembl
+#Get the homologue of each human gene, create and  insert into a database table in NRG
+#For example fly, it create a table call xin2.Ensembl_human_fly_homologues and get one2one mapping betewwn each human gene
+#edit the @species_list and %species_names to add more species to the DB
+
+
+############Edit this to add more species. The name can be found in Ensembl Compara in table [genomedb]
+my($species)=@ARGV;
+my @species=split(/,/, $species);
+my @species_list;
+my %species_names;
+foreach(@species){
+	my ($f,$s)=split(/:/, $_);
+	push(@species_list,$f);
+	$species_names{$f}=$s;
+}
+#my @species_list=("drosophila_melanogaster","rattus_norvegicus","mus_musculus","saccharomyces_cerevisiae","danio_rerio","caenorhabditis_elegans");
+#my %species_names = ( "drosophila_melanogaster" => "fly",
+#        			  "rattus_norvegicus" => "rat",
+#          			  "mus_musculus" => "mouse",
+#         			  "saccharomyces_cerevisiae" =>"yeast",
+#				"danio_rerio" => "zebrafish","caenorhabditis_elegans" => "C_elegans",
+#					"caenorhabditis_elegans" => "C_elegans");
+#my @species_list=("mus_musculus");
+#my %species_names = ( "mus_musculus" => "mouse");
+
+
+#print "Start at : ". DateTime->now ."\n";
+############connect to EnsEMBL
+#print "Connecting to Ensembldb...";
+my $registry = 'Bio::EnsEMBL::Registry' ;
+$registry-> load_registry_from_db(
+            - host => 'ensembldb.ensembl.org' ,    # alternatively 'useastdb.ensembl.org'
+             -user => 'anonymous'
+);
+$registry->set_reconnect_when_lost();
+#print "done!\t". DateTime->now ."\n";
+
+############Getting all adaptors
+#print "Getting Adaptors...";
+my $gene_adaptor = $registry-> get_adaptor( 'Human' , 'Core', 'Gene' ); throw ("Error when getting \$gene_adaptor") if(!$gene_adaptor);
+my $member_adaptor = $registry-> get_adaptor('Multi' ,'compara', 'GeneMember');      throw ("Error when getting \$member_adaptor") if(!$member_adaptor);
+my $homology_adaptor = $registry-> get_adaptor('Multi' , 'compara', 'Homology');            throw( "Error when getting \$homology_adaptor!" )if( !$homology_adaptor) ;
+my $mlss_adaptor = $registry-> get_adaptor('Multi' ,'compara', 'MethodLinkSpeciesSet');            throw( "Error when getting \$mlss_adaptor!" )if( !$mlss_adaptor) ;
+#print "done!\t". DateTime->now ."\n";
+print 1;
+exit;
+############Fetch all Human Genes from EnsEMBL Core
+#print "Fetching all Human Genes...";
+my @genes = @{ $gene_adaptor->fetch_all }; throw("Error when Fetching Human Genes!\n")if( !@genes);
+#print scalar(@genes). " human genes found! \t" .DateTime-> now."\n" ;
+##use for testing
+#my $gene = $gene_adaptor->fetch_by_stable_id('ENSG00000001626');
+#push(my @genes, $gene); 
+
+
+############Fetching homologies for each Human Gene and save them in database
+#print "Fetching homologues for each Human Gene...\n";
+
+#@genes = @genes [200..400];
+while(my $gene = shift @ genes){
+             if($gene){
+                         my $member = $member_adaptor-> fetch_by_source_stable_id('ENSEMBLGENE' ,$gene ->stable_id);
+                         if($member){
+                                     #Get all orthologues or paralogues for one particular human gene
+                                     #push these information into a list @human_xxx_homologues                                                       
+                                     foreach(@species_list){
+                                     	my $fullName=$_;
+                                     	my $shortName=$species_names{$fullName};
+                                     	my @homologues = @{$homology_adaptor->fetch_all_by_Member_paired_species($member, $fullName)};
+                                     	if(@homologues){                                              
+                                                 while(my $h= shift @homologues){
+                                                 	 my @pair = @{$h->gene_list};
+                                                 	 my $human_gene_id;
+						  	 my $orthologue_gene_id;
+							 ##check which is huamn gene
+                                                 	 if($pair[1]->get_Gene ->display_id =~ /^ENSG/)
+                                                 	 { 
+	                                                 	 $human_gene_id = $pair[1]->get_Gene ->display_id;
+								                         $orthologue_gene_id = $pair[0]->get_Gene ->display_id;
+                                                 	 }else{
+                                                 	 	 $human_gene_id = $pair[0]->get_Gene ->display_id;
+								                         $orthologue_gene_id = $pair[1]->get_Gene ->display_id;
+                                                 	 }
+							 my $dn_ds = $h -> dnds_ratio? $h-> dnds_ratio : "NA";
+							 my $type = $h -> description;
+							 print $human_gene_id. "\t".$orthologue_gene_id. "\t".$dn_ds. "\t".$type. "\t".$shortName."\n";
+                                       		  }                                                                            
+                                   	}                           
+                                     }      
+                                                            
+                                               
+                        }           
+            }                       
+}
+exit;
+
+

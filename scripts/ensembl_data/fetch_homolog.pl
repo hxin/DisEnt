@@ -5,12 +5,16 @@
 #Could be used to update the databse or add new species into database
 
 use strict;
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/BioPerl-1.6.0';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-compara/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-functgenomics/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl-variation/modules';
 use Bio::EnsEMBL::Registry;
 use Bio::EnsEMBL::Utils::Exception qw(throw) ;
 use DateTime;
+use Data::Dumper;
 #use PadWalker;
-
-
 
 #Get all human gene from Ensembl
 #Get the homologue of each human gene, create and  insert into a database table in NRG
@@ -19,8 +23,10 @@ use DateTime;
 
 
 ############Edit this to add more species. The name can be found in Ensembl Compara in table [genomedb]
-my($species)=@ARGV;
+my($species,$file)=@ARGV;
+#$species="drosophila_melanogaster:fly";
 my @species=split(/,/, $species);
+
 my @species_list;
 my %species_names;
 foreach(@species){
@@ -28,6 +34,18 @@ foreach(@species){
 	push(@species_list,$f);
 	$species_names{$f}=$s;
 }
+#$file='/home/xin/Desktop/Workspace/DisEnt/scripts/ensembl_data/tmp/chunks/chunk_001';
+open (FILE, $file);
+my @genes_ids;
+while (<FILE>) {
+	my $line=$_;
+        chomp($line);
+	my @t=split(/\t/, $line);
+	push(@genes_ids, $t[0]); 
+}
+#print "@genes_ids"."\n";
+
+#exit if(!@species);
 #my @species_list=("drosophila_melanogaster","rattus_norvegicus","mus_musculus","saccharomyces_cerevisiae","danio_rerio","caenorhabditis_elegans");
 #my %species_names = ( "drosophila_melanogaster" => "fly",
 #        			  "rattus_norvegicus" => "rat",
@@ -50,6 +68,8 @@ $registry-> load_registry_from_db(
 $registry->set_reconnect_when_lost();
 #print "done!\t". DateTime->now ."\n";
 
+
+
 ############Getting all adaptors
 #print "Getting Adaptors...";
 my $gene_adaptor = $registry-> get_adaptor( 'Human' , 'Core', 'Gene' ); throw ("Error when getting \$gene_adaptor") if(!$gene_adaptor);
@@ -61,29 +81,37 @@ my $mlss_adaptor = $registry-> get_adaptor('Multi' ,'compara', 'MethodLinkSpecie
 
 ############Fetch all Human Genes from EnsEMBL Core
 #print "Fetching all Human Genes...";
-my @genes = @{ $gene_adaptor->fetch_all }; throw("Error when Fetching Human Genes!\n")if( !@genes);
+#my @genes = @{ $gene_adaptor->fetch_all }; throw("Error when Fetching Human Genes!\n")if( !@genes);
 #print scalar(@genes). " human genes found! \t" .DateTime-> now."\n" ;
 ##use for testing
+my @genes;
+while(my $id = shift @genes_ids ){
+	my $gene = $gene_adaptor->fetch_by_stable_id($id);
+	push(@genes, $gene);
+}
 #my $gene = $gene_adaptor->fetch_by_stable_id('ENSG00000001626');
 #push(my @genes, $gene); 
+#print Dumper(@genes);
 
 
 ############Fetching homologies for each Human Gene and save them in database
 #print "Fetching homologues for each Human Gene...\n";
 
 #@genes = @genes [200..400];
-while(my $gene = shift @ genes){
+while(my $gene = shift @genes){
              if($gene){
-                         my $member = $member_adaptor-> fetch_by_source_stable_id('ENSEMBLGENE' ,$gene ->stable_id);
+                         my $member = $member_adaptor-> fetch_by_source_stable_id('ENSEMBLGENE' ,$gene ->stable_id); 
                          if($member){
+				#print DateTime->now , " ", $member->chr_name, " ( ", $member->chr_start, " - ", $member->chr_end,  " ): ", $member->description, "\n";
                                      #Get all orthologues or paralogues for one particular human gene
                                      #push these information into a list @human_xxx_homologues                                                       
                                      foreach(@species_list){
+					
                                      	my $fullName=$_;
                                      	my $shortName=$species_names{$fullName};
-                                     	my @homologues = @{$homology_adaptor->fetch_all_by_Member_paired_species($member, $fullName)};
-                                     	if(@homologues){                                              
-                                                 while(my $h= shift @homologues){
+					my $homologies = $homology_adaptor->fetch_all_by_Member_paired_species($member, $fullName);
+                                     	if(@{$homologies}){                                              	
+                                                 while(my $h= shift @{$homologies}){
                                                  	 my @pair = @{$h->gene_list};
                                                  	 my $human_gene_id;
 						  	 my $orthologue_gene_id;
@@ -91,10 +119,10 @@ while(my $gene = shift @ genes){
                                                  	 if($pair[1]->get_Gene ->display_id =~ /^ENSG/)
                                                  	 { 
 	                                                 	 $human_gene_id = $pair[1]->get_Gene ->display_id;
-								                         $orthologue_gene_id = $pair[0]->get_Gene ->display_id;
+								 $orthologue_gene_id = $pair[0]->get_Gene ->display_id;
                                                  	 }else{
                                                  	 	 $human_gene_id = $pair[0]->get_Gene ->display_id;
-								                         $orthologue_gene_id = $pair[1]->get_Gene ->display_id;
+								 $orthologue_gene_id = $pair[1]->get_Gene ->display_id;
                                                  	 }
 							 my $dn_ds = $h -> dnds_ratio? $h-> dnds_ratio : "NA";
 							 my $type = $h -> description;
