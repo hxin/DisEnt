@@ -28,8 +28,8 @@ if [ $USECACHE = 'n' ]; then
 ##need to find the download url!!
 	echo 'need to come back here to find out the DGA download link!!'
 	##need to edit here like above
-	NEED_UPDATE_DB=1
-	[ ! -e $DGA ] && cp $BASEDIR/tmp/dga/IDMappings.rdf $DGA && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_dga
+	
+	[ ! -e $DGA ] && tar xfz $BASEDIR/tmp/dga/IDMappings.rdf.tar.gz && mv $BASEDIR/tmp/dga/IDMappings.rdf $DGA && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_dga && NEED_UPDATE_DB=1
 
 fi
 

@@ -1,9 +1,0 @@
-/add_hive_url_to_meta.pl/1.5/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-/configure_hive.pl/1.5/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-/configure_inputs.pl/1.5/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-/create_input_ids.pl/1.9/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-/efg_analysis.txt/1.5/Mon Mar  2 14:37:50 2009//Tbranch-ensembl-74
-/example.env/1.2/Mon Mar  2 14:00:16 2009//Tbranch-ensembl-74
-/reseed_jobs.pl/1.4/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-/write_pipeline_config.pl/1.6/Tue Nov 26 14:20:03 2013//Tbranch-ensembl-74
-D
