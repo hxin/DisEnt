@@ -1,2 +1,3 @@
-tmp/
-/scripts/lib/*
+/tmp
+!scripts/generif_data/tmp/dga/
+scripts/lib/
