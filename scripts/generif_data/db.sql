@@ -9,8 +9,8 @@ KEY  `pmid` (  `pmid` ) ,
 KEY  `gene_id` (  `gene_id` )
 );
 
-#DROP TABLE IF EXISTS GeneRIF_dga;
-CREATE TABLE IF NOT EXISTS `GeneRIF_dga` (
+DROP TABLE IF EXISTS DGA;
+CREATE TABLE IF NOT EXISTS `DGA` (
   `entrez_id` int(11) DEFAULT NULL,
 /*  `pmed_title` text,*/
   `pmid` int(11) DEFAULT NULL,

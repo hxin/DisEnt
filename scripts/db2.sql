@@ -35,7 +35,7 @@ ALTER TABLE  `ALL_omim2do` ADD INDEX (  `mapping_source` );
 
 /**
 ALL_rif2do
-**/
+
 DROP TABLE IF EXISTS ALL_rif2do;
 CREATE TABLE `ALL_rif2do` as 
 select t3.source_id,source_description,t3.do_acc,t3.do_description, group_concat(mapping_source) as mapping_source,group_concat(score) as score from 
@@ -49,13 +49,13 @@ ALTER TABLE  `ALL_rif2do` CHANGE  `mapping_source`  `mapping_source` VARCHAR( 20
 ALTER TABLE  `ALL_rif2do` ADD INDEX (  `source_id` );
 ALTER TABLE  `ALL_rif2do` ADD INDEX (  `do_acc` );
 ALTER TABLE  `ALL_rif2do` ADD INDEX (  `mapping_source` );
-
+**/
 
 
 
 DROP TABLE IF EXISTS __tmp_human_d2g_generif;
 CREATE TABLE `__tmp_human_d2g_generif` as
-SELECT distinct t1.entrez_id,t1.ensembl_id,t1.disease_id,t1.did_type ,'g' as `db` FROM xin5.GeneRIF_d2g as t1;
+SELECT distinct t1.entrez_id,t1.ensembl_id,t1.disease_id,t1.did_type ,'g' as `db` FROM DGA_d2g as t1;
 ALTER TABLE  `__tmp_human_d2g_generif` ADD INDEX (  `entrez_id` );
 ALTER TABLE  `__tmp_human_d2g_generif` ADD INDEX (  `ensembl_id` );
 ALTER TABLE  `__tmp_human_d2g_generif` ADD INDEX (  `disease_id` );
@@ -110,4 +110,6 @@ ALTER TABLE  `human_d2g` ADD INDEX (  `db` );
 DROP TABLE IF EXISTS __tmp_human_d2g_generif;
 DROP TABLE IF EXISTS __tmp_human_d2g_omim;
 DROP TABLE IF EXISTS __tmp_human_d2g_variation;
+
+
 

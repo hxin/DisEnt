@@ -35,6 +35,11 @@ if [ $CLEANTMP = 'y' ];then
 	find . -type d -iname 'tmp' | xargs rm -rf;
 fi
 
+if [ $CLEANDB = 'y' ];then
+	echo "[$(date +"%T %D")] Cleaning db..." | tee -a $LOG
+	mysqlshow -u $USER -p$PSW "$DB" >/dev/null 2>&1 && mysqladmin -fb -u $USER -p$PSW drop $DB
+fi
+exit;
 ##in order:entrez,omim,generif,ensembl,metamap
 
 ##create database if not exist

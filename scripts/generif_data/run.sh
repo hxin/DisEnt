@@ -22,24 +22,28 @@ if [ $USECACHE = 'n' ]; then
 		(cd $BASEDIR/tmp/ && wget -nv -N $GENERIF_BASIC_URL)
 		chmod 664 $GRIFB
 		echo "[$(date +"%T %D")] Parsing ..."
-		zgrep -P "^9606" $GRIFB |cut -f2,3,5 >$BASEDIR/tmp/GeneRIF_basic
+		if [ $DEBUG = 'y' ];then
+			zgrep -P "^9606" $GRIFB |cut -f2,3,5 | head -5000 >$BASEDIR/tmp/GeneRIF_basic
+		else
+			zgrep -P "^9606" $GRIFB |cut -f2,3,5 >$BASEDIR/tmp/GeneRIF_basic
+		fi
 	fi
 ##dga 
 ##need to find the download url!!
 	echo 'need to come back here to find out the DGA download link!!'
 	##need to edit here like above
-	[ ! -e $DGA ] && tar xfz $BASEDIR/dga/IDMappings.rdf.tar.gz -C $BASEDIR/tmp/ && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_dga && NEED_UPDATE_DB=1
+	[ ! -e $DGA ] && tar xfz $BASEDIR/dga/IDMappings.rdf.tar.gz -C $BASEDIR/tmp/ && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/DGA && NEED_UPDATE_DB=1
 
 fi
 
 if [ $NEED_UPDATE_DB -eq 1 ]; then
 	echo "[$(date +"%T %D")] Updating db..."$(date +"%T")
 	mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/db.sql
-	mysqlimport -h $HOST -u $USER -p$PSW $DB -L -c do_acc,entrez_id,pmid,rif --delete $BASEDIR/tmp/GeneRIF_dga
+	mysqlimport -h $HOST -u $USER -p$PSW $DB -L -c do_acc,entrez_id,pmid,rif --delete $BASEDIR/tmp/DGA
 	mysqlimport -h $HOST -u $USER -p$PSW -c gene_id,pmid,rif -L --delete $DB $BASEDIR/tmp/GeneRIF_basic
 	echo "[$(date +"%T %D")] Updating HDO ids for DGA data...";
 	perl $BASEDIR/updateID.pl $DB $HOST $USER $PSW
-	echo "[$(date +"%T %D")] Generating GeneRIF disease2gene..."
+	echo "[$(date +"%T %D")] Generating DGA_d2g..."
 	mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/cal_d2g.sql
 fi
 
