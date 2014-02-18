@@ -10,6 +10,7 @@ E2E=$BASEDIR/tmp/gene2ensembl.gz
 H_GENEINFO=$BASEDIR/tmp/Homo_sapiens.gene_info.gz
 GENE_HISTORY=$BASEDIR/tmp/gene_history.gz
 
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
 
 if [ $USECACHE = 'n' ]; then
 

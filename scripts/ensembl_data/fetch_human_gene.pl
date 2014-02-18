@@ -5,7 +5,8 @@
 #Could be used to update the databse or add new species into database
 
 use strict;
-#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl/modules';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/BioPerl-1.6.0';
+#use lib '/home/xin/Workspace/DisEnt/scripts/lib/ensembl-api/ensembl/modules';
 use Bio::EnsEMBL::Registry;
 use Bio::EnsEMBL::Utils::Exception qw(throw) ;
 use DateTime;
@@ -20,7 +21,6 @@ $registry->load_registry_from_db(
 
 $registry->set_reconnect_when_lost();
 my $gene_adaptor = $registry-> get_adaptor( 'Human' , 'Core', 'Gene' ); throw ("Error when getting \$gene_adaptor") if(!$gene_adaptor);
-
 
 
 ############Fetch all Human Genes from EnsEMBL Core

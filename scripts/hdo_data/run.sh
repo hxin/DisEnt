@@ -7,7 +7,7 @@ HDO_RAW=$BASEDIR/tmp/doid.obo
 if [ -f $CONFIG_FILE ]; then
         . $CONFIG_FILE
 fi
-
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
 if [ $USECACHE = 'n' ]; then
 	echo "[$(date +"%T %D")] Checking update..."
 	( [ -n "$(cd $BASEDIR/tmp/; wget -nv -N --spider $HDO_RAW_URL 2>&1 | grep '200 OK')" ] && exit 1; exit 0; )

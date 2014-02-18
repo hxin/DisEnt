@@ -8,7 +8,7 @@ fi
 
 GRIFB=$BASEDIR/tmp/generifs_basic.gz
 DGA=$BASEDIR/tmp/IDMappings.rdf
-
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
 if [ $USECACHE = 'n' ]; then
 	echo "[$(date +"%T %D")] Checking update for Generif data..."
 	( [ -n "$(cd $BASEDIR/tmp/; wget -N --spider $GENERIF_BASIC_URL 2>&1 | grep 'exists')" ] && exit 1; exit 0; )
@@ -28,8 +28,7 @@ if [ $USECACHE = 'n' ]; then
 ##need to find the download url!!
 	echo 'need to come back here to find out the DGA download link!!'
 	##need to edit here like above
-	
-	[ ! -e $DGA ] && tar xfz $BASEDIR/tmp/dga/IDMappings.rdf.tar.gz && mv $BASEDIR/tmp/dga/IDMappings.rdf $DGA && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_dga && NEED_UPDATE_DB=1
+	[ ! -e $DGA ] && tar xfz $BASEDIR/dga/IDMappings.rdf.tar.gz -C $BASEDIR/tmp/ && echo "[$(date +"%T %D")] Parsing DGA..." && cat $DGA | perl $BASEDIR/dga.pl | tail -n+2 >$BASEDIR/tmp/GeneRIF_dga && NEED_UPDATE_DB=1
 
 fi
 

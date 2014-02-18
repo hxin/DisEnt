@@ -1,0 +1,1457 @@
+Processing 00000000.tx.1: 608875|{Gene expression, variation in, QTL}
+Processing 00000000.tx.1: 608878|{Gene expression, variation in, QTL}
+Processing 00000000.tx.1: 606657|{Glaucoma, normal tension, susceptibility to}
+Meta Mapping (833):
+    820  DOID13544:Normal tension glaucoma (low tension glaucoma)
+Processing 00000000.tx.1: 613029|{Glioblastoma 3}
+Meta Mapping (790):
+    790  DOID3068:glioblastoma
+Processing 00000000.tx.1: 137800|{Glioma susceptibility 1}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 613028|{Glioma susceptibility 2}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 607248|{Glioma susceptibility 4}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 613030|{Glioma susceptibility 5}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 613031|{Glioma susceptibility 6}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 613032|{Glioma susceptibility 7}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 613033|{Glioma susceptibility 8}
+Meta Mapping (770):
+    770  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 137800|{Glioma, susceptibility to, somatic}
+Meta Mapping (760):
+    760  DOID3070:glioma, NOS (malignant glioma)
+Processing 00000000.tx.1: 612551|{Glomerulosclerosis, focal segmental, 4, susceptibility to}
+Meta Mapping (814):
+    804  DOID1312:focal segmental glomerulosclerosis
+Processing 00000000.tx.1: 614400|{Glucocorticoid therapy, response to}
+Processing 00000000.tx.1: 612671|{Gout susceptibility 4}
+Meta Mapping (770):
+    770  DOID13189:gout
+Processing 00000000.tx.1: 614395|{Graft-versus-host disease, protection against}
+Meta Mapping (748):
+    748  DOID4:disease
+Processing 00000000.tx.1: 275000|{Graves disease, susceptibility to, 1}
+Meta Mapping (790):
+    790  DOID12361:Grave's disease (Graves' disease)
+Processing 00000000.tx.1: 603388|{Graves disease, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID12361:Grave's disease (Graves' disease)
+Processing 00000000.tx.1: 139200|{Graves disease, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID12361:Grave's disease (Graves' disease)
+Processing 00000000.tx.1: 123890|{Graves disease, susceptibility to, 4}
+Meta Mapping (790):
+    790  DOID12361:Grave's disease (Graves' disease)
+Processing 00000000.tx.1: 300351|{Graves disease, susceptibility to, X-linked}
+Meta Mapping (804):
+    804  DOID0050735:X-linked disease
+Processing 00000000.tx.1: 600263|{H. pylori infection, susceptibility to}
+Processing 00000000.tx.1: 133430|{HDL response to hormone replacement, augmented}
+Processing 00000000.tx.1: 235200|{HFE hemochromatosis, modifier of}
+Meta Mapping (760):
+    760  DOID2352:Haemochromatosis (hemochromatosis)
+Processing 00000000.tx.1: 609423|{HIV infection, resistance to}
+Meta Mapping (806):
+    806  DOID526:HIV infection (Human immunodeficiency virus infectious disease)
+Processing 00000000.tx.1: 609423|{HIV type 1, susceptibility to}
+Processing 00000000.tx.1: 609423|{HIV-1 viremia, susceptibility to}
+Processing 00000000.tx.1: 609423|{HIV-1, resistance to}
+Processing 00000000.tx.1: 609423|{HIV-1, susceptibility to}
+Processing 00000000.tx.1: 609423|{HIV/AIDS, susceptibility to}
+Meta Mapping (760):
+    760  DOID635:AIDS (acquired immunodeficiency syndrome)
+Processing 00000000.tx.1: 609423|{HIV1 infection, resistance to}
+Processing 00000000.tx.1: 609423|{HIV1, resistance to}
+Processing 00000000.tx.1: 610251|{Hangover, susceptibility to}
+Processing 00000000.tx.1: 602089|{Hemangioma, capillary infantile, susceptibility to}
+Meta Mapping (790):
+    783  DOID2725:capillary hemangioma
+Processing 00000000.tx.1: 235400|{Hemolytic uremic syndrome, atypical, susceptibility to, 1}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 612922|{Hemolytic uremic syndrome, atypical, susceptibility to, 2}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 612923|{Hemolytic uremic syndrome, atypical, susceptibility to, 3}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 612924|{Hemolytic uremic syndrome, atypical, susceptibility to, 4}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 612925|{Hemolytic uremic syndrome, atypical, susceptibility to, 5}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 612926|{Hemolytic uremic syndrome, atypical, susceptibility to, 6}
+Meta Mapping (800):
+    800  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 235400|{Hemolytic uremic syndrome, atypical, susceptibility to}
+Meta Mapping (814):
+    814  DOID12554:hemolytic-uremic syndrome
+Processing 00000000.tx.1: 614519|{Hemorrhage, intracerebral, susceptibility to}
+Processing 00000000.tx.1: 604201|{Hepatic fibrosis susceptibility due to Schistosoma mansoni infection}
+Meta Mapping (504):
+    504  DOID1395:schistosomiasis
+Processing 00000000.tx.1: 609532|{Hepatitic C virus, susceptibility to}
+Processing 00000000.tx.1: 610424|{Hepatitis B virus infection, susceptibility to}
+Meta Mapping (742):
+    612  DOID2043:hepatitis B
+    778  DOID934:virus infection (viral infectious disease)
+Processing 00000000.tx.1: 610424|{Hepatitis B virus, susceptibility to}
+Meta Mapping (790):
+    790  DOID2043:hepatitis B
+Processing 00000000.tx.1: 609532|{Hepatitis C virus infection, response to therapy of}
+Meta Mapping (707):
+    598  DOID1883:hepatitis C
+    764  DOID934:virus infection (viral infectious disease)
+Processing 00000000.tx.1: 609532|{Hepatitis C virus, resistance to}
+Meta Mapping (790):
+    790  DOID1883:hepatitis C
+Processing 00000000.tx.1: 609532|{Hepatitis C virus, response to therapy of}
+Meta Mapping (770):
+    770  DOID1883:hepatitis C
+Processing 00000000.tx.1: 614849|{Herpes simplex encephalitis, susceptibility to, 3}
+Meta Mapping (715):
+    778  DOID8566:herpes simplex
+    748  DOID9588:encephalitis
+Processing 00000000.tx.1: 607687|{High density lipoprotein cholesterol, low serum, 3}
+Processing 00000000.tx.1: 142623|{Hirschsprung disease, susceptibility to, 1}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 600155|{Hirschsprung disease, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 613711|{Hirschsprung disease, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 613712|{Hirschsprung disease, susceptibility to, 4}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 600156|{Hirschsprung disease, susceptibility to, 5}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 606874|{Hirschsprung disease, susceptibility to, 6}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 606875|{Hirschsprung disease, susceptibility to, 7}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 608462|{Hirschsprung disease, susceptibility to, 8}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 611644|{Hirschsprung disease, susceptibility to, 9}
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 300221|{Hodgkin disease susceptibility, pseudoautosomal}
+Meta Mapping (640):
+    640  DOID8567:Hodgkin disease (Hodgkin's lymphoma)
+Processing 00000000.tx.1: 614836|{Human herpesvirus 8, susceptibility to}
+Processing 00000000.tx.1: 170998|{Hyperapobetalipoproteinemia, susceptibility to}
+Processing 00000000.tx.1: 143870|{Hypercalciuria, absorptive, susceptibility to}
+Processing 00000000.tx.1: 143890|{Hypercholesterolemia, familial, due to LDLR defect, modifier of}
+Meta Mapping (764):
+    762  DOID13810:familial hypercholesterolemia
+Processing 00000000.tx.1: 143890|{Hypercholesterolemia, familial, modification of}
+Meta Mapping (806):
+    797  DOID13810:familial hypercholesterolemia
+Processing 00000000.tx.1: 143890|{Hypercholesterolemia, susceptibility to}
+Meta Mapping (770):
+    770  DOID2487:hypercholesterolaemia (hypercholesterolemia)
+Processing 00000000.tx.1: 602491|{Hyperlipidemia, familial combined, susceptibility to}
+Meta Mapping (833):
+    820  DOID13809:familial combined hyperlipidemia
+Processing 00000000.tx.1: 608579|{Hypersensitivity syndrome, carbamazepine-induced, susceptibility to}
+Meta Mapping (667):
+    748  DOID1205:hypersensitivity (hypersensitivity reaction type I disease)
+    748  DOID225:syndrome
+Processing 00000000.tx.1: 608622|{Hypertension, diastolic, resistance to}
+Meta Mapping (760):
+    760  DOID10763:hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, salt-sensitive}
+Meta Mapping (797):
+    797  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 1}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 2}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 3}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 4}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 5}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to, 6}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 610948|{Hypertension, essential, susceptibility to, 7}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 611014|{Hypertension, essential, susceptibility to, 8}
+Meta Mapping (790):
+    783  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, essential, susceptibility to}
+Meta Mapping (806):
+    797  DOID10825:essential hypertension
+Processing 00000000.tx.1: 125853|{Hypertension, insulin resistance-related, susceptibility to}
+Meta Mapping (748):
+    748  DOID10763:hypertension
+Processing 00000000.tx.1: 189800|{Hypertension, pregnancy-induced}
+Meta Mapping (770):
+    770  DOID10763:hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, salt-sensitive essential, susceptibility to}
+Meta Mapping (774):
+    774  DOID10825:essential hypertension
+Processing 00000000.tx.1: 145500|{Hypertension, susceptibility to}
+Meta Mapping (770):
+    770  DOID10763:hypertension
+Processing 00000000.tx.1: 145750|{Hypertriglyceridemia, susceptibility to}
+Processing 00000000.tx.1: 614880|{Hypogonadotropic hypogonadism 15 with or without anosmia}
+Meta Mapping (770):
+    770  DOID1921:Hypogonadotropic Hypogonadism (Klinefelter's syndrome)
+Processing 00000000.tx.1: 614897|{Hypogonadotropic hypogonadism 16 with or without anosmia}
+Meta Mapping (770):
+    770  DOID1921:Hypogonadotropic Hypogonadism (Klinefelter's syndrome)
+Processing 00000000.tx.1: 300856|{Hypospadias 4, X-linked, susceptibilty to}
+Meta Mapping (748):
+    748  DOID10892:hypospadias
+Processing 00000000.tx.1: 241800|{Hypothalamic hamartomas, somatic}
+Meta Mapping (816):
+    816  DOID5981:Hypothalamic hamartoma (hamartoma of hypothalamus)
+Processing 00000000.tx.1: 140300|{Hypothyroidism, autoimmune}
+Meta Mapping (790):
+    790  DOID1459:hypothyroidism
+Processing 00000000.tx.1: 613944|{IgA nephropathy, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID2986:IgA nephropathy (IgA glomerulonephritis)
+Processing 00000000.tx.1: 611081|{Inflammatory bowel disease 10}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 191390|{Inflammatory bowel disease 11}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612241|{Inflammatory bowel disease 12}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612244|{Inflammatory bowel disease 13}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612245|{Inflammatory bowel disease 14}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612255|{Inflammatory bowel disease 15}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612259|{Inflammatory bowel disease 16}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612261|{Inflammatory bowel disease 17, protection against}
+Meta Mapping (814):
+    814  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612262|{Inflammatory bowel disease 18}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 266600|{Inflammatory bowel disease 1}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612288|{Inflammatory bowel disease 20}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612354|{Inflammatory bowel disease 21}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612380|{Inflammatory bowel disease 22}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612381|{Inflammatory bowel disease 23}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612566|{Inflammatory bowel disease 24}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612639|{Inflammatory bowel disease 26}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 612796|{Inflammatory bowel disease 27}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 601458|{Inflammatory bowel disease 2}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 604519|{Inflammatory bowel disease 3}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 606675|{Inflammatory bowel disease 4}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 606348|{Inflammatory bowel disease 5}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 606674|{Inflammatory bowel disease 6}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 605225|{Inflammatory bowel disease 7}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 606668|{Inflammatory bowel disease 8}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 608448|{Inflammatory bowel disease 9}
+Meta Mapping (862):
+    862  DOID0050589:inflammatory bowel disease
+Processing 00000000.tx.1: 614680|{Influenza, severe, susceptibility to}
+Meta Mapping (760):
+    760  DOID8469:influenza
+Processing 00000000.tx.1: 125853|{Insulin resistance, susceptibility to}
+Processing 00000000.tx.1: 603783|{Intelligence QTL1}
+Processing 00000000.tx.1: 610295|{Intelligence QTL3}
+Processing 00000000.tx.1: 610294|{Intelligence QTL3}
+Processing 00000000.tx.1: 603932|{Intervertebral disc disease, susceptibility to}
+Meta Mapping (753):
+    753  DOID4:disease
+Processing 00000000.tx.1: 108010|{Intracranial hemorrhage in brain cerebrovascular malformations, susceptibility to}
+Processing 00000000.tx.1: 601367|{Ischemic stroke, susceptibility to}
+Meta Mapping (659):
+    688  DOID326:ischemia
+    760  DOID3455:Stroke (cerebrovascular accident)
+Processing 00000000.tx.1: 608207|{Kala-azar, susceptibility to, 1}
+Meta Mapping (790):
+    790  DOID9146:Kala-Azar (visceral leishmaniasis)
+Processing 00000000.tx.1: 611381|{Kala-azar, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID9146:Kala-Azar (visceral leishmaniasis)
+Processing 00000000.tx.1: 611382|{Kala-azar, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID9146:Kala-Azar (visceral leishmaniasis)
+Processing 00000000.tx.1: 148000|{Kaposi sarcoma, susceptibility to}
+Meta Mapping (806):
+    806  DOID8632:Kaposi's sarcoma
+Processing 00000000.tx.1: 611775|{Kawasaki disease, susceptibility to}
+Meta Mapping (806):
+    806  DOID13378:Kawasaki disease
+Processing 00000000.tx.1: 245300|{Kuru, susceptibility to}
+Meta Mapping (770):
+    770  DOID648:kuru (kuru encephalopathy)
+Processing 00000000.tx.1: 612740|{Lead poisoning, susceptibility to}
+Processing 00000000.tx.1: 308905|{Leber optic atrophy, susceptibility to}
+Meta Mapping (833):
+    833  DOID705:optic atrophy, Leber's (leber hereditary optic neuropathy)
+Processing 00000000.tx.1: 608556|{Legionaire disease, susceptibility to}
+Meta Mapping (760):
+    760  DOID4:disease
+Processing 00000000.tx.1: 609888|{Leprosy, paucibacillary type, susceptibility to}
+Meta Mapping (753):
+    753  DOID1024:leprosy
+Processing 00000000.tx.1: 613223|{Leprosy, protection against}
+Meta Mapping (770):
+    770  DOID1024:leprosy
+Processing 00000000.tx.1: 610988|{Leprosy, susceptibility to, 4}
+Meta Mapping (760):
+    760  DOID1024:leprosy
+Processing 00000000.tx.1: 613223|{Leprosy, susceptibility to, 5}
+Meta Mapping (760):
+    760  DOID1024:leprosy
+Processing 00000000.tx.1: 246300|{Leprosy, susceptibility to}
+Meta Mapping (770):
+    770  DOID1024:leprosy
+Processing 00000000.tx.1: 607572|{Leprosy, susceptibility to}
+Meta Mapping (770):
+    770  DOID1024:leprosy
+Processing 00000000.tx.1: 613407|{Leprosy, susceptiblity to, 6}
+Meta Mapping (760):
+    760  DOID1024:leprosy
+Processing 00000000.tx.1: 613067|{Leukemia, acute lymphoblastic, susceptibility to, 2}
+Meta Mapping (778):
+    774  DOID12603:acute leukemia
+Processing 00000000.tx.1: 142981|{Leukemia, acute lymphoblastic, susceptibility to}
+Meta Mapping (790):
+    783  DOID12603:acute leukemia
+Processing 00000000.tx.1: 613065|{Leukemia, acute lymphocytic, susceptibility to, 1}
+Meta Mapping (814):
+    804  DOID9952:acute lymphocytic leukemia
+Processing 00000000.tx.1: 601626|{Leukemia, acute myeloid, susceptibility to}
+Meta Mapping (833):
+    820  DOID9119:acute myeloid leukaemia (acute myeloid leukemia)
+Processing 00000000.tx.1: 601626|{Leukemia, acute myeloid}
+Meta Mapping (881):
+    881  DOID9119:acute myeloid leukaemia (acute myeloid leukemia)
+Processing 00000000.tx.1: 612558|{Leukemia, chronic lymphocytic susceptibility to, 4}
+Meta Mapping (814):
+    804  DOID1040:chronic lymphocytic leukemia
+Processing 00000000.tx.1: 612559|{Leukemia, chronic lymphocytic susceptibility to, 5}
+Meta Mapping (814):
+    804  DOID1040:chronic lymphocytic leukemia
+Processing 00000000.tx.1: 609630|{Leukemia, chronic lymphocytic, susceptibility to, 1}
+Meta Mapping (814):
+    804  DOID1040:chronic lymphocytic leukemia
+Processing 00000000.tx.1: 109543|{Leukemia, chronic lymphocytic, susceptibility to, 2}
+Meta Mapping (814):
+    804  DOID1040:chronic lymphocytic leukemia
+Processing 00000000.tx.1: 612557|{Leukemia, chronic lymphocytic, susceptibility to, 3}
+Meta Mapping (814):
+    804  DOID1040:chronic lymphocytic leukemia
+Processing 00000000.tx.1: 125860|{Leukemia, post-chemotherapy, susceptibility to}
+Meta Mapping (753):
+    753  DOID1240:leukemia
+Processing 00000000.tx.1: 127750|{Lewy body dementia, susceptibility to}
+Meta Mapping (833):
+    833  DOID12217:Lewy body dementia
+Processing 00000000.tx.1: 608709|{Lipodystrophy, partial, acquired, susceptibility to}
+Meta Mapping (753):
+    753  DOID811:lipodystrophy
+Processing 00000000.tx.1: 192500|{Long QT syndrome 1, acquired, susceptibility to}
+Meta Mapping (800):
+    800  DOID2843:long Q-T syndrome (long QT syndrome)
+Processing 00000000.tx.1: 613688|{Long QT syndrome 2, acquired, susceptibility to}
+Meta Mapping (800):
+    800  DOID2843:long Q-T syndrome (long QT syndrome)
+Processing 00000000.tx.1: 613688|{Long QT syndrome, acquired, reduced susceptibility to}
+Meta Mapping (800):
+    800  DOID2843:long Q-T syndrome (long QT syndrome)
+Processing 00000000.tx.1: 603776|{Low density lipoprotein cholesterol level QTL 1}
+Processing 00000000.tx.1: 603932|{Lumbar disc degeneration}
+Processing 00000000.tx.1: 603932|{Lumbar disc disease, susceptibility to}
+Meta Mapping (753):
+    753  DOID4:disease
+Processing 00000000.tx.1: 603932|{Lumbar disc herniation, susceptibility to}
+Processing 00000000.tx.1: 612052|{Lung cancer susceptibility 2}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 612571|{Lung cancer susceptibility 3}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 612593|{Lung cancer susceptibility 4}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 614210|{Lung cancer susceptibility 5}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 608935|{Lung cancer susceptibility}
+Meta Mapping (666):
+    666  DOID1324:lung cancer
+Processing 00000000.tx.1: 211980|{Lung cancer, protection against}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 211980|{Lung cancer, resistance to}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 211980|{Lung cancer, susceptibility to}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 613024|{Lymphoma, follicular, somatic}
+Meta Mapping (819):
+    819  DOID8524:follicular lymphoma (nodular lymphoma)
+Processing 00000000.tx.1: 153600|{Macroglobulinemia, Waldenstrom, susceptibility to, 1}
+Meta Mapping (753):
+    753  DOID9080:macroglobulinemia
+Processing 00000000.tx.1: 610430|{Macroglobulinemia, Waldenstrom, susceptibility to, 2}
+Meta Mapping (753):
+    753  DOID9080:macroglobulinemia
+Processing 00000000.tx.1: 611488|{Macular degeneration, age-related, 10}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 613784|{Macular degeneration, age-related, 12}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 615439|{Macular degeneration, age-related, 13, susceptibility to}
+Meta Mapping (833):
+    819  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 615489|{Macular degeneration, age-related, 14, reduced risk of}
+Meta Mapping (818):
+    807  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 603075|{Macular degeneration, age-related, 1}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 610698|{Macular degeneration, age-related, 4}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 610149|{Macular degeneration, age-related, 7}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 613778|{Macular degeneration, age-related, 8}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 611378|{Macular degeneration, age-related, 9}
+Meta Mapping (858):
+    858  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 610149|{Macular degeneration, age-related, neovascular type}
+Meta Mapping (861):
+    861  DOID10873:Neovascular age-related macular degeneration (Kuhnt-Junius degeneration)
+Processing 00000000.tx.1: 603075|{Macular degeneration, age-related, reduced risk of}
+Meta Mapping (833):
+    819  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 613761|{Macular degeneration, age-related, susceptibility to 5}
+Meta Mapping (833):
+    819  DOID10871:age related macular degeneration
+Processing 00000000.tx.1: 125480|{Major affective disorder 1}
+Processing 00000000.tx.1: 609633|{Major affective disorder 3, early onset}
+Processing 00000000.tx.1: 611535|{Major affective disorder 5}
+Processing 00000000.tx.1: 611536|{Major affective disorder 6}
+Processing 00000000.tx.1: 612371|{Major affective disorder-7, susceptibility to}
+Processing 00000000.tx.1: 612357|{Major affective disorder-8, susceptibility to}
+Processing 00000000.tx.1: 612372|{Major affective disorder-9, susceptibility to}
+Processing 00000000.tx.1: 608516|{Major depressive disorder and accelerated response to antidepressant drug treatment}
+Meta Mapping (775):
+    775  DOID1470:major depressive disorder
+Processing 00000000.tx.1: 608516|{Major depressive disorder, response to citalopram therapy in}
+Meta Mapping (790):
+    790  DOID1470:major depressive disorder
+Processing 00000000.tx.1: 611162|{Malaria, cerebral, reduced risk of}
+Meta Mapping (790):
+    783  DOID14069:cerebral malaria
+Processing 00000000.tx.1: 611162|{Malaria, cerebral, susceptibility to}
+Meta Mapping (806):
+    797  DOID14069:cerebral malaria
+Processing 00000000.tx.1: 248310|{Malaria, intensity of infection}
+Meta Mapping (760):
+    760  DOID12365:malaria
+Processing 00000000.tx.1: 609148|{Malaria, mild, susceptibility to}
+Meta Mapping (760):
+    760  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, protection against}
+Meta Mapping (770):
+    770  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, resistance to}
+Meta Mapping (770):
+    770  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, severe, resistance to}
+Meta Mapping (760):
+    760  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, severe, susceptibility to}
+Meta Mapping (760):
+    760  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, susceptibility to}
+Meta Mapping (770):
+    770  DOID12365:malaria
+Processing 00000000.tx.1: 611162|{Malaria, vivax, protection against}
+Meta Mapping (806):
+    797  DOID12978:Vivax Malaria (Plasmodium vivax malaria)
+Processing 00000000.tx.1: 145600|{Malignant hyperthermia susceptibility 1}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 154275|{Malignant hyperthermia susceptibility 2}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 154276|{Malignant hyperthermia susceptibility 3}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 600467|{Malignant hyperthermia susceptibility 4}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 601887|{Malignant hyperthermia susceptibility 5}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 601888|{Malignant hyperthermia susceptibility 6}
+Meta Mapping (806):
+    806  DOID8545:malignant hyperthermia
+Processing 00000000.tx.1: 156240|{Malignant mesothelioma, susceptibility to}
+Meta Mapping (806):
+    806  DOID1790:malignant mesothelioma
+Processing 00000000.tx.1: 603855|{Meconium ileus in cystic fibrosis, susceptibility to}
+Meta Mapping (694):
+    744  DOID8440:ileus
+    604  DOID1485:cystic fibrosis
+Processing 00000000.tx.1: 155255|{Medulloblastoma}
+Meta Mapping (833):
+    833  DOID3858:medulloblastoma
+Processing 00000000.tx.1: 155600|{Melanoma, cutaneous malignant, 1}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 155601|{Melanoma, cutaneous malignant, 2}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 609048|{Melanoma, cutaneous malignant, 3}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 608035|{Melanoma, cutaneous malignant, 4}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 613099|{Melanoma, cutaneous malignant, 5}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 613972|{Melanoma, cutaneous malignant, 6}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 612263|{Melanoma, cutaneous malignant, 7}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 615134|{Melanoma, cutaneous malignant, 9}
+Meta Mapping (797):
+    797  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 601800|{Melanoma, cutaneous malignant, susceptibility to, 8}
+Meta Mapping (774):
+    774  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 614456|{Melanoma, cutaneous malignant, susceptibility to, 8}
+Meta Mapping (774):
+    774  DOID1909:malignant melanoma (melanoma)
+Processing 00000000.tx.1: 606660|{Melanoma, uveal, susceptibility to, 1}
+Meta Mapping (753):
+    753  DOID1909:melanoma
+Processing 00000000.tx.1: 606661|{Melanoma, uveal, susceptibility to, 2}
+Meta Mapping (753):
+    753  DOID1909:melanoma
+Processing 00000000.tx.1: 615557|{Melioidosis, susceptibilty to}
+Meta Mapping (770):
+    770  DOID5052:melioidosis
+Processing 00000000.tx.1: 612882|{Menarche, age at, QTL2}
+Processing 00000000.tx.1: 612883|{Menarche, age at, QTL3}
+Processing 00000000.tx.1: 610873|{Menarche, age at, QTL}
+Processing 00000000.tx.1: 607174|{Meningioma, familial, susceptibility to}
+Meta Mapping (806):
+    797  DOID4586:familial meningioma
+Processing 00000000.tx.1: 607174|{Meningioma}
+Meta Mapping (833):
+    833  DOID3565:meningioma
+Processing 00000000.tx.1: 300488|{Menopause, natural, age at, QTL1}
+Processing 00000000.tx.1: 612884|{Menopause, natural, age at, QTL2}
+Processing 00000000.tx.1: 612885|{Menopause, natural, age at, QTL3}
+Processing 00000000.tx.1: 612886|{Menopause, natural, age at, QTL4}
+Processing 00000000.tx.1: 603663|{Mental health wellness-1}
+Processing 00000000.tx.1: 156240|{Mesothelioma, somatic}
+Meta Mapping (790):
+    790  DOID2645:Mesothelioma, NOS (benign mesothelioma)
+Processing 00000000.tx.1: 605552|{Metabolic syndrome, protection against}
+Meta Mapping (760):
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 603933|{Microvascular complications of diabetes 1}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612623|{Microvascular complications of diabetes 2}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612624|{Microvascular complications of diabetes 3}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612628|{Microvascular complications of diabetes 4}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612633|{Microvascular complications of diabetes 5}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612634|{Microvascular complications of diabetes 6}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 612635|{Microvascular complications of diabetes 7}
+Meta Mapping (586):
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 609179|{Migraine with aura, susceptibility to, 7}
+Meta Mapping (814):
+    814  DOID10024:migraine with aura
+Processing 00000000.tx.1: 609670|{Migraine with aura, susceptibility to, 9}
+Meta Mapping (814):
+    814  DOID10024:migraine with aura
+Processing 00000000.tx.1: 157300|{Migraine with or without aura, susceptibility to, 1}
+Meta Mapping (784):
+    784  DOID10024:migraine with aura
+Meta Mapping (784):
+    784  DOID12783:migraine without aura
+Processing 00000000.tx.1: 607498|{Migraine with or without aura, susceptibility to, 3}
+Meta Mapping (784):
+    784  DOID10024:migraine with aura
+Meta Mapping (784):
+    784  DOID12783:migraine without aura
+Processing 00000000.tx.1: 607508|{Migraine with or without aura, susceptibility to, 5}
+Meta Mapping (784):
+    784  DOID10024:migraine with aura
+Meta Mapping (784):
+    784  DOID12783:migraine without aura
+Processing 00000000.tx.1: 607501|{Migraine without aura, susceptibility to, 4}
+Meta Mapping (814):
+    814  DOID12783:migraine without aura
+Processing 00000000.tx.1: 157300|{Migraine without aura, susceptibility to}
+Meta Mapping (833):
+    833  DOID12783:migraine without aura
+Processing 00000000.tx.1: 300125|{Migraine, familial typical, susceptibility to, 2}
+Meta Mapping (748):
+    748  DOID6364:migraine
+Processing 00000000.tx.1: 609570|{Migraine, susceptibility to, 8}
+Meta Mapping (760):
+    760  DOID6364:migraine
+Processing 00000000.tx.1: 157300|{Migraine, susceptibility to}
+Meta Mapping (770):
+    770  DOID6364:migraine
+Processing 00000000.tx.1: 611706|{Migraine, with or without aura, susceptibility to, 12}
+Meta Mapping (784):
+    784  DOID10024:migraine with aura
+Meta Mapping (784):
+    784  DOID12783:migraine without aura
+Processing 00000000.tx.1: 613656|{Migraine, with or without aura, susceptibility to, 13}
+Meta Mapping (784):
+    784  DOID10024:migraine with aura
+Meta Mapping (784):
+    784  DOID12783:migraine without aura
+Processing 00000000.tx.1: 607151|{Moyamoya disease 2, susceptibility to}
+Meta Mapping (790):
+    790  DOID13099:Moyamoya disease
+Processing 00000000.tx.1: 254500|{Multiple myeloma, resistance to}
+Meta Mapping (806):
+    806  DOID9538:multiple myeloma
+Processing 00000000.tx.1: 254500|{Multiple myeloma, susceptibility to}
+Meta Mapping (806):
+    806  DOID9538:multiple myeloma
+Processing 00000000.tx.1: 126200|{Multiple sclerosis, disease progression, modifier of}
+Meta Mapping (715):
+    778  DOID2377:multiple sclerosis
+    581  DOID4:disease
+Processing 00000000.tx.1: 126200|{Multiple sclerosis, susceptibility to, 1}
+Meta Mapping (790):
+    790  DOID2377:multiple sclerosis
+Processing 00000000.tx.1: 612594|{Multiple sclerosis, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID2377:multiple sclerosis
+Processing 00000000.tx.1: 612595|{Multiple sclerosis, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID2377:multiple sclerosis
+Processing 00000000.tx.1: 612596|{Multiple sclerosis, susceptibility to, 4}
+Meta Mapping (790):
+    790  DOID2377:multiple sclerosis
+Processing 00000000.tx.1: 614810|{Multiple sclerosis, susceptibility to, 5}
+Meta Mapping (790):
+    790  DOID2377:multiple sclerosis
+Processing 00000000.tx.1: 132800|{Multiple self-healing squamous epithelioma, susceptiblity to}
+Meta Mapping (744):
+    744  DOID305:epithelioma (carcinoma)
+Processing 00000000.tx.1: 146500|{Multiple system atrophy, susceptibility to}
+Meta Mapping (833):
+    833  DOID4752:multiple system atrophy
+Processing 00000000.tx.1: 209950|{Mycobacterial and salmonella infections, susceptibility to}
+Meta Mapping (757):
+    757  DOID2757:Mycobacterial Infection (Mycobacterium infectious disease)
+Processing 00000000.tx.1: 209950|{Mycobacterial infection, atypical, familial disseminated}
+Meta Mapping (797):
+    797  DOID412:Atypical mycobacterium infection NOS (atypical Mycobacterium infectious disease)
+Processing 00000000.tx.1: 607948|{Mycobacterium tuberculosis infection, protection against}
+Meta Mapping (710):
+    748  DOID2757:Mycobacterial Infection (Mycobacterium infectious disease)
+    586  DOID399:tuberculosis
+Processing 00000000.tx.1: 607948|{Mycobacterium tuberculosis, protection against}
+Meta Mapping (760):
+    760  DOID399:tuberculosis
+Processing 00000000.tx.1: 607948|{Mycobacterium tuberculosis, susceptibility to infection by}
+Meta Mapping (682):
+    738  DOID2757:Mycobacterial Infection (Mycobacterium infectious disease)
+    748  DOID399:tuberculosis
+Processing 00000000.tx.1: 611046|{Mycobacterium tuberculosis, susceptibility to, 2}
+Meta Mapping (753):
+    753  DOID399:tuberculosis
+Processing 00000000.tx.1: 612929|{Mycobacterium tuberculosis, susceptibility to, 3}
+Meta Mapping (753):
+    753  DOID399:tuberculosis
+Processing 00000000.tx.1: 607948|{Mycobacterium tuberculosis, susceptibility to}
+Meta Mapping (760):
+    760  DOID399:tuberculosis
+Processing 00000000.tx.1: 614286|{Myelodysplastic syndrome, susceptibility to}
+Meta Mapping (760):
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 608446|{Myocardial infarcation, susceptibility to}
+Processing 00000000.tx.1: 107741|{Myocardial infarction susceptibility}
+Meta Mapping (666):
+    666  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 608446|{Myocardial infarction, decreased susceptibility to}
+Meta Mapping (790):
+    790  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 608446|{Myocardial infarction, protection against}
+Meta Mapping (806):
+    806  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 608557|{Myocardial infarction, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 106180|{Myocardial infarction, susceptibility to}
+Meta Mapping (806):
+    806  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 608446|{Myocardial infarction, susceptibility to}
+Meta Mapping (806):
+    806  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 254770|{Myoclonic epilepsy, juvenile, susceptibility to, 1}
+Meta Mapping (814):
+    804  DOID4890:juvenile myoclonic epilepsy
+Processing 00000000.tx.1: 612417|{Narcolepsy 4}
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 612851|{Narcolepsy 5}
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 607107|{Nasopharyngeal carcinoma 1}
+Meta Mapping (833):
+    833  DOID9261:Nasopharyngeal carcinoma (nasopharynx carcinoma)
+Processing 00000000.tx.1: 161550|{Nasopharyngeal carcinoma, susceptibility to, 2}
+Meta Mapping (790):
+    790  DOID9261:Nasopharyngeal carcinoma (nasopharynx carcinoma)
+Processing 00000000.tx.1: 605990|{Nephrolithiasis, uric acid, susceptibility to}
+Meta Mapping (833):
+    820  DOID580:Uric acid nephrolithiasis (acute urate nephropathy)
+Processing 00000000.tx.1: 601634|{Neural tube defects, folate-sensitive, susceptibility to}
+Meta Mapping (633):
+    633  DOID4964:neurosis (neurotic disorder)
+Processing 00000000.tx.1: 182940|{Neural tube defects, susceptibility to}
+Meta Mapping (641):
+    641  DOID4964:neurosis (neurotic disorder)
+Processing 00000000.tx.1: 601634|{Neural tube defects, susceptibility to}
+Meta Mapping (641):
+    641  DOID4964:neurosis (neurotic disorder)
+Processing 00000000.tx.1: 256700|{Neuroblastoma, susceptibility to, 1}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613013|{Neuroblastoma, susceptibility to, 2}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613014|{Neuroblastoma, susceptibility to, 3}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613015|{Neuroblastoma, susceptibility to, 4}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613016|{Neuroblastoma, susceptibility to, 5}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613017|{Neuroblastoma, susceptibility to, 6}
+Meta Mapping (760):
+    760  DOID769:neuroblastoma
+Processing 00000000.tx.1: 162900|{Nevus sebaceous, somatic}
+Meta Mapping (770):
+    770  DOID2681:nevus
+Processing 00000000.tx.1: 188890|{Nicotine addiction, protection from}
+Processing 00000000.tx.1: 188890|{Nicotine addiction, susceptibility to}
+Processing 00000000.tx.1: 188890|{Nicotine dependence, protection against}
+Meta Mapping (806):
+    806  DOID0050742:nicotine dependence
+Processing 00000000.tx.1: 188890|{Nicotine dependence, susceptibility to}
+Meta Mapping (806):
+    806  DOID0050742:nicotine dependence
+Processing 00000000.tx.1: 612052|{Nicotine dependence, susceptibility to}
+Meta Mapping (806):
+    806  DOID0050742:nicotine dependence
+Processing 00000000.tx.1: 258660|{Nonarteritic anterior ischemic optic neuropathy, susceptibility to}
+Meta Mapping (800):
+    800  DOID12010:ischemic optic neuropathy
+Processing 00000000.tx.1: 211980|{Nonsmall cell lung cancer, susceptibility to}
+Meta Mapping (778):
+    778  DOID1324:lung cancer
+Processing 00000000.tx.1: 603040|{Nonsmall cell lung cancer}
+Meta Mapping (806):
+    806  DOID1324:lung cancer
+Processing 00000000.tx.1: 182100|{Norwalk virus infection, resistance to}
+Meta Mapping (790):
+    790  DOID934:virus infection (viral infectious disease)
+Processing 00000000.tx.1: 601665|{Obesity, association with}
+Meta Mapping (770):
+    770  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity, early-onset, susceptibility to}
+Meta Mapping (753):
+    753  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity, late-onset}
+Meta Mapping (770):
+    770  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity, severe, and type II diabetes}
+Meta Mapping (706):
+    774  DOID11981:Severe obesity (morbid obesity)
+    581  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 602025|{Obesity, severe, susceptibility to, BMIQ9}
+Meta Mapping (790):
+    783  DOID11981:Severe obesity (morbid obesity)
+Processing 00000000.tx.1: 607514|{Obesity, susceptibility to, BMIQ10}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 300306|{Obesity, susceptibility to, BMIQ11}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 612362|{Obesity, susceptibility to, BMIQ12}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 615457|{Obesity, susceptibility to, BMIQ18}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 607447|{Obesity, susceptibility to, BMIQ4}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 608410|{Obesity, susceptibility to, BMIQ7}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 603188|{Obesity, susceptibility to, BMIQ8}
+Meta Mapping (760):
+    760  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity, susceptibility to}
+Meta Mapping (770):
+    770  DOID9970:obesity
+Processing 00000000.tx.1: 607514|{Obesity, susceptibility to}
+Meta Mapping (770):
+    770  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity, variation in}
+Meta Mapping (770):
+    770  DOID9970:obesity
+Processing 00000000.tx.1: 601665|{Obesity}
+Meta Mapping (833):
+    833  DOID9970:obesity
+Processing 00000000.tx.1: 164230|{Obsessive-compulsive disorder, protection against}
+Meta Mapping (833):
+    833  DOID10933:obsessive-compulsive disorder
+Processing 00000000.tx.1: 164230|{Obsessive-compulsive disorder, susceptibility to}
+Meta Mapping (833):
+    833  DOID10933:obsessive-compulsive disorder
+Processing 00000000.tx.1: 164230|{Obsessive-compulsive disorder}
+Meta Mapping (909):
+    909  DOID10933:obsessive-compulsive disorder
+Processing 00000000.tx.1: 610064|{Opioid dependence, susceptibility to, 1}
+Processing 00000000.tx.1: 610064|{Opioid dependence, susceptibility to}
+Processing 00000000.tx.1: 168820|{Organophosphate poisoning, sensitivity to}
+Processing 00000000.tx.1: 602475|{Ossification of the posterior longitudinal spinal ligaments}
+Processing 00000000.tx.1: 165720|{Osteoarthritis susceptibility 1}
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 140600|{Osteoarthritis susceptibility 2}
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 607850|{Osteoarthritis susceptibility 3}
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 610839|{Osteoarthritis susceptibility 4}
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 612401|{Osteoarthritis susceptibility 6}
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 612400|{Osteoarthritis-5}
+Meta Mapping (790):
+    790  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 615221|{Osteoporosis, early-onset, susceptibility to, autosomal dominant}
+Meta Mapping (744):
+    744  DOID11476:osteoporosis
+Processing 00000000.tx.1: 166710|{Osteoporosis, postmenopausal, susceptibility}
+Meta Mapping (770):
+    770  DOID11476:osteoporosis
+Processing 00000000.tx.1: 166710|{Osteoporosis, postmenopausal}
+Meta Mapping (790):
+    790  DOID11476:osteoporosis
+Processing 00000000.tx.1: 166710|{Osteoporosis, susceptibility to}
+Meta Mapping (770):
+    770  DOID11476:osteoporosis
+Processing 00000000.tx.1: 166710|{Osteoporosis}
+Meta Mapping (833):
+    833  DOID11476:osteoporosis
+Processing 00000000.tx.1: 166760|{Otitis media, susceptibility to}
+Meta Mapping (806):
+    806  DOID10754:otitis media
+Processing 00000000.tx.1: 611571|{Otosclerosis 4}
+Meta Mapping (790):
+    790  DOID12185:otosclerosis
+Processing 00000000.tx.1: 167000|{Ovarian cancer, somatic}
+Meta Mapping (833):
+    833  DOID2394:ovarian cancer
+Processing 00000000.tx.1: 607893|{Ovarian cancer, susceptibility to}
+Meta Mapping (806):
+    806  DOID2394:ovarian cancer
+Processing 00000000.tx.1: 606856|{Pancreatic cancer, susceptibility to, 1}
+Meta Mapping (790):
+    790  DOID1793:pancreatic cancer
+Processing 00000000.tx.1: 613348|{Pancreatic cancer, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID1793:pancreatic cancer
+Processing 00000000.tx.1: 614320|{Pancreatic cancer, susceptibility to, 4}
+Meta Mapping (790):
+    790  DOID1793:pancreatic cancer
+Processing 00000000.tx.1: 167800|{Pancreatitis, chronic, protection against}
+Meta Mapping (760):
+    760  DOID4989:pancreatitis
+Processing 00000000.tx.1: 167800|{Pancreatitis, chronic, susceptibility to}
+Meta Mapping (760):
+    760  DOID4989:pancreatitis
+Processing 00000000.tx.1: 167800|{Pancreatitis, idiopathic}
+Meta Mapping (790):
+    790  DOID4989:pancreatitis
+Processing 00000000.tx.1: 167870|{Panic disorder, susceptibility to}
+Meta Mapping (806):
+    806  DOID594:panic disorder
+Processing 00000000.tx.1: 613164|{Parkinson disease 16}
+Meta Mapping (833):
+    833  DOID14330:Parkinson's disease
+Processing 00000000.tx.1: 168600|{Parkinson disease, late-onset, susceptibility to}
+Meta Mapping (778):
+    778  DOID14330:Parkinson's disease
+Processing 00000000.tx.1: 168600|{Parkinson disease, susceptibility to}
+Meta Mapping (806):
+    806  DOID14330:Parkinson's disease
+Processing 00000000.tx.1: 607411|{Patent ductus arteriosus, susceptibility to}
+Meta Mapping (833):
+    833  DOID13832:patent ductus arteriosus
+Processing 00000000.tx.1: 176780|{Pelvic organ prolapse, susceptibility to, 1}
+Processing 00000000.tx.1: 613088|{Pelvic organ prolapse, susceptibility to, 2}
+Processing 00000000.tx.1: 171300|{Pheochromocytoma, modifier of}
+Meta Mapping (770):
+    770  DOID0050771:phaeochromocytoma
+Processing 00000000.tx.1: 171300|{Pheochromocytoma, susceptibility to}
+Meta Mapping (770):
+    770  DOID0050771:phaeochromocytoma
+Processing 00000000.tx.1: 163729|{Placental abruption}
+Meta Mapping (882):
+    882  DOID9667:placental abruption
+Processing 00000000.tx.1: 611384|{Plasmodium falciparum fever episodes QTL1}
+Processing 00000000.tx.1: 610799|{Pneumococcal disease, invasive, protection against}
+Meta Mapping (753):
+    753  DOID4:disease
+Processing 00000000.tx.1: 614590|{Podoconiosis, susceptibility to}
+Meta Mapping (770):
+    770  DOID0050138:podoconiosis
+Processing 00000000.tx.1: 176100|{Porphyria cutanea tarda, susceptibility to}
+Meta Mapping (833):
+    833  DOID3132:porphyria cutanea tarda
+Processing 00000000.tx.1: 176200|{Porphyria variegata, susceptibility to}
+Meta Mapping (760):
+    760  DOID13268:porphyria
+Processing 00000000.tx.1: 106150|{Preeclampsia, susceptibility to}
+Meta Mapping (770):
+    770  DOID10591:pre-eclampsia
+Processing 00000000.tx.1: 189800|{Preeclampsia, susceptibility to}
+Meta Mapping (770):
+    770  DOID10591:pre-eclampsia
+Processing 00000000.tx.1: 614389|{Pregnancy loss, recurrent, susceptibility to, 1}
+Processing 00000000.tx.1: 614390|{Pregnancy loss, recurrent, susceptibility to, 2}
+Processing 00000000.tx.1: 614391|{Pregnancy loss, recurrent, susceptibility to, 3}
+Processing 00000000.tx.1: 610504|{Preterm premature rupture of the membranes, susceptibility to}
+Processing 00000000.tx.1: 176807|{Prostate cancer aggressiveness QTL}
+Meta Mapping (640):
+    640  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, familial, susceptibility to}
+Meta Mapping (833):
+    820  DOID10283:Prostate cancer, familial (prostate cancer)
+Processing 00000000.tx.1: 611100|{Prostate cancer, hereditary, 10}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 611955|{Prostate cancer, hereditary, 11}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 611868|{Prostate cancer, hereditary, 12}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 611928|{Prostate cancer, hereditary, 13}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 611958|{Prostate cancer, hereditary, 14}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 611959|{Prostate cancer, hereditary, 15}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 614731|{Prostate cancer, hereditary, 2, susceptibility to}
+Meta Mapping (778):
+    778  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, hereditary, 5}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 610321|{Prostate cancer, hereditary, 7}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 610997|{Prostate cancer, hereditary, 9}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 300147|{Prostate cancer, hereditary, X-linked 1}
+Meta Mapping (778):
+    778  DOID10283:prostate cancer
+Processing 00000000.tx.1: 300704|{Prostate cancer, hereditary, X-linked 2}
+Meta Mapping (778):
+    778  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, progression of}
+Meta Mapping (844):
+    835  DOID10286:cancer of prostate (prostate carcinoma)
+Processing 00000000.tx.1: 176807|{Prostate cancer, somatic}
+Meta Mapping (833):
+    833  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, susceptibility to, 3}
+Meta Mapping (790):
+    790  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, susceptibility to, 4}
+Meta Mapping (790):
+    790  DOID10283:prostate cancer
+Processing 00000000.tx.1: 176807|{Prostate cancer, susceptibility to}
+Meta Mapping (806):
+    806  DOID10283:prostate cancer
+Processing 00000000.tx.1: 612318|{Pseudofolliculitis barbae, susceptibility to}
+Processing 00000000.tx.1: 219700|{Pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis}
+Meta Mapping (589):
+    589  DOID1485:cystic fibrosis
+Processing 00000000.tx.1: 264800|{Pseudoxanthoma elasticum, modifier of severity of}
+Meta Mapping (778):
+    778  DOID2738:pseudoxanthoma elasticum
+Processing 00000000.tx.1: 607857|{Psoraisis susceptibility 9}
+Processing 00000000.tx.1: 612410|{Psoriasis susceptibility 10}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 612599|{Psoriasis susceptibility 11}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 612950|{Psoriasis susceptibility 12}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 614070|{Psoriasis susceptibility 13}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 177900|{Psoriasis susceptibility 1}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 602723|{Psoriasis susceptibility 2}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 601454|{Psoriasis susceptibility 3}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 603935|{Psoriasis susceptibility 4}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 604316|{Psoriasis susceptibility 5}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 605364|{Psoriasis susceptibility 6}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 605606|{Psoriasis susceptibility 7}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 610707|{Psoriasis susceptibility 8}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 605606|{Psoriasis, protection against}
+Meta Mapping (770):
+    770  DOID8893:psoriasis
+Processing 00000000.tx.1: 607507|{Psoriatic arthritis, susceptibility to}
+Meta Mapping (806):
+    806  DOID9008:psoriatic arthritis
+Processing 00000000.tx.1: 606963|{Pulmonary disease, chronic obstructive, susceptibility to}
+Meta Mapping (853):
+    835  DOID3083:chronic obstructive pulmonary disease
+Processing 00000000.tx.1: 178500|{Pulmonary fibrosis, idiopathic, susceptibility to}
+Meta Mapping (833):
+    820  DOID0050156:idiopathic pulmonary fibrosis
+Processing 00000000.tx.1: 614743|{Pulmonary fibrosis, idiopathic, susceptibility to}
+Meta Mapping (833):
+    820  DOID0050156:idiopathic pulmonary fibrosis
+Processing 00000000.tx.1: 614742|{Pulmonary fibrosis, telomere-related, 1}
+Meta Mapping (623):
+    623  DOID3770:pulmonary fibrosis
+Processing 00000000.tx.1: 608852|{Pulmonary function}
+Meta Mapping (684):
+    684  DOID552:pneumonia
+Processing 00000000.tx.1: 612862|{Pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to}
+Meta Mapping (756):
+    756  DOID6432:pulmonary hypertension
+Processing 00000000.tx.1: 615371|{Pulmonary hypertension, neonatal, susceptibility to}
+Meta Mapping (790):
+    790  DOID6432:pulmonary hypertension
+Processing 00000000.tx.1: 609423|{Rapid progression to AIDS from HIV1 infection}
+Meta Mapping (578):
+    578  DOID635:AIDS (acquired immunodeficiency syndrome)
+Processing 00000000.tx.1: 605910|{Reduced triglycerides, susceptibility to}
+Processing 00000000.tx.1: 144700|{Renal cell carcinoma}
+Meta Mapping (909):
+    909  DOID4450:renal cell carcinoma
+Processing 00000000.tx.1: 601331|{Renal dysplasia, cystic, susceptibility to}
+Meta Mapping (589):
+    589  DOID2975:cystic kidney
+Processing 00000000.tx.1: 611162|{Resistance to malaria due to G6PD deficiency}
+Meta Mapping (578):
+    578  DOID12365:malaria
+Processing 00000000.tx.1: 102300|{Restless legs syndrome 1}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 608831|{Restless legs syndrome 2}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 610438|{Restless legs syndrome 3}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 610439|{Restless legs syndrome 4}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 611242|{Restless legs syndrome 5}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 611185|{Restless legs syndrome 6}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 612853|{Restless legs syndrome 7}
+Meta Mapping (862):
+    862  DOID0050425:restless legs syndrome
+Processing 00000000.tx.1: 276901|{Retinal disease in Usher syndrome type IIA, modifier of}
+Meta Mapping (686):
+    760  DOID5679:retinal disease
+    593  DOID0050439:Usher syndrome
+Processing 00000000.tx.1: 180300|{Rheumatoid arthritis, progression of}
+Meta Mapping (806):
+    806  DOID7148:rheumatoid arthritis
+Processing 00000000.tx.1: 180300|{Rheumatoid arthritis, susceptibility to}
+Meta Mapping (806):
+    806  DOID7148:rheumatoid arthritis
+Processing 00000000.tx.1: 604302|{Rheumatoid arthritis, systemic juvenile, susceptibility to}
+Meta Mapping (804):
+    804  DOID676:juvenile rheumatoid arthritis
+Processing 00000000.tx.1: 604302|{Rheumatoid arthritis, systemic juvenile}
+Meta Mapping (844):
+    844  DOID676:juvenile rheumatoid arthritis
+Processing 00000000.tx.1: 106180|{SARS, progression of}
+Meta Mapping (770):
+    770  DOID2945:SARS (severe acute respiratory syndrome)
+Processing 00000000.tx.1: 181000|{Sarcoidosis, susceptibility to, 1}
+Meta Mapping (760):
+    760  DOID11335:sarcoidosis
+Processing 00000000.tx.1: 612387|{Sarcoidosis, susceptibility to, 2}
+Meta Mapping (760):
+    760  DOID11335:sarcoidosis
+Processing 00000000.tx.1: 612388|{Sarcoidosis, susceptibility to, 3}
+Meta Mapping (760):
+    760  DOID11335:sarcoidosis
+Processing 00000000.tx.1: 181460|{Schistosoma mansoni infection, susceptibility/resistance to}
+Meta Mapping (510):
+    510  DOID1395:schistosomiasis
+Processing 00000000.tx.1: 181500|{Schizoaffective disorder, susceptibility to}
+Meta Mapping (806):
+    806  DOID5418:schizoaffective disorder
+Processing 00000000.tx.1: 605419|{Schizophrenia 10}
+Meta Mapping (790):
+    790  DOID5419:schizophrenia
+Processing 00000000.tx.1: 181500|{Schizophrenia 12}
+Meta Mapping (790):
+    790  DOID5419:schizophrenia
+Processing 00000000.tx.1: 613950|{Schizophrenia 15}
+Meta Mapping (790):
+    790  DOID5419:schizophrenia
+Processing 00000000.tx.1: 613025|{Schizophrenia, susceptibility to, 13}
+Meta Mapping (760):
+    760  DOID5419:schizophrenia
+Processing 00000000.tx.1: 612361|{Schizophrenia, susceptibility to, 14}
+Meta Mapping (760):
+    760  DOID5419:schizophrenia
+Processing 00000000.tx.1: 614332|{Schizophrenia, susceptibility to, 17}
+Meta Mapping (760):
+    760  DOID5419:schizophrenia
+Processing 00000000.tx.1: 600850|{Schizophrenia, susceptibility to, 4}
+Meta Mapping (760):
+    760  DOID5419:schizophrenia
+Processing 00000000.tx.1: 181500|{Schizophrenia, susceptibility to}
+Meta Mapping (770):
+    770  DOID5419:schizophrenia
+Processing 00000000.tx.1: 604906|{Schizophrenia, susceptibility to}
+Meta Mapping (770):
+    770  DOID5419:schizophrenia
+Processing 00000000.tx.1: 181500|{Schizophrenia}
+Meta Mapping (833):
+    833  DOID5419:schizophrenia
+Processing 00000000.tx.1: 608765|{Scoliosis, idiopathic 3}
+Processing 00000000.tx.1: 612238|{Scoliosis, idiopathic, susceptibility to, 4}
+Processing 00000000.tx.1: 608516|{Seasonal affective disorder, susceptibility to}
+Meta Mapping (833):
+    833  DOID0060167:seasonal affective disorder
+Processing 00000000.tx.1: 614090|{Sick sinus syndrome 3}
+Meta Mapping (862):
+    862  DOID13884:sick sinus syndrome
+Processing 00000000.tx.1: 611003|{Smoking as a quantitative trait locus 1}
+Processing 00000000.tx.1: 611004|{Smoking as a quantitative trait locus 2}
+Processing 00000000.tx.1: 612514|{Specific language impairment 4}
+Processing 00000000.tx.1: 615432|{Specific language impairment 5}
+Processing 00000000.tx.1: 608445|{Speech-sound disorder}
+Meta Mapping (819):
+    819  DOID92:speech disorder
+Processing 00000000.tx.1: 601634|{Spina bifida, folate-sensitive, susceptibility to}
+Meta Mapping (778):
+    778  DOID0080016:spina bifida
+Processing 00000000.tx.1: 182940|{Spina bifida, susceptibility to}
+Meta Mapping (806):
+    806  DOID0080016:spina bifida
+Processing 00000000.tx.1: 253400|{Spinal muscular atrophy, type III, modifier of}
+Meta Mapping (869):
+    848  DOID12376:Type III Spinal Muscular Atrophy (juvenile spinal muscular atrophy)
+Processing 00000000.tx.1: 106300|{Spondyloarthropathy, susceptibility to, 1}
+Meta Mapping (760):
+    760  DOID1123:spondyloarthropathy
+Processing 00000000.tx.1: 183840|{Spondyloarthropathy, susceptibility to, 2}
+Meta Mapping (760):
+    760  DOID1123:spondyloarthropathy
+Processing 00000000.tx.1: 613238|{Spondyloarthropathy, susceptibility to, 3}
+Meta Mapping (760):
+    760  DOID1123:spondyloarthropathy
+Processing 00000000.tx.1: 612221|{Stature QTL 10}
+Processing 00000000.tx.1: 612223|{Stature QTL 11}
+Processing 00000000.tx.1: 612224|{Stature QTL 12}
+Processing 00000000.tx.1: 612226|{Stature QTL 13}
+Processing 00000000.tx.1: 612228|{Stature QTL 14}
+Processing 00000000.tx.1: 612578|{Stature QTL 15}
+Processing 00000000.tx.1: 612579|{Stature QTL 16}
+Processing 00000000.tx.1: 612737|{Stature QTL 17}
+Processing 00000000.tx.1: 612892|{Stature QTL 18}
+Processing 00000000.tx.1: 612893|{Stature QTL 19}
+Processing 00000000.tx.1: 606255|{Stature QTL 1}
+Processing 00000000.tx.1: 612894|{Stature QTL 20}
+Processing 00000000.tx.1: 613440|{Stature QTL 21}
+Processing 00000000.tx.1: 613547|{Stature QTL 22}
+Processing 00000000.tx.1: 613548|{Stature QTL 23}
+Processing 00000000.tx.1: 613549|{Stature QTL 24}
+Processing 00000000.tx.1: 606256|{Stature QTL 2}
+Processing 00000000.tx.1: 606257|{Stature QTL 3}
+Processing 00000000.tx.1: 606258|{Stature QTL 4}
+Processing 00000000.tx.1: 608982|{Stature QTL 5}
+Processing 00000000.tx.1: 300591|{Stature QTL 6}
+Processing 00000000.tx.1: 609822|{Stature QTL 7}
+Processing 00000000.tx.1: 610114|{Stature QTL 8}
+Processing 00000000.tx.1: 611547|{Stature QTL 9}
+Processing 00000000.tx.1: 608579|{Stevens-Johnson syndrome, susceptibility to}
+Meta Mapping (833):
+    833  DOID0050426:Stevens-Johnson syndrome
+Processing 00000000.tx.1: 185100|{Strabismus, susceptibility to, 1}
+Meta Mapping (760):
+    760  DOID540:strabismus
+Processing 00000000.tx.1: 614519|{Stroke, hemorrhagic}
+Meta Mapping (790):
+    790  DOID3455:Stroke (cerebrovascular accident)
+Processing 00000000.tx.1: 601367|{Stroke, ischemic, susceptibility to}
+Meta Mapping (659):
+    760  DOID3455:Stroke (cerebrovascular accident)
+    521  DOID326:ischemia
+Processing 00000000.tx.1: 606799|{Stroke, susceptibility to, 1}
+Meta Mapping (760):
+    760  DOID3455:Stroke (cerebrovascular accident)
+Processing 00000000.tx.1: 601367|{Stroke, susceptibility to}
+Meta Mapping (770):
+    770  DOID3455:Stroke (cerebrovascular accident)
+Processing 00000000.tx.1: 100650|{Sublingual nitroglycerin, susceptibility to poor response to}
+Processing 00000000.tx.1: 272120|{Sudden infant death syndrome, susceptibility to}
+Meta Mapping (853):
+    853  DOID9007:sudden infant death syndrome
+Processing 00000000.tx.1: 142830|{Synovitis, chronic, susceptibility to}
+Meta Mapping (760):
+    760  DOID2703:synovitis
+Processing 00000000.tx.1: 300809|{Systemic lupus erthematosus, susceptibility to, 15}
+Meta Mapping (581):
+    581  DOID8857:lupus (lupus erythematosus)
+Processing 00000000.tx.1: 152700|{Systemic lupus erythematosus susceptibility to}
+Meta Mapping (666):
+    666  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 607279|{Systemic lupus erythematosus with hemolytic anemia}
+Meta Mapping (764):
+    814  DOID9074:systemic lupus erythematosus
+    612  DOID583:hemolytic anemia
+Processing 00000000.tx.1: 607965|{Systemic lupus erythematosus with nephritis, susceptibility to, 1}
+Meta Mapping (726):
+    790  DOID9074:systemic lupus erythematosus
+    575  DOID10952:nephritis
+Processing 00000000.tx.1: 607966|{Systemic lupus erythematosus with nephritis, susceptibility to, 2}
+Meta Mapping (726):
+    790  DOID9074:systemic lupus erythematosus
+    575  DOID10952:nephritis
+Processing 00000000.tx.1: 607967|{Systemic lupus erythematosus with nephritis, susceptibility to, 3}
+Meta Mapping (726):
+    790  DOID9074:systemic lupus erythematosus
+    575  DOID10952:nephritis
+Processing 00000000.tx.1: 152700|{Systemic lupus erythematosus, association with}
+Meta Mapping (833):
+    833  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 601744|{Systemic lupus erythematosus, resistance to}
+Meta Mapping (833):
+    833  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 612251|{Systemic lupus erythematosus, susceptibility to, 10}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 612254|{Systemic lupus erythematosus, susceptibility to, 12}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 612378|{Systemic lupus erythematosus, susceptibility to, 13}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 613145|{Systemic lupus erythematosus, susceptibility to, 14}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 601744|{Systemic lupus erythematosus, susceptibility to, 1}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 605218|{Systemic lupus erythematosus, susceptibility to, 2}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 605480|{Systemic lupus erythematosus, susceptibility to, 3}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 608437|{Systemic lupus erythematosus, susceptibility to, 4}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 609903|{Systemic lupus erythematosus, susceptibility to, 5}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 610065|{Systemic lupus erythematosus, susceptibility to, 7}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 610066|{Systemic lupus erythematosus, susceptibility to, 8}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 610927|{Systemic lupus erythematosus, susceptibility to, 9}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 152700|{Systemic lupus erythematosus, susceptibility to}
+Meta Mapping (833):
+    833  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 612253|{Systemic lupus erythematosus, susceptitbility to, 11}
+Meta Mapping (814):
+    814  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 609939|{Systemic lupus erythematous, association with susceptibility to, 6}
+Meta Mapping (575):
+    575  DOID8857:lupus (lupus erythematosus)
+Processing 00000000.tx.1: 613254|{TSC2 angiomyolipomas, renal, modifier of}
+Meta Mapping (773):
+    767  DOID8411:renal Angiomyolipoma (kidney angiomyolipoma)
+Processing 00000000.tx.1: 188050|{Thromboembolism, susceptibility to}
+Processing 00000000.tx.1: 188055|{Thrombophilia, susceptibility to, due to factor V Leiden}
+Meta Mapping (742):
+    742  DOID2452:thrombophilia
+Processing 00000000.tx.1: 607464|{Thyroid carcinoma, Hurthle cell}
+Meta Mapping (891):
+    882  DOID8161:thyroid hurthle cell carcinoma
+Processing 00000000.tx.1: 188470|{Thyroid carcinoma, follicular, somatic}
+Meta Mapping (844):
+    844  DOID3962:follicular thyroid carcinoma
+Processing 00000000.tx.1: 188580|{Thyrotoxic periodic paralysis, susceptibility to, 1}
+Processing 00000000.tx.1: 613239|{Thyrotoxic periodic paralysis, susceptibility to, 2}
+Processing 00000000.tx.1: 608579|{Toxic epidermal necrolysis, susceptibility to}
+Processing 00000000.tx.1: 607948|{Tuberculosis, protection against}
+Meta Mapping (770):
+    770  DOID399:tuberculosis
+Processing 00000000.tx.1: 607949|{Tuberculosis, susceptibility to}
+Meta Mapping (770):
+    770  DOID399:tuberculosis
+Processing 00000000.tx.1: 607948|{Tuberculosis, susceptibility to}
+Meta Mapping (770):
+    770  DOID399:tuberculosis
+Processing 00000000.tx.1: 266300|{UV-induced skin damage}
+Processing 00000000.tx.1: 608516|{Unipolar depression, susceptibility to}
+Meta Mapping (806):
+    806  DOID1595:unipolar depression (endogenous depression)
+Processing 00000000.tx.1: 612076|{Uric acid concentration, serum, QTL 2}
+Processing 00000000.tx.1: 608307|{Venoocclusive disease after bone marrow transplantation}
+Meta Mapping (804):
+    804  DOID4961:bone marrow disease
+Processing 00000000.tx.1: 188050|{Venous thromboembolism, susceptibility to}
+Processing 00000000.tx.1: 188050|{Venous thrombosis, protection against}
+Processing 00000000.tx.1: 612542|{Vitamin B12 plasma level QTL1}
+Processing 00000000.tx.1: 612957|{Vitamin B6 plasma level QTL 1}
+Processing 00000000.tx.1: 606579|{Vitiligo-associated multiple autoimmune disease susceptibility 1}
+Meta Mapping (694):
+    744  DOID12306:vitiligo
+    770  DOID417:autoimmune disease (hypersensitivity reaction type II disease)
+Processing 00000000.tx.1: 193200|{Vitiligo-associated multiple autoimmune disease susceptiblity 6}
+Meta Mapping (694):
+    744  DOID12306:vitiligo
+    770  DOID417:autoimmune disease (hypersensitivity reaction type II disease)
+Processing 00000000.tx.1: 122700|{Warfarin sensitivity}
+Processing 00000000.tx.1: 610379|{West nile virus, susceptibility to}
+Processing 00000000.tx.1: 601583|{Wilms tumor susceptibility-5}
+Meta Mapping (806):
+    806  DOID2154:Wilms' tumor (nephroblastoma)
+Processing 00000000.tx.1: 193300|{von Hippel-Lindau disease, modifier of}
+Meta Mapping (853):
+    853  DOID14175:von Hippel-Lindau disease

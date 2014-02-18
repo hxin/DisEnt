@@ -32,7 +32,7 @@ echo "Job starts at $start..." | tee -a $LOG
 ##clean tmp file
 if [ $CLEANTMP = 'y' ];then 
 	echo "[$(date +"%T %D")] Cleaning tmp files..." | tee -a $LOG
-	find . -type f -name \*.old -exec rm -f {} \;
+	find . -type d -iname 'tmp' | xargs rm -rf;
 fi
 
 ##in order:entrez,omim,generif,ensembl,metamap
@@ -101,9 +101,10 @@ fi
 
 if [ $JOIN = 'y' ]; then
 ##create human_gene_dis tables
-echo '**************************************************************'
-echo 'generating All_human_gene2disease tables...'$(date +"%T")
-mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/db.sql
+echo '**************************************************************'| tee -a $LOG
+echo "[$(date +"%T %D")] Generating All_human_gene2disease tables..."| tee -a $LOG
+mysql -h $HOST -u $USER -p$PSW $DB <$BASEDIR/db2.sql
+exit;
 echo 'generating homolog disease tables...'$(date +"%T")
 perl $BASEDIR/homolog_dis.pl $DB $HOST $USER $PSW $SPECIES
 fi

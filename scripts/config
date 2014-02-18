@@ -1,12 +1,12 @@
 VERSION=1.0.0
-DB=xin5
+DB=xin1
 #HOST=nrg.inf.ed.ac.uk
 HOST=localhost
 USER=root
 PSW=12091209
 USECACHE=n
-DEBUG=y
-CLEANTMP=n
+DEBUG=n
+CLEANTMP=y
 
 MM_LOC=/home/xin/Software/MetaMap/2012MM_2011DFB/public_mm
 LOG=/home/xin/Workspace/DisEnt/scripts/log
@@ -30,10 +30,11 @@ MIM2GENE_URL=ftp://anonymous:xin.he%40ed.ac.uk@ftp.omim.org/OMIM/mim2gene.txt
 MORBIDMAP_URL=ftp://anonymous:xin.he%40ed.ac.uk@ftp.omim.org/OMIM/morbidmap
 ##############################
 ENSEMBL=y
+ENSEMBL_HUMAN=y
 ENSEMBL_HOMOLOG=y	#2H for fly
 ENSEMBL_VARIATION=y
 ##for api download, check http://www.ensembl.org/info/docs/api/api_installation.html
-ENSEMBL_API=y
+ENSEMBL_API=n
 ENSEMBL_LASTEST_API_URL=ftp://ftp.ensembl.org/pub/ensembl-api.tar.gz
 ENSEMBL_CORE_URL=http://www.ensembl.org/cvsdownloads/ensembl-74.tar.gz
 ENSEMBL_CMP_URL=http://www.ensembl.org/cvsdownloads/ensembl-compara-74.tar.gz
@@ -57,7 +58,7 @@ NCBO_ENSEMBL=y
 NCBO_OMIM=y
 NCBO_GENERIF=y
 ##############################
-JOIN=n
+JOIN=y
 
 NEED_UPDATE_DB=0
 

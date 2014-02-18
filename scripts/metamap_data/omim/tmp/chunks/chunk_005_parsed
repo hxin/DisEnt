@@ -1,0 +1,1546 @@
+Processing 00000000.tx.1: 611097|Mental retardation, autosomal recessive, 11
+Meta Mapping (790):
+    790  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 611107|Mental retardation, autosomal recessive, 4
+Meta Mapping (790):
+    790  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 611092|Mental retardation, autosomal recessive, 6
+Meta Mapping (790):
+    790  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 611094|Mental retardation, autosomal recessive, 8
+Meta Mapping (790):
+    790  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 611095|Mental retardation, autosomal recessive, 9/26
+Meta Mapping (778):
+    778  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 602685|Mental retardation, severe, with spasticity and tapetoretinal degeneration
+Meta Mapping (764):
+    764  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 613443|Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations
+Meta Mapping (760):
+    760  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 610156|Mental retardation, truncal obesity, retinal dystrophy, and micropenis
+Meta Mapping (690):
+    764  DOID1059:mental retardation (intellectual disability)
+    575  DOID9970:obesity
+    598  DOID8501:Retinal Dystrophy (fundus dystrophy)
+Processing 00000000.tx.1: 300422|Mental retardation, with or without nystagmus
+Meta Mapping (778):
+    778  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 309580|Mental retardation-hypotonic facies syndrome, X-linked
+Meta Mapping (694):
+    604  DOID1059:mental retardation (intellectual disability)
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 309620|Mental retardation-skeletal dysplasia
+Meta Mapping (640):
+    640  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 609535|Mephenytoin poor metabolizer
+Processing 00000000.tx.1: 600383|Mesomelia-synostoses syndrome
+Meta Mapping (705):
+    570  DOID11971:synostosis
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 156232|Mesomelic dysplasia, Kantaputra type
+Processing 00000000.tx.1: 156240|Mesothelioma, somatic
+Meta Mapping (790):
+    790  DOID2645:Mesothelioma, NOS (benign mesothelioma)
+Processing 00000000.tx.1: 309630|Metacarpal 4-5 fusion
+Processing 00000000.tx.1: 156250|Metachondromatosis
+Processing 00000000.tx.1: 249900|Metachromatic leukodystrophy due to SAP-b deficiency
+Meta Mapping (770):
+    770  DOID10581:metachromatic leukodystrophy
+Processing 00000000.tx.1: 250100|Metachromatic leukodystrophy
+Meta Mapping (882):
+    882  DOID10581:metachromatic leukodystrophy
+Processing 00000000.tx.1: 602111|Metaphyseal anadysplasia 1
+Processing 00000000.tx.1: 613073|Metaphyseal anadysplasia 2
+Processing 00000000.tx.1: 156400|Metaphyseal chondrodysplasia, Murk Jansen type
+Meta Mapping (901):
+    901  DOID0080020:Murk Jansen Type Metaphyseal Chondrodysplasia (Jansen's metaphyseal chondrodysplasia)
+Processing 00000000.tx.1: 156500|Metaphyseal chondrodysplasia, Schmid type
+Meta Mapping (844):
+    844  DOID0080021:Schmid metaphyseal chondrodysplasia
+Processing 00000000.tx.1: 156510|Metaphyseal dysplasia with maxillary hypoplasia with or without brachydactyly
+Meta Mapping (679):
+    760  DOID0080019:metaphyseal dysplasia
+    573  DOID0050581:brachydactyly
+Processing 00000000.tx.1: 250460|Metaphyseal dysplasia without hypotrichosis
+Meta Mapping (745):
+    806  DOID0080019:metaphyseal dysplasia
+    593  DOID4535:hypotrichosis
+Processing 00000000.tx.1: 156530|Metatropic dysplasia
+Processing 00000000.tx.1: 250800|Methemoglobinemia, type I
+Meta Mapping (770):
+    770  DOID10783:Methaemoglobinaemia (methemoglobinemia)
+Processing 00000000.tx.1: 250800|Methemoglobinemia, type II
+Meta Mapping (770):
+    770  DOID10783:Methaemoglobinaemia (methemoglobinemia)
+Processing 00000000.tx.1: 250790|Methemoglobinemia, type IV
+Meta Mapping (770):
+    770  DOID10783:Methaemoglobinaemia (methemoglobinemia)
+Processing 00000000.tx.1: 141800|Methemoglobinemias, alpha-
+Meta Mapping (756):
+    756  DOID10783:Methaemoglobinaemia (methemoglobinemia)
+Processing 00000000.tx.1: 141900|Methemoglobinemias, beta-
+Meta Mapping (756):
+    756  DOID10783:Methaemoglobinaemia (methemoglobinemia)
+Processing 00000000.tx.1: 250850|Methionine adenosyltransferase deficiency, autosomal recessive
+Processing 00000000.tx.1: 614105|Methylmalonate semialdehyde dehydrogenase deficiency
+Processing 00000000.tx.1: 277400|Methylmalonic aciduria and homocystinuria, cblC type
+Meta Mapping (946):
+    905  DOID0050715:methylmalonic aciduria and homocystinuria type cblC
+Processing 00000000.tx.1: 277410|Methylmalonic aciduria and homocystinuria, cblD type
+Meta Mapping (946):
+    905  DOID0050716:methylmalonic aciduria and homocystinuria type cblD
+Processing 00000000.tx.1: 277380|Methylmalonic aciduria and homocystinuria, cblF type
+Meta Mapping (946):
+    905  DOID0050717:methylmalonic aciduria and homocystinuria type cblF
+Processing 00000000.tx.1: 614857|Methylmalonic aciduria and homocystinuria, cblJ type
+Meta Mapping (706):
+    778  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+    581  DOID9263:homocystinuria
+Processing 00000000.tx.1: 613646|Methylmalonic aciduria due to transcobalamin receptor defect
+Meta Mapping (770):
+    770  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+Processing 00000000.tx.1: 277410|Methylmalonic aciduria, cblD type, variant 2
+Meta Mapping (778):
+    778  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+Processing 00000000.tx.1: 251000|Methylmalonic aciduria, mut(0) type
+Meta Mapping (851):
+    851  DOID14749:METHYLMALONIC ACIDURIA, mut TYPE (methylmalonic acidemia)
+Processing 00000000.tx.1: 251100|Methylmalonic aciduria, vitamin B12-responsive
+Meta Mapping (790):
+    790  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+Processing 00000000.tx.1: 251110|Methylmalonic aciduria, vitamin B12-responsive, due to defect in synthesis of adenosylcobalamin, cblB complementation type
+Meta Mapping (766):
+    766  DOID14749:methylmalonic aciduria cblB type (methylmalonic acidemia)
+Processing 00000000.tx.1: 251120|Methylmalonyl-CoA epimerase deficiency
+Processing 00000000.tx.1: 610377|Mevalonic aciduria
+Meta Mapping (882):
+    882  DOID0050452:mevalonic aciduria
+Processing 00000000.tx.1: 210710|Microcephalic osteodysplastic primordial dwarfism, type I
+Meta Mapping (804):
+    804  DOID0050569:microcephalic primordial dwarfism (Seckel syndrome)
+Processing 00000000.tx.1: 210720|Microcephalic osteodysplastic primordial dwarfism, type II
+Meta Mapping (804):
+    804  DOID0050569:microcephalic primordial dwarfism (Seckel syndrome)
+Processing 00000000.tx.1: 251200|Microcephaly 1, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 615095|Microcephaly 10, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 604317|Microcephaly 2, primary, autosomal recessive, with or without cortical malformations
+Meta Mapping (738):
+    738  DOID10907:microcephaly
+Processing 00000000.tx.1: 604804|Microcephaly 3, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 604321|Microcephaly 4, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 608716|Microcephaly 5, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 608393|Microcephaly 6, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 612703|Microcephaly 7, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 614673|Microcephaly 8, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 614852|Microcephaly 9, primary, autosomal recessive
+Meta Mapping (753):
+    753  DOID10907:microcephaly
+Processing 00000000.tx.1: 251270|Microcephaly and chorioretinopathy with or without mental retardation
+Meta Mapping (685):
+    742  DOID10907:microcephaly
+    598  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 152950|Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation
+Meta Mapping (656):
+    739  DOID10907:microcephaly
+    573  DOID4977:Lymphoedema NOS (lymphedema)
+    593  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 607196|Microcephaly, Amish type
+Meta Mapping (770):
+    770  DOID10907:microcephaly
+Processing 00000000.tx.1: 614231|Microcephaly, epilepsy, and diabetes syndrome
+Meta Mapping (719):
+    753  DOID10907:microcephaly
+    617  DOID1826:epilepsy syndrome
+    586  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 613680|Microcephaly, mental retardation, and distinctive facies, with cardiac and genitourinary malformations
+Meta Mapping (672):
+    736  DOID10907:microcephaly
+    586  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 613668|Microcephaly, postnatal progressive, with seizures and brain atrophy
+Meta Mapping (742):
+    742  DOID10907:microcephaly
+Processing 00000000.tx.1: 614261|Microcephaly-capillary malformation syndrome
+Meta Mapping (686):
+    593  DOID10907:microcephaly
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 156600|Microcoria, congenital
+Processing 00000000.tx.1: 615458|Microcornea, myopic chorioretinal atrophy, and telecanthus
+Meta Mapping (510):
+    510  DOID11830:myopia
+Processing 00000000.tx.1: 193220|Microcornea, rod-cone dystrophy, cataract, and posterior staphyloma
+Meta Mapping (568):
+    615  DOID0050572:cone-rod dystrophy
+    575  DOID83:cataract
+Processing 00000000.tx.1: 605013|Microhydranencephaly
+Processing 00000000.tx.1: 156850|Microphthalmia with cataract 1
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID83:cataract
+Processing 00000000.tx.1: 212550|Microphthalmia with cataract 2
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID83:cataract
+Processing 00000000.tx.1: 300345|Microphthalmia with coloboma 1
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID12270:coloboma
+Processing 00000000.tx.1: 605738|Microphthalmia with coloboma 2
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID12270:coloboma
+Processing 00000000.tx.1: 610092|Microphthalmia with coloboma 3
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID12270:coloboma
+Processing 00000000.tx.1: 611638|Microphthalmia with coloboma 5
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID12270:coloboma
+Processing 00000000.tx.1: 613703|Microphthalmia with coloboma 6
+Meta Mapping (686):
+    760  DOID10629:microphthalmia
+    593  DOID12270:coloboma
+Processing 00000000.tx.1: 613703|Microphthalmia with coloboma 6, digenic
+Meta Mapping (672):
+    753  DOID10629:microphthalmia
+    586  DOID12270:coloboma
+Processing 00000000.tx.1: 206920|Microphthalmia with limb anomalies
+Meta Mapping (760):
+    760  DOID10629:microphthalmia
+Processing 00000000.tx.1: 251600|Microphthalmia, isolated 1
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 610093|Microphthalmia, isolated 2
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 611038|Microphthalmia, isolated 3
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 613094|Microphthalmia, isolated 4
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 611040|Microphthalmia, isolated 5
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 613517|Microphthalmia, isolated 6
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 613704|Microphthalmia, isolated 7
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 615113|Microphthalmia, isolated 8
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 614497|Microphthalmia, isolated, with coloboma 7
+Meta Mapping (672):
+    753  DOID10629:microphthalmia
+    586  DOID12270:coloboma
+Processing 00000000.tx.1: 601186|Microphthalmia, isolated, with coloboma 8
+Meta Mapping (672):
+    753  DOID10629:microphthalmia
+    586  DOID12270:coloboma
+Processing 00000000.tx.1: 615145|Microphthalmia, isolated, with coloboma 9
+Meta Mapping (672):
+    753  DOID10629:microphthalmia
+    586  DOID12270:coloboma
+Processing 00000000.tx.1: 309800|Microphthalmia, syndromic 1
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 614402|Microphthalmia, syndromic 11
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 615524|Microphthalmia, syndromic 12
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 300915|Microphthalmia, syndromic 13
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 300166|Microphthalmia, syndromic 2
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 206900|Microphthalmia, syndromic 3
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 610125|Microphthalmia, syndromic 5
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 607932|Microphthalmia, syndromic 6
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 309801|Microphthalmia, syndromic 7
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 601349|Microphthalmia, syndromic 8
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 601186|Microphthalmia, syndromic 9
+Meta Mapping (770):
+    770  DOID10629:microphthalmia
+Processing 00000000.tx.1: 251750|Microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma
+Meta Mapping (568):
+    568  DOID1686:glaucoma
+Processing 00000000.tx.1: 611863|Microtia with nasolacrimal duct imperforation and eye coloboma
+Meta Mapping (575):
+    575  DOID12270:coloboma
+Processing 00000000.tx.1: 251850|Microvillus inclusion disease
+Meta Mapping (770):
+    770  DOID4:disease
+Processing 00000000.tx.1: 607516|Migraine with or without aura, susceptibility to
+Meta Mapping (793):
+    793  DOID10024:migraine with aura
+Meta Mapping (793):
+    793  DOID12783:migraine without aura
+Processing 00000000.tx.1: 602481|Migraine, familial basilar
+Meta Mapping (770):
+    770  DOID6364:migraine
+Processing 00000000.tx.1: 607516|Migraine, familial hemiplegic
+Meta Mapping (881):
+    881  DOID0060178:familial hemiplegic migraine
+Processing 00000000.tx.1: 141500|Migraine, familial hemiplegic, 1
+Meta Mapping (844):
+    844  DOID0060178:familial hemiplegic migraine
+Processing 00000000.tx.1: 141500|Migraine, familial hemiplegic, 1, with progressive cerebellar ataxia
+Meta Mapping (725):
+    784  DOID0060178:familial hemiplegic migraine
+    598  DOID0050753:cerebellar ataxia
+Processing 00000000.tx.1: 602481|Migraine, familial hemiplegic, 2
+Meta Mapping (844):
+    844  DOID0060178:familial hemiplegic migraine
+Processing 00000000.tx.1: 609634|Migraine, familial hemiplegic, 3
+Meta Mapping (844):
+    844  DOID0060178:familial hemiplegic migraine
+Processing 00000000.tx.1: 157300|Migraine, resistance to
+Meta Mapping (770):
+    770  DOID6364:migraine
+Processing 00000000.tx.1: 309605|Miles-Carpenter syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 263750|Miller syndrome
+Meta Mapping (790):
+    790  DOID225:syndrome
+Processing 00000000.tx.1: 247200|Miller-Dieker lissencephaly syndrome
+Meta Mapping (695):
+    760  DOID0050453:lissencephaly
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 255320|Minicore myopathy with external ophthalmoplegia
+Meta Mapping (672):
+    753  DOID423:myopathy
+    586  DOID539:ophthalmoplegia
+Processing 00000000.tx.1: 157600|Mirror movements 1
+Processing 00000000.tx.1: 614508|Mirror movements 2
+Processing 00000000.tx.1: 135750|Mirror-image polydactyly
+Meta Mapping (770):
+    770  DOID1148:polydactyly
+Processing 00000000.tx.1: 276300|Mismatch repair cancer syndrome
+Meta Mapping (695):
+    593  DOID162:cancer
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 603041|Mitochondrial DNA depletion syndrome 1 (MNGIE type)
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 615084|Mitochondrial DNA depletion syndrome 11
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 615418|Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type)
+Meta Mapping (620):
+    744  DOID225:syndrome
+    673  DOID0050700:cardiomyopathy
+Processing 00000000.tx.1: 615471|Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)
+Meta Mapping (667):
+    731  DOID890:mitochondrial encephalomyopathy
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 609560|Mitochondrial DNA depletion syndrome 2 (myopathic type)
+Meta Mapping (667):
+    731  DOID699:mitochondrial myopathy
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 251880|Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 203700|Mitochondrial DNA depletion syndrome 4A (Alpers type)
+Meta Mapping (869):
+    869  DOID1442:MITOCHONDRIAL DNA DEPLETION SYNDROME 4A (Alpers syndrome)
+Processing 00000000.tx.1: 613662|Mitochondrial DNA depletion syndrome 4B (MNGIE type)
+Meta Mapping (578):
+    578  DOID225:syndrome
+Processing 00000000.tx.1: 612073|Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)
+Meta Mapping (636):
+    715  DOID890:mitochondrial encephalomyopathy
+    736  DOID225:syndrome
+    753  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+Processing 00000000.tx.1: 256810|Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 271245|Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 612075|Mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy)
+Meta Mapping (436):
+    551  DOID890:mitochondrial encephalomyopathy
+    571  DOID225:syndrome
+    465  DOID10952:nephritis
+Processing 00000000.tx.1: 612075|Mitochondrial DNA depletion syndrome 8B (MNGIE type)
+Meta Mapping (578):
+    578  DOID225:syndrome
+Processing 00000000.tx.1: 245400|Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)
+Meta Mapping (644):
+    718  DOID890:mitochondrial encephalomyopathy
+    738  DOID225:syndrome
+    756  DOID14749:methylmalonic aciduria (methylmalonic acidemia)
+Processing 00000000.tx.1: 252010|Mitochondrial complex 1 deficiency
+Processing 00000000.tx.1: 252010|Mitochondrial complex I deficiency
+Processing 00000000.tx.1: 252011|Mitochondrial complex II deficiency
+Processing 00000000.tx.1: 124000|Mitochondrial complex III deficiency, nuclear type 1
+Processing 00000000.tx.1: 615157|Mitochondrial complex III deficiency, nuclear type 2
+Processing 00000000.tx.1: 615158|Mitochondrial complex III deficiency, nuclear type 3
+Processing 00000000.tx.1: 615159|Mitochondrial complex III deficiency, nuclear type 4
+Processing 00000000.tx.1: 615160|Mitochondrial complex III deficiency, nuclear type 5
+Processing 00000000.tx.1: 615453|Mitochondrial complex III deficiency, nuclear type 6
+Processing 00000000.tx.1: 220110|Mitochondrial complex IV deficiency
+Meta Mapping (926):
+    926  DOID3762:MITOCHONDRIAL COMPLEX IV DEFICIENCY (cytochrome-c oxidase deficiency disease)
+Processing 00000000.tx.1: 604273|Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1
+Processing 00000000.tx.1: 614052|Mitochondrial complex V (ATP synthase) deficiency, nuclear type 2
+Processing 00000000.tx.1: 614053|Mitochondrial complex V (ATP synthase) deficiency, nuclear type 3
+Processing 00000000.tx.1: 600462|Mitochondrial myopathy and sideroblastic anemia 1
+Meta Mapping (724):
+    778  DOID699:mitochondrial myopathy
+    612  DOID8955:Sideroblastic anaemia (sideroblastic anemia)
+Processing 00000000.tx.1: 610773|Mitochondrial phosphate carrier deficiency
+Processing 00000000.tx.1: 614741|Mitochondrial pyruvate carrier deficiency
+Processing 00000000.tx.1: 607459|Mitochondrial recessive ataxia syndrome (includes SANDO and SCAE)
+Meta Mapping (742):
+    742  DOID225:syndrome
+Processing 00000000.tx.1: 252011|Mitochondrial respiratory chain complex II deficiency
+Processing 00000000.tx.1: 157700|Mitral valve prolapse, myxomatous 1
+Meta Mapping (833):
+    833  DOID988:mitral valve prolapse
+Processing 00000000.tx.1: 607829|Mitral valve prolapse, myxomatous 2
+Meta Mapping (833):
+    833  DOID988:mitral valve prolapse
+Processing 00000000.tx.1: 610840|Mitral valve prolapse, myxomatous 3
+Meta Mapping (833):
+    833  DOID988:mitral valve prolapse
+Processing 00000000.tx.1: 254130|Miyoshi muscular dystrophy 1
+Meta Mapping (862):
+    862  DOID11720:Miyoshi muscular dystrophy (distal muscular dystrophy)
+Processing 00000000.tx.1: 613318|Miyoshi muscular dystrophy 2
+Meta Mapping (862):
+    862  DOID11720:Miyoshi muscular dystrophy (distal muscular dystrophy)
+Processing 00000000.tx.1: 613319|Miyoshi muscular dystrophy 3
+Meta Mapping (862):
+    862  DOID11720:Miyoshi muscular dystrophy (distal muscular dystrophy)
+Processing 00000000.tx.1: 604185|Moebius syndrome-3
+Meta Mapping (833):
+    833  DOID13501:Mobius syndrome
+Processing 00000000.tx.1: 304700|Mohr-Tranebjaerg syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 252150|Molybdenum cofactor deficiency A
+Processing 00000000.tx.1: 252160|Molybdenum cofactor deficiency B
+Processing 00000000.tx.1: 615501|Molybdenum cofactor deficiency C
+Processing 00000000.tx.1: 158000|Monilethrix
+Meta Mapping (833):
+    833  DOID0050472:monilethrix
+Processing 00000000.tx.1: 614894|Monocyte and dendritic cell deficiency, recessive
+Processing 00000000.tx.1: 613353|Mononeuropathy of the median nerve, mild
+Meta Mapping (613):
+    748  DOID1188:mononeuropathy
+    481  DOID4964:neurosis (neurotic disorder)
+Processing 00000000.tx.1: 120430|Morning glory disc anomaly
+Processing 00000000.tx.1: 257300|Mosaic variegated aneuploidy syndrome 1
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 614114|Mosaic variegated aneuploidy syndrome 2
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 235730|Mowat-Wilson syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 252350|Moyamoya disease
+Meta Mapping (882):
+    882  DOID13099:Moyamoya disease
+Processing 00000000.tx.1: 608796|Moyamoya disease 3
+Meta Mapping (833):
+    833  DOID13099:Moyamoya disease
+Processing 00000000.tx.1: 300845|Moyamoya disease 4
+Meta Mapping (833):
+    833  DOID13099:Moyamoya disease
+Processing 00000000.tx.1: 614042|Moyamoya disease 5
+Meta Mapping (833):
+    833  DOID13099:Moyamoya disease
+Processing 00000000.tx.1: 191900|Muckle-Wells syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 252500|Mucolipidosis II alpha/beta
+Meta Mapping (760):
+    760  DOID3343:mucolipidosis
+Processing 00000000.tx.1: 252600|Mucolipidosis III alpha/beta
+Meta Mapping (760):
+    760  DOID3343:mucolipidosis
+Processing 00000000.tx.1: 252605|Mucolipidosis III gamma
+Meta Mapping (604):
+    604  DOID3343:mucolipidosis
+Processing 00000000.tx.1: 252650|Mucolipidosis IV
+Meta Mapping (790):
+    790  DOID3343:mucolipidosis
+Processing 00000000.tx.1: 252900|Mucopolysaccharidisis type IIIA (Sanfilippo A)
+Processing 00000000.tx.1: 309900|Mucopolysaccharidosis II
+Meta Mapping (882):
+    882  DOID12799:mucopolysaccharidosis II
+Processing 00000000.tx.1: 253000|Mucopolysaccharidosis IVA
+Meta Mapping (623):
+    623  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 607014|Mucopolysaccharidosis Ih
+Meta Mapping (623):
+    623  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 607015|Mucopolysaccharidosis Ih/s
+Meta Mapping (623):
+    623  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 607016|Mucopolysaccharidosis Is
+Meta Mapping (790):
+    790  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 253220|Mucopolysaccharidosis VII
+Meta Mapping (882):
+    882  DOID12803:mucopolysaccharidosis VII
+Processing 00000000.tx.1: 252920|Mucopolysaccharidosis type IIIB (Sanfilippo B)
+Meta Mapping (833):
+    833  DOID12801:mucopolysaccharidosis type IIIB (mucopolysaccharidosis III)
+Processing 00000000.tx.1: 252930|Mucopolysaccharidosis type IIIC (Sanfilippo C)
+Meta Mapping (586):
+    586  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 252940|Mucopolysaccharidosis type IIID
+Meta Mapping (604):
+    604  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 253010|Mucopolysaccharidosis type IVB (Morquio)
+Meta Mapping (593):
+    593  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 601492|Mucopolysaccharidosis type IX
+Meta Mapping (604):
+    604  DOID12798:mucopolysaccharidosis
+Processing 00000000.tx.1: 253200|Mucopolysaccharidosis type VI (Maroteaux-Lamy)
+Meta Mapping (783):
+    783  DOID12800:mucopolysaccharidosis VI
+Processing 00000000.tx.1: 602849|Muenke syndrome
+Meta Mapping (790):
+    790  DOID225:syndrome
+Processing 00000000.tx.1: 158320|Muir-Torre syndrome
+Meta Mapping (909):
+    909  DOID0050465:Muir-Torre syndrome
+Processing 00000000.tx.1: 253250|Mulibrey nanism
+Meta Mapping (882):
+    882  DOID0050436:mulibrey nanism
+Processing 00000000.tx.1: 158330|Mullerian aplasia and hyperandrogenism
+Meta Mapping (593):
+    593  DOID11613:hyperandrogenism
+Processing 00000000.tx.1: 166300|Multicentric carpotarsal osteolysis syndrome
+Meta Mapping (760):
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 259600|Multicentric osteolysis, nodulosis, and arthropathy
+Meta Mapping (586):
+    586  DOID381:arthropathy
+Processing 00000000.tx.1: 614080|Multiple congenital anomalies-hypotonia-seizures syndrome 1
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 300868|Multiple congenital anomalies-hypotonia-seizures syndrome 2
+Meta Mapping (744):
+    744  DOID225:syndrome
+Processing 00000000.tx.1: 131100|Multiple endocrine neoplasia 1
+Meta Mapping (862):
+    862  DOID3125:multiple endocrine neoplasia
+Processing 00000000.tx.1: 171400|Multiple endocrine neoplasia IIA
+Meta Mapping (695):
+    695  DOID3125:multiple endocrine neoplasia
+Processing 00000000.tx.1: 162300|Multiple endocrine neoplasia IIB
+Meta Mapping (695):
+    695  DOID3125:multiple endocrine neoplasia
+Processing 00000000.tx.1: 610755|Multiple endocrine neoplasia, type IV
+Meta Mapping (833):
+    833  DOID3125:multiple endocrine neoplasia
+Processing 00000000.tx.1: 615554|Multiple fibroadenomas of the breast
+Meta Mapping (767):
+    767  DOID1618:breast fibroadenoma
+Processing 00000000.tx.1: 245600|Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects
+Meta Mapping (604):
+    604  DOID1682:Congenital Heart Defects (congenital heart defect)
+Processing 00000000.tx.1: 605711|Multiple mitochondrial dysfunctions syndrome 1
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 614299|Multiple mitochondrial dysfunctions syndrome 2
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 254500|Multiple myeloma
+Meta Mapping (882):
+    882  DOID9538:multiple myeloma
+Processing 00000000.tx.1: 253290|Multiple pterygium syndrome, lethal type
+Meta Mapping (679):
+    753  DOID10526:Pterygium (conjunctival pterygium)
+    753  DOID225:syndrome
+Meta Mapping (679):
+    753  DOID0002116:pterygium
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 272200|Multiple sulfatase deficiency
+Processing 00000000.tx.1: 610017|Multiple synostoses syndrome 2
+Meta Mapping (678):
+    726  DOID11971:synostosis
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 612961|Multiple synostoses syndrome 3
+Meta Mapping (678):
+    726  DOID11971:synostosis
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 186500|Multiple synostosis syndrome 1
+Meta Mapping (695):
+    760  DOID11971:synostosis
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 613834|Multisystemic smooth muscle dysfunction syndrome
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 611376|Mungan syndrome
+Meta Mapping (790):
+    790  DOID225:syndrome
+Processing 00000000.tx.1: 300559|Muscle glycogenosis
+Meta Mapping (790):
+    790  DOID2747:glycogenosis (glycogen storage disease)
+Processing 00000000.tx.1: 614160|Muscle hypertrophy
+Processing 00000000.tx.1: 612083|Muscle strength quantitative trait locus 1
+Processing 00000000.tx.1: 226670|Muscular dystrophy with epidermolysis bullosa simplex
+Meta Mapping (769):
+    769  DOID4959:Dystrophic epidermolysis bullosa (epidermolysis bullosa dystrophica)
+Processing 00000000.tx.1: 601846|Muscular dystrophy with rimmed vacuoles
+Meta Mapping (790):
+    790  DOID9884:muscular dystrophy
+Processing 00000000.tx.1: 607855|Muscular dystrophy, congenital merosin-deficient
+Meta Mapping (820):
+    820  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 604801|Muscular dystrophy, congenital, 1B
+Meta Mapping (844):
+    844  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 613205|Muscular dystrophy, congenital
+Meta Mapping (881):
+    881  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 613204|Muscular dystrophy, congenital, due to ITGA7 deficiency
+Meta Mapping (800):
+    793  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 607855|Muscular dystrophy, congenital, due to partial LAMA2 deficiency
+Meta Mapping (790):
+    784  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 602541|Muscular dystrophy, congenital, megaconial type
+Meta Mapping (820):
+    820  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 609456|Muscular dystrophy, congenital, merosin-positive
+Meta Mapping (820):
+    820  DOID0050557:congenital muscular dystrophy
+Processing 00000000.tx.1: 159000|Muscular dystrophy, limb-girdle, type 1A
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 159001|Muscular dystrophy, limb-girdle, type 1B
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 603511|Muscular dystrophy, limb-girdle, type 1E
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 608423|Muscular dystrophy, limb-girdle, type 1F
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 613530|Muscular dystrophy, limb-girdle, type 1H
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 253600|Muscular dystrophy, limb-girdle, type 2A
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 253601|Muscular dystrophy, limb-girdle, type 2B
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 253700|Muscular dystrophy, limb-girdle, type 2C
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 608099|Muscular dystrophy, limb-girdle, type 2D
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 604286|Muscular dystrophy, limb-girdle, type 2E
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 601287|Muscular dystrophy, limb-girdle, type 2F
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 601954|Muscular dystrophy, limb-girdle, type 2G
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 254110|Muscular dystrophy, limb-girdle, type 2H
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 608807|Muscular dystrophy, limb-girdle, type 2J
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 611307|Muscular dystrophy, limb-girdle, type 2L
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 613723|Muscular dystrophy, limb-girdle, type 2Q
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 615356|Muscular dystrophy, limb-girdle, type 2S
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 607801|Muscular dystrophy, limb-girdle, type IC
+Meta Mapping (835):
+    835  DOID11724:limb-girdle muscular dystrophy
+Processing 00000000.tx.1: 602771|Muscular dystrophy, rigid spine, 1
+Meta Mapping (790):
+    790  DOID9884:muscular dystrophy
+Processing 00000000.tx.1: 236670|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 615041|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 10
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 615287|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 13
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 615350|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 14
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613150|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 2
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 253280|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 3
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 253800|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 4
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613153|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613154|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 6
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 614643|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 7
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 615181|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies, type A, 11
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 614830|Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies, type A, 8
+Meta Mapping (766):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613155|Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 1
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 615351|Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 14
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 613156|Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 2
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 613151|Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 3
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 608840|Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 6
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 606612|Muscular dystrophy-dystroglycanopathy (congenital with or without mental retardation), type B, 5
+Meta Mapping (688):
+    766  DOID0050588:muscular dystrophy-dystroglycanopathy
+    583  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 613152|Muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type B, 4
+Meta Mapping (703):
+    775  DOID0050588:muscular dystrophy-dystroglycanopathy
+    589  DOID1059:mental retardation (intellectual disability)
+Processing 00000000.tx.1: 609308|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 1
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 615352|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 14
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613158|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 2
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613157|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 3
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 611588|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 4
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 607155|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 5
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 613818|Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 9
+Meta Mapping (790):
+    790  DOID0050588:muscular dystrophy-dystroglycanopathy
+Processing 00000000.tx.1: 607085|Myasthenia gravis with thymus hyperplasia
+Meta Mapping (790):
+    790  DOID437:myasthenia gravis
+Processing 00000000.tx.1: 610542|Myasthenia, congenital, with tubular aggregates 1
+Processing 00000000.tx.1: 605809|Myasthenia, familial infantile, 1
+Processing 00000000.tx.1: 254300|Myasthenia, limb-girdle, familial
+Processing 00000000.tx.1: 614198|Myasthenic syndrome, acetazolamide-responsive
+Meta Mapping (760):
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 608931|Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency
+Meta Mapping (790):
+    784  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 254210|Myasthenic syndrome, congenital, associated with episodic apnea
+Meta Mapping (800):
+    793  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 608931|Myasthenic syndrome, congenital, associated with facial dysmorphism and acetylcholine receptor deficiency
+Meta Mapping (770):
+    767  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 614750|Myasthenic syndrome, congenital, with tubular aggregates 2
+Meta Mapping (800):
+    793  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 608930|Myasthenic syndrome, fast-channel congenital
+Meta Mapping (820):
+    820  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 601462|Myasthenic syndrome, slow-channel congenital
+Meta Mapping (654):
+    654  DOID3635:congenital myasthenic syndrome
+Processing 00000000.tx.1: 613796|Mycobacterial and viral infections, susceptibility to, autosomal recessive
+Meta Mapping (745):
+    745  DOID2757:Mycobacterial Infection (Mycobacterium infectious disease)
+Processing 00000000.tx.1: 209950|Mycobacterial infection, atypical, familial disseminated
+Meta Mapping (797):
+    797  DOID412:Atypical mycobacterium infection NOS (atypical Mycobacterium infectious disease)
+Processing 00000000.tx.1: 252270|Myelodysplasia and leukemia syndrome with monosomy 7
+Meta Mapping (493):
+    578  DOID1240:leukemia
+    578  DOID225:syndrome
+Processing 00000000.tx.1: 614286|Myelodysplastic syndrome, somatic
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 254450|Myelofibrosis with myeloid metaplasia, somatic
+Meta Mapping (722):
+    753  DOID4971:myelofibrosis
+    623  DOID2528:myeloid metaplasia
+Processing 00000000.tx.1: 254450|Myelofibrosis, somatic
+Meta Mapping (790):
+    790  DOID4971:myelofibrosis
+Processing 00000000.tx.1: 601626|Myeloid leukemia, acute, M4/M4Eo subtype, somatic
+Meta Mapping (793):
+    793  DOID9119:acute myeloid leukaemia (acute myeloid leukemia)
+Processing 00000000.tx.1: 254600|Myeloperoxidase deficiency
+Processing 00000000.tx.1: 131440|Myeloproliferative disorder with eosinophilia
+Meta Mapping (745):
+    806  DOID4960:Myeloproliferative disorder (bone marrow cancer)
+    593  DOID999:eosinophilia
+Processing 00000000.tx.1: 139210|Myhre syndrome
+Meta Mapping (790):
+    790  DOID225:syndrome
+Processing 00000000.tx.1: 605021|Myoclonic epilepsy, infantile, familial
+Meta Mapping (806):
+    806  DOID308:myoclonic epilepsy (early myoclonic encephalopathy)
+Processing 00000000.tx.1: 611364|Myoclonic epilepsy, juvenile, 4
+Meta Mapping (844):
+    844  DOID4890:juvenile myoclonic epilepsy
+Processing 00000000.tx.1: 614937|Myoclonus, familial cortical
+Processing 00000000.tx.1: 228550|Myofibromatosis, infantile, 1
+Processing 00000000.tx.1: 268200|Myoglobinuria, acute recurrent, autosomal recessive
+Processing 00000000.tx.1: 121200|Myokymia
+Processing 00000000.tx.1: 255310|Myopathy congenital, with fiber-type disproportion
+Meta Mapping (748):
+    748  DOID423:myopathy
+Processing 00000000.tx.1: 255110|Myopathy due to CPT II deficiency
+Meta Mapping (748):
+    748  DOID423:myopathy
+Processing 00000000.tx.1: 615511|Myopathy due to myoadenylate deaminase deficiency
+Meta Mapping (748):
+    748  DOID423:myopathy
+Processing 00000000.tx.1: 255125|Myopathy with lactic acidosis, hereditary
+Meta Mapping (722):
+    753  DOID423:myopathy
+    623  DOID3650:lactic acidosis
+Processing 00000000.tx.1: 310440|Myopathy, X-linked, with excessive autophagy
+Meta Mapping (946):
+    896  DOID0050760:X-linked myopathy with excessive autophagy
+Processing 00000000.tx.1: 300696|Myopathy, X-linked, with postural muscle atrophy
+Meta Mapping (670):
+    744  DOID423:myopathy
+    568  DOID767:muscular atrophy
+Processing 00000000.tx.1: 161800|Myopathy, actin, congenital, with cores
+Meta Mapping (753):
+    753  DOID423:myopathy
+Processing 00000000.tx.1: 161800|Myopathy, actin, congenital, with excess of thin myofilaments
+Meta Mapping (742):
+    742  DOID423:myopathy
+Processing 00000000.tx.1: 614399|Myopathy, areflexia, respiratory distress, and dysphagia, early-onset
+Meta Mapping (742):
+    742  DOID423:myopathy
+Processing 00000000.tx.1: 614399|Myopathy, areflexia, respiratory distress, and dysphagia, early-onset, mild variant
+Meta Mapping (738):
+    738  DOID423:myopathy
+Processing 00000000.tx.1: 160150|Myopathy, centronuclear
+Meta Mapping (858):
+    858  DOID14717:centronuclear myopathy
+Processing 00000000.tx.1: 614408|Myopathy, centronuclear, 3
+Meta Mapping (819):
+    819  DOID14717:centronuclear myopathy
+Processing 00000000.tx.1: 614807|Myopathy, centronuclear, 4
+Meta Mapping (819):
+    819  DOID14717:centronuclear myopathy
+Processing 00000000.tx.1: 255200|Myopathy, centronuclear, autosomal recessive
+Meta Mapping (797):
+    797  DOID14717:centronuclear myopathy
+Processing 00000000.tx.1: 612540|Myopathy, congenital, Compton-North
+Meta Mapping (760):
+    760  DOID423:myopathy
+Processing 00000000.tx.1: 255310|Myopathy, congenital, with fiber-type disproportion 1
+Meta Mapping (744):
+    744  DOID423:myopathy
+Processing 00000000.tx.1: 255310|Myopathy, congenital, with fiber-type disproportion
+Meta Mapping (748):
+    748  DOID423:myopathy
+Processing 00000000.tx.1: 300580|Myopathy, congenital, with fiber-type disproportion, X-linked
+Meta Mapping (742):
+    742  DOID423:myopathy
+Processing 00000000.tx.1: 606070|Myopathy, distal 2
+Meta Mapping (819):
+    819  DOID11720:Distal Myopathy (distal muscular dystrophy)
+Processing 00000000.tx.1: 610099|Myopathy, distal 3
+Meta Mapping (819):
+    819  DOID11720:Distal Myopathy (distal muscular dystrophy)
+Processing 00000000.tx.1: 614065|Myopathy, distal, 4
+Meta Mapping (819):
+    819  DOID11720:Distal Myopathy (distal muscular dystrophy)
+Processing 00000000.tx.1: 614321|Myopathy, distal, Tateyama type
+Meta Mapping (797):
+    797  DOID11720:Distal Myopathy (distal muscular dystrophy)
+Processing 00000000.tx.1: 606768|Myopathy, distal, with anterior tibial onset
+Meta Mapping (778):
+    774  DOID11720:Distal Myopathy (distal muscular dystrophy)
+Processing 00000000.tx.1: 611705|Myopathy, early-onset, with fatal cardiomyopathy
+Meta Mapping (663):
+    748  DOID423:myopathy
+    581  DOID0050700:cardiomyopathy
+Processing 00000000.tx.1: 255160|Myopathy, hyaline body
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 613561|Myopathy, lactic acidosis, and sideroblastic anemia 2
+Meta Mapping (706):
+    744  DOID423:myopathy
+    604  DOID3650:lactic acidosis
+    604  DOID8955:Sideroblastic anaemia (sideroblastic anemia)
+Processing 00000000.tx.1: 613076|Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay
+Meta Mapping (668):
+    751  DOID699:mitochondrial myopathy
+    570  DOID83:cataract
+Processing 00000000.tx.1: 601419|Myopathy, myofibrillar, 1
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 608810|Myopathy, myofibrillar, 2
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 609200|Myopathy, myofibrillar, 3
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 609452|Myopathy, myofibrillar, 4
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 609524|Myopathy, myofibrillar, 5
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 612954|Myopathy, myofibrillar, 6
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 613869|Myopathy, myofibrillar, fatal infantile hypertrophy, alpha-B crystallin-related
+Meta Mapping (739):
+    739  DOID423:myopathy
+Processing 00000000.tx.1: 608358|Myopathy, myosin storage
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 603689|Myopathy, proximal, with early respiratory muscle involvement
+Meta Mapping (744):
+    744  DOID423:myopathy
+Processing 00000000.tx.1: 300718|Myopathy, reducing body, X-linked, childhood-onset
+Meta Mapping (744):
+    744  DOID423:myopathy
+Processing 00000000.tx.1: 300717|Myopathy, reducing body, X-linked, severe early-onset
+Meta Mapping (742):
+    742  DOID423:myopathy
+Processing 00000000.tx.1: 182920|Myopathy, spheroid body
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 160565|Myopathy, tubular aggregate
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 609259|Myopia 10
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 609994|Myopia 11
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 609995|Myopia 12
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 300613|Myopia 13
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 610320|Myopia 14
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 612717|Myopia 15
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 612554|Myopia 16
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 608367|Myopia 17
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 255500|Myopia 18
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 613969|Myopia 19
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 614166|Myopia 20, autosomal dominant
+Meta Mapping (760):
+    760  DOID11830:myopia
+Processing 00000000.tx.1: 614167|Myopia 21, autosomal dominant
+Meta Mapping (760):
+    760  DOID11830:myopia
+Processing 00000000.tx.1: 615420|Myopia 22, autosomal dominant
+Meta Mapping (760):
+    760  DOID11830:myopia
+Processing 00000000.tx.1: 615431|Myopia 23, autosomal recessive
+Meta Mapping (760):
+    760  DOID11830:myopia
+Processing 00000000.tx.1: 608474|Myopia 5
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 608908|Myopia 6
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 609256|Myopia 7
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 609257|Myopia 8
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 609258|Myopia 9
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 614292|Myopia, high, with cataract and vitreoretinal degeneration
+Meta Mapping (656):
+    744  DOID11830:myopia
+    578  DOID83:cataract
+Processing 00000000.tx.1: 310460|Myopia-1
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 160700|Myopia-2
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 603221|Myopia-3
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 608908|Myopia-6
+Meta Mapping (790):
+    790  DOID11830:myopia
+Processing 00000000.tx.1: 255600|Myosclerosis, congenital
+Processing 00000000.tx.1: 608390|Myotonia congenita, atypical, acetazolamide-responsive
+Meta Mapping (790):
+    790  DOID2106:myotonia congenita (Thomsen disease)
+Processing 00000000.tx.1: 160800|Myotonia congenita, dominant
+Meta Mapping (833):
+    833  DOID2106:myotonia congenita (Thomsen disease)
+Processing 00000000.tx.1: 255700|Myotonia congenita, recessive
+Meta Mapping (833):
+    833  DOID2106:myotonia congenita (Thomsen disease)
+Processing 00000000.tx.1: 160900|Myotonic dystrophy 1
+Meta Mapping (833):
+    833  DOID11722:myotonic dystrophy
+Processing 00000000.tx.1: 602668|Myotonic dystrophy 2
+Meta Mapping (833):
+    833  DOID11722:myotonic dystrophy
+Processing 00000000.tx.1: 310400|Myotubular myopathy, X-linked
+Meta Mapping (806):
+    806  DOID14717:Myotubular myopathy (centronuclear myopathy)
+Processing 00000000.tx.1: 613488|Myxoid liposarcoma
+Meta Mapping (882):
+    882  DOID5363:myxoid liposarcoma
+Processing 00000000.tx.1: 255960|Myxoma, intracardiac
+Processing 00000000.tx.1: 237310|N-acetylglutamate synthase deficiency
+Processing 00000000.tx.1: 300855|N-terminal acetyltransferase deficiency
+Processing 00000000.tx.1: 111400|NOR polyagglutination syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 608156|Nablus mask-like facial syndrome
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 161000|Naegeli-Franceschetti-Jadassohn syndrome
+Meta Mapping (760):
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 614157|Nail disorder, nonsyndromic congenital, 10, (claw-shaped nails)
+Meta Mapping (652):
+    649  DOID13117:paronychia
+    595  DOID759:congenital disorder
+Processing 00000000.tx.1: 151600|Nail disorder, nonsyndromic congenital, 3, (leukonychia)
+Meta Mapping (508):
+    607  DOID759:congenital disorder
+    489  DOID13117:paronychia
+Processing 00000000.tx.1: 614149|Nail disorder, nonsyndromic congenital, 9
+Meta Mapping (691):
+    783  DOID759:congenital disorder
+    493  DOID13117:paronychia
+Processing 00000000.tx.1: 605779|Nail dysplasia, isolated congenital
+Meta Mapping (500):
+    500  DOID13117:paronychia
+Processing 00000000.tx.1: 161200|Nail-patella syndrome
+Meta Mapping (909):
+    909  DOID9467:nail-patella syndrome
+Processing 00000000.tx.1: 302350|Nance-Horan syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 609549|Nanophthalmos 2
+Meta Mapping (790):
+    790  DOID10629:nanophthalmos (microphthalmia)
+Processing 00000000.tx.1: 611897|Nanophthalmos 3
+Meta Mapping (790):
+    790  DOID10629:nanophthalmos (microphthalmia)
+Processing 00000000.tx.1: 600165|Nanophthalmos-1
+Meta Mapping (790):
+    790  DOID10629:nanophthalmos (microphthalmia)
+Processing 00000000.tx.1: 161400|Narcolepsy 1
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 605841|Narcolepsy 2
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 609039|Narcolepsy 3
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 614223|Narcolepsy 6
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 614250|Narcolepsy 7
+Meta Mapping (790):
+    790  DOID8986:narcolepsy
+Processing 00000000.tx.1: 607107|Nasopharyngeal carcinoma
+Meta Mapping (882):
+    882  DOID9261:Nasopharyngeal carcinoma (nasopharynx carcinoma)
+Processing 00000000.tx.1: 221770|Nasu-Hakola disease
+Meta Mapping (770):
+    770  DOID4:disease
+Processing 00000000.tx.1: 255995|Native American myopathy
+Meta Mapping (770):
+    770  DOID423:myopathy
+Processing 00000000.tx.1: 609981|Natural killer cell and glucocorticoid deficiency with DNA repair defect
+Meta Mapping (605):
+    605  DOID2961:DNA repair deficiency
+Processing 00000000.tx.1: 601214|Naxos disease
+Meta Mapping (790):
+    790  DOID4:disease
+Processing 00000000.tx.1: 609284|Nemaline myopathy 1, autosomal dominant or recessive
+Meta Mapping (770):
+    770  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 256030|Nemaline myopathy 2, autosomal recessive
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 161800|Nemaline myopathy 3, autosomal dominant or recessive
+Meta Mapping (770):
+    770  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 609285|Nemaline myopathy 4, autosomal dominant
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 605355|Nemaline myopathy 5, Amish type
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 609273|Nemaline myopathy 6, autosomal dominant
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 610687|Nemaline myopathy 7, autosomal recessive
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 615348|Nemaline myopathy 8, autosomal recessive
+Meta Mapping (790):
+    790  DOID3191:nemaline myopathy
+Processing 00000000.tx.1: 300539|Nephrogenic syndrome of inappropriate antidiuresis
+Meta Mapping (753):
+    753  DOID225:syndrome
+Processing 00000000.tx.1: 310468|Nephrolithiasis, type I
+Meta Mapping (770):
+    770  DOID585:nephrolithiasis
+Processing 00000000.tx.1: 612286|Nephrolithiasis/osteoporosis, hypophosphatemic, 1
+Meta Mapping (672):
+    521  DOID0050336:hypophosphatemia
+    593  DOID585:nephrolithiasis
+    760  DOID11476:osteoporosis
+Processing 00000000.tx.1: 612287|Nephrolithiasis/osteoporosis, hypophosphatemic, 2
+Meta Mapping (672):
+    521  DOID0050336:hypophosphatemia
+    593  DOID585:nephrolithiasis
+    760  DOID11476:osteoporosis
+Processing 00000000.tx.1: 256100|Nephronophthisis 1, juvenile
+Meta Mapping (770):
+    770  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 613550|Nephronophthisis 11
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 613820|Nephronophthisis 12
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 615377|Nephronophthisis 13
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 614844|Nephronophthisis 14
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 614845|Nephronophthisis 15
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 615382|Nephronophthisis 16
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 602088|Nephronophthisis 2, infantile
+Meta Mapping (770):
+    770  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 604387|Nephronophthisis 3
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 606966|Nephronophthisis 4
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 611498|Nephronophthisis 7
+Meta Mapping (790):
+    790  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 613159|Nephronophthisis-like nephropathy 1
+Meta Mapping (760):
+    760  DOID12712:nephronophthisis
+Processing 00000000.tx.1: 614809|Nephropathy due to CFHR5 deficiency
+Processing 00000000.tx.1: 609057|Nephropathy with pretibial epidermolysis bullosa and deafness
+Meta Mapping (604):
+    604  DOID2730:epidermolysis bullosa
+Processing 00000000.tx.1: 609469|Nephropathy, progressive, with deafness
+Processing 00000000.tx.1: 161900|Nephropathy-hypertension
+Meta Mapping (790):
+    790  DOID10763:hypertension
+Processing 00000000.tx.1: 256300|Nephrotic syndrome, type 1
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 600995|Nephrotic syndrome, type 2
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 610725|Nephrotic syndrome, type 3
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 256370|Nephrotic syndrome, type 4
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 614199|Nephrotic syndrome, type 5, with or without ocular abnormalities
+Meta Mapping (760):
+    760  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 614196|Nephrotic syndrome, type 6
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 615008|Nephrotic syndrome, type 7
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 615573|Nephrotic syndrome, type 9
+Meta Mapping (806):
+    806  DOID1184:nephrotic syndrome
+Processing 00000000.tx.1: 614008|Nestor-Guillermo progeria syndrome
+Meta Mapping (695):
+    593  DOID3911:progeria
+    760  DOID225:syndrome
+Processing 00000000.tx.1: 256500|Netherton syndrome
+Meta Mapping (882):
+    882  DOID0050474:Netherton syndrome
+Processing 00000000.tx.1: 182940|Neural tube defects
+Meta Mapping (659):
+    659  DOID4964:neurosis (neurotic disorder)
+Processing 00000000.tx.1: 615419|Neuroaxonal neurodegeneration, infantile, with facial dysmophism
+Processing 00000000.tx.1: 613013|Neuroblastoma with Hirschsprung disease
+Meta Mapping (745):
+    760  DOID769:neuroblastoma
+    640  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 256700|Neuroblastoma
+Meta Mapping (833):
+    833  DOID769:neuroblastoma
+Processing 00000000.tx.1: 613068|Neurodegeneration due to cerebral folate transport deficiency
+Meta Mapping (600):
+    600  DOID8453:folate deficiency (folic acid deficiency)
+Processing 00000000.tx.1: 300894|Neurodegeneration with brain iron accululation 5
+Processing 00000000.tx.1: 234200|Neurodegeneration with brain iron accumulation 1
+Processing 00000000.tx.1: 610217|Neurodegeneration with brain iron accumulation 2B
+Processing 00000000.tx.1: 606159|Neurodegeneration with brain iron accumulation 3
+Processing 00000000.tx.1: 614298|Neurodegeneration with brain iron accumulation 4
+Processing 00000000.tx.1: 612219|Neuroepithelioma
+Processing 00000000.tx.1: 162210|Neurofibromatosis, familial spinal
+Meta Mapping (770):
+    770  DOID8712:neurofibromatosis
+Processing 00000000.tx.1: 162200|Neurofibromatosis, type 1
+Meta Mapping (881):
+    881  DOID8712:neurofibromatosis type 1 (neurofibromatosis)
+Processing 00000000.tx.1: 101000|Neurofibromatosis, type 2
+Meta Mapping (881):
+    881  DOID8712:neurofibromatosis type 2 (neurofibromatosis)
+Processing 00000000.tx.1: 601321|Neurofibromatosis-Noonan syndrome
+Meta Mapping (810):
+    604  DOID8712:neurofibromatosis
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 117000|Neuromuscular disease, congenital, with uniform type 1 fiber
+Meta Mapping (764):
+    764  DOID440:neuromuscular disease
+Processing 00000000.tx.1: 137200|Neuromyotonia and axonal neuropathy, autosomal recessive
+Meta Mapping (612):
+    612  DOID7319:axonal neuropathy
+Processing 00000000.tx.1: 182960|Neuronopathy, distal hereditary motor, type I
+Processing 00000000.tx.1: 613376|Neuronopathy, distal hereditary motor, type IIC
+Processing 00000000.tx.1: 615575|Neuronopathy, distal hereditary motor, type IID
+Processing 00000000.tx.1: 614751|Neuronopathy, distal hereditary motor, type VB
+Processing 00000000.tx.1: 604320|Neuronopathy, distal hereditary motor, type VI
+Processing 00000000.tx.1: 158580|Neuronopathy, distal hereditary motor, type VIIA
+Processing 00000000.tx.1: 605253|Neuropathy, congenital hypomyelinating, 1
+Meta Mapping (760):
+    760  DOID870:neuropathy
+Processing 00000000.tx.1: 605253|Neuropathy, congenital hypomyelinating
+Meta Mapping (770):
+    770  DOID870:neuropathy
+Processing 00000000.tx.1: 605726|Neuropathy, distal hereditary motor, Jerash type
+Meta Mapping (840):
+    840  DOID0050582:distal hereditary motor neuropathy
+Processing 00000000.tx.1: 158590|Neuropathy, distal hereditary motor, type IIA
+Meta Mapping (840):
+    840  DOID0050582:distal hereditary motor neuropathy
+Processing 00000000.tx.1: 608634|Neuropathy, distal hereditary motor, type IIB
+Meta Mapping (840):
+    840  DOID0050582:distal hereditary motor neuropathy
+Processing 00000000.tx.1: 600794|Neuropathy, distal hereditary motor, type VA
+Meta Mapping (840):
+    840  DOID0050582:distal hereditary motor neuropathy
+Processing 00000000.tx.1: 607641|Neuropathy, distal hereditary motor, type VIIB
+Meta Mapping (840):
+    840  DOID0050582:distal hereditary motor neuropathy
+Processing 00000000.tx.1: 605285|Neuropathy, hereditary motor and sensory, Russe type
+Meta Mapping (869):
+    855  DOID2477:Hereditary motor and sensory neuropathy (motor peripheral neuropathy)
+Processing 00000000.tx.1: 162400|Neuropathy, hereditary sensory and autonomic, type IA
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 613640|Neuropathy, hereditary sensory and autonomic, type IC
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 201300|Neuropathy, hereditary sensory and autonomic, type II
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 613115|Neuropathy, hereditary sensory and autonomic, type IIB
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 608654|Neuropathy, hereditary sensory and autonomic, type V
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 614653|Neuropathy, hereditary sensory and autonomic, type VI
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 615548|Neuropathy, hereditary sensory and autonomic, type VII
+Meta Mapping (869):
+    855  DOID11533:hereditary sensory and autonomic neuropathy
+Meta Mapping (869):
+    855  DOID0050548:hereditary sensory and autonomic neuropathy (hereditary sensory neuropathy)
+Processing 00000000.tx.1: 608088|Neuropathy, hereditary sensory, type IB
+Meta Mapping (820):
+    820  DOID0050548:hereditary sensory neuropathy
+Processing 00000000.tx.1: 613708|Neuropathy, hereditary sensory, type ID
+Meta Mapping (820):
+    820  DOID0050548:hereditary sensory neuropathy
+Processing 00000000.tx.1: 614116|Neuropathy, hereditary sensory, type IE
+Meta Mapping (654):
+    654  DOID0050548:hereditary sensory neuropathy
+Processing 00000000.tx.1: 615632|Neuropathy, hereditary sensory, type IF
+Meta Mapping (833):
+    820  DOID0050548:hereditary sensory neuropathy
+Processing 00000000.tx.1: 614213|Neuropathy, hereditary sensory, type IIC
+Meta Mapping (820):
+    820  DOID0050548:hereditary sensory neuropathy
+Processing 00000000.tx.1: 256840|Neuropathy, hereditary sensory, with spastic paraplegia
+Meta Mapping (756):
+    804  DOID0050548:hereditary sensory neuropathy
+    581  DOID607:paraplegia
+Processing 00000000.tx.1: 139393|Neuropathy, inflammatory demyelinating
+Meta Mapping (770):
+    770  DOID870:neuropathy
+Processing 00000000.tx.1: 605285|Neuropathy, motor and sensory, Russe type
+Meta Mapping (774):
+    774  DOID2491:sensory neuropathy (sensory peripheral neuropathy)
+Processing 00000000.tx.1: 162500|Neuropathy, recurrent, with pressure palsies
+Meta Mapping (753):
+    753  DOID870:neuropathy
+Processing 00000000.tx.1: 610717|Neutral lipid storage disease with myopathy
+Meta Mapping (808):
+    853  DOID0050729:neutral lipid storage disease
+    581  DOID423:myopathy
+Processing 00000000.tx.1: 162800|Neutropenia, cyclic
+Meta Mapping (790):
+    790  DOID1227:neutropenia
+Processing 00000000.tx.1: 607847|Neutropenia, nonimmune chronic idiopathic, of adults
+Meta Mapping (748):
+    748  DOID1227:neutropenia
+Processing 00000000.tx.1: 202700|Neutropenia, severe congenital 1, autosomal dominant
+Meta Mapping (804):
+    804  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 613107|Neutropenia, severe congenital 2, autosomal dominant
+Meta Mapping (804):
+    804  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 610738|Neutropenia, severe congenital 3, autosomal recessive
+Meta Mapping (804):
+    804  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 612541|Neutropenia, severe congenital 4, autosomal recessive
+Meta Mapping (804):
+    804  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 615285|Neutropenia, severe congenital, 5, autosomal recessive
+Meta Mapping (804):
+    804  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 300299|Neutropenia, severe congenital, X-linked
+Meta Mapping (820):
+    820  DOID0050590:severe congenital neutropenia
+Processing 00000000.tx.1: 608203|Neutrophil immunodeficiency syndrome
+Meta Mapping (833):
+    833  DOID612:immunodeficiency syndrome (primary immunodeficiency disease)
+Processing 00000000.tx.1: 162830|Neutrophilia, hereditary
+Processing 00000000.tx.1: 162900|Nevus, epidermal, somatic
+Meta Mapping (819):
+    819  DOID0050532:epidermal nevus
+Processing 00000000.tx.1: 607476|Newfoundland rod-cone dystrophy
+Meta Mapping (862):
+    835  DOID0050572:cone-rod dystrophy
+Processing 00000000.tx.1: 601358|Nicolaides-Baraitser syndrome
+Meta Mapping (770):
+    770  DOID225:syndrome
+Processing 00000000.tx.1: 257200|Niemann-Pick disease, type A
+Meta Mapping (901):
+    901  DOID14504:Niemann-Pick disease type A (Niemann-Pick disease)
+Processing 00000000.tx.1: 607616|Niemann-Pick disease, type B
+Meta Mapping (901):
+    901  DOID14504:Niemann-Pick disease type B (Niemann-Pick disease)
+Processing 00000000.tx.1: 257220|Niemann-Pick disease, type C1
+Meta Mapping (833):
+    833  DOID14504:Niemann-Pick disease
+Processing 00000000.tx.1: 257220|Niemann-Pick disease, type D
+Meta Mapping (833):
+    833  DOID14504:Niemann-Pick disease
+Processing 00000000.tx.1: 607625|Niemann-pick disease, type C2
+Meta Mapping (833):
+    833  DOID14504:Niemann-Pick disease
+Processing 00000000.tx.1: 310500|Night blindness, congenital stationary (complete), 1A, X-linked
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 257270|Night blindness, congenital stationary (complete), 1B, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 613216|Night blindness, congenital stationary (complete), 1C, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 613830|Night blindness, congenital stationary (complete), 1D, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 614565|Night blindness, congenital stationary (complete), 1E, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 615058|Night blindness, congenital stationary (complete), 1F, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 300071|Night blindness, congenital stationary (incomplete), 2A, X-linked
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 610427|Night blindness, congenital stationary (incomplete), 2B, autosomal recessive
+Meta Mapping (807):
+    807  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 610445|Night blindness, congenital stationary, autosomal dominant 1
+Meta Mapping (819):
+    819  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 163500|Night blindness, congenital stationary, autosomal dominant 2
+Meta Mapping (819):
+    819  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 610444|Night blindness, congenital stationary, autosomal dominant 3
+Meta Mapping (819):
+    819  DOID0050534:congenital stationary night blindness
+Processing 00000000.tx.1: 251260|Nijmegen breakage syndrome
+Meta Mapping (909):
+    909  DOID7400:Nijmegen breakage syndrome
+Processing 00000000.tx.1: 613078|Nijmegen breakage syndrome-like disorder
+Meta Mapping (833):
+    833  DOID7400:Nijmegen breakage syndrome
+Processing 00000000.tx.1: 605027|Non-Hodgkin lymphoma, somatic
+Meta Mapping (862):
+    862  DOID0060060:non-Hodgkin lymphoma
+Processing 00000000.tx.1: 605820|Nonaka myopathy
+Meta Mapping (790):
+    790  DOID423:myopathy
+Processing 00000000.tx.1: 211980|Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in
+Meta Mapping (756):
+    756  DOID1324:lung cancer
+Processing 00000000.tx.1: 211980|Nonsmall cell lung cancer, somatic
+Meta Mapping (790):
+    790  DOID1324:lung cancer
+Processing 00000000.tx.1: 163950|Noonan syndrome 1
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 609942|Noonan syndrome 3
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 610733|Noonan syndrome 4
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 611553|Noonan syndrome 5
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 613224|Noonan syndrome 6
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 613706|Noonan syndrome 7
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 615355|Noonan syndrome 8
+Meta Mapping (833):
+    833  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 613563|Noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia
+Meta Mapping (708):
+    738  DOID225:syndrome
+    609  DOID0050458:juvenile myelomonocytic leukemia
+Processing 00000000.tx.1: 607721|Noonan-like syndrome with loose anagen hair
+Meta Mapping (767):
+    767  DOID3490:Noonan syndrome
+Processing 00000000.tx.1: 310600|Norrie disease
+Meta Mapping (790):
+    790  DOID4:disease
+Processing 00000000.tx.1: 245900|Norum disease
+Meta Mapping (882):
+    882  DOID1391:Norum disease
+Processing 00000000.tx.1: 310700|Nystagmus 1, congenital, X-linked
+Meta Mapping (783):
+    783  DOID9649:congenital nystagmus
+Processing 00000000.tx.1: 608345|Nystagmus 3, congenital
+Meta Mapping (819):
+    819  DOID9649:congenital nystagmus

@@ -1,0 +1,24 @@
+Processing 00000000.tx.1: 21503|21-hydroxylase_deficiency
+Processing 00000000.tx.1: 276|ANGIOTENSIN I-CONVERTING ENZYME INSERTION/DELETION POLYMORPHISM
+Processing 00000000.tx.1: 6021|Platelet counts
+Processing 00000000.tx.1: 2747|HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 7
+Processing 00000000.tx.1: 17884|Circulating vasoactive peptide levels
+Processing 00000000.tx.1: 3869|OSTEOARTHRITIS SUSCEPTIBILITY 1
+Meta Mapping (770):
+    770  DOID8398:osteoarthritis
+Processing 00000000.tx.1: 6140|Type 1 diabetes autoantibodies
+Meta Mapping (593):
+    593  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 5733|Crohn's disease and psoriasis
+Meta Mapping (745):
+    806  DOID8778:Crohn's disease
+    593  DOID8893:psoriasis
+Processing 00000000.tx.1: 2743|HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 11
+Processing 00000000.tx.1: 4233|RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+Processing 00000000.tx.1: 278|ANGIOTENSIN RECEPTOR 1
+Processing 00000000.tx.1: 3462|MICRO RNA 155
+Processing 00000000.tx.1: 38|ACETYLATION, SLOW
+Processing 00000000.tx.1: 21817|Slow_acetylator_due_to_N-acetyltransferase_enzyme_variant
+Processing 00000000.tx.1: 5945|Metabolic syndrome (bivariate traits)
+Meta Mapping (760):
+    760  DOID225:syndrome

@@ -1,0 +1,31 @@
+Processing 00000000.tx.1: 563|BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+Processing 00000000.tx.1: 1283|DOPAMINE RECEPTOR D1
+Processing 00000000.tx.1: 4757|TOBACCO ADDICTION, SUSCEPTIBILITY TO
+Processing 00000000.tx.1: 4873|VENOUS THROMBOEMBOLISM, SUSCEPTIBILITY TO
+Processing 00000000.tx.1: 4043|PI M3
+Processing 00000000.tx.1: 327|APOLIPOPROTEIN C-II (SAN FRANCISCO)
+Processing 00000000.tx.1: 4147|PROPROTEIN CONVERTASE, SUBTILISIN/KEXIN-TYPE, 1
+Processing 00000000.tx.1: 17441|Fasting proinsulin
+Processing 00000000.tx.1: 4712|THROMBOPHILIA DUE TO FACTOR V LEIDEN
+Meta Mapping (748):
+    748  DOID2452:thrombophilia
+Processing 00000000.tx.1: 6153|Venous thromboembolism
+Processing 00000000.tx.1: 20291|Ischemic_stroke,_susceptibility_to
+Meta Mapping (659):
+    688  DOID326:ischemia
+    760  DOID3455:Stroke (cerebrovascular accident)
+Processing 00000000.tx.1: 20292|Budd-Chiari_syndrome,_susceptibility_to
+Meta Mapping (833):
+    833  DOID11512:Budd-Chiari syndrome (hepatic vein thrombosis)
+Processing 00000000.tx.1: 20293|Recurrent_abortion
+Processing 00000000.tx.1: 5825|HDL cholesterol
+Processing 00000000.tx.1: 3993|PEN(a)/PEN(b) ALLOANTIGEN POLYMORPHISM
+Processing 00000000.tx.1: 24162|Thrombocytopenia,_neonatal_alloimmune
+Meta Mapping (770):
+    770  DOID1588:thrombocytopenia
+Processing 00000000.tx.1: 24163|Posttransfusion_purpura
+Meta Mapping (790):
+    790  DOID3326:purpura
+Processing 00000000.tx.1: 5868|IgA nephropathy
+Meta Mapping (882):
+    882  DOID2986:IgA nephropathy (IgA glomerulonephritis)

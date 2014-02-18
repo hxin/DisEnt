@@ -7,7 +7,7 @@ if [ -f $CONFIG_FILE ]; then
 fi
 
 CHUNK=$BASEDIR/tmp/chunks
-
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
 
 if [ $USECACHE = 'n' ]; then
 	echo "[$(date +"%T %D")] Loading omim disease from db..."

@@ -1,0 +1,46 @@
+Processing 00000000.tx.1: 6032|Proinsulin levels
+Processing 00000000.tx.1: 1237|DIABETES MELLITUS, NONINSULIN-DEPENDENT
+Meta Mapping (891):
+    891  DOID9352:non-insulin-dependent diabetes mellitus (type 2 diabetes mellitus)
+Processing 00000000.tx.1: 4407|SELECTIN P POLYMORPHISM
+Processing 00000000.tx.1: 6105|Soluble levels of adhesion molecules
+Processing 00000000.tx.1: 1498|FACTOR VII DEFICIENCY
+Meta Mapping (909):
+    909  DOID2215:factor VII deficiency
+Processing 00000000.tx.1: 4995|MYOCARDIAL INFARCTION, DECREASED SUSCEPTIBILITY TO
+Meta Mapping (790):
+    790  DOID5844:myocardial infarction
+Processing 00000000.tx.1: 5919|Longevity
+Processing 00000000.tx.1: 3090|LARON SYNDROME
+Meta Mapping (882):
+    882  DOID9521:Laron syndrome
+Processing 00000000.tx.1: 171|ALOPECIA, ANDROGENETIC, 2
+Meta Mapping (770):
+    770  DOID987:alopecia
+Processing 00000000.tx.1: 616|BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3
+Meta Mapping (742):
+    742  DOID9563:bronchiectasis
+Processing 00000000.tx.1: 5714|Cognitive performance
+Processing 00000000.tx.1: 3177|LIPOPROTEIN LIPASE
+Processing 00000000.tx.1: 3179|LIPOPROTEIN LIPASE POLYMORPHISM
+Processing 00000000.tx.1: 5848|Hepatitis B (viral clearance)
+Meta Mapping (806):
+    806  DOID2043:hepatitis B
+Processing 00000000.tx.1: 5847|Hepatitis B
+Meta Mapping (882):
+    882  DOID2043:hepatitis B
+Processing 00000000.tx.1: 4386|SCHIZOPHRENIA, SUSCEPTIBILITY TO
+Meta Mapping (770):
+    770  DOID5419:schizophrenia
+Processing 00000000.tx.1: 20892|Essential_tremor,_susceptibility_to
+Meta Mapping (806):
+    806  DOID4990:essential tremor
+Processing 00000000.tx.1: 814|CERVICAL CANCER
+Meta Mapping (882):
+    882  DOID4362:cervical cancer
+Processing 00000000.tx.1: 5041|Adrenal hyperplasia type 3
+Meta Mapping (806):
+    806  DOID4967:adrenal hyperplasia
+Processing 00000000.tx.1: 17458|Adrenal hyperplasia 3
+Meta Mapping (833):
+    833  DOID4967:adrenal hyperplasia

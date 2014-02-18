@@ -11,6 +11,10 @@ fi
 H_GENE=$BASEDIR/tmp/ENSEMBL_human_gene
 CHUNK=$BASEDIR/tmp/chunks
 
+
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
+
+
 ##update ensemb api
 if [ $ENSEMBL_API = 'y' ]; then
 	echo "[$(date +"%T %D")] Updating ensembl API..."
@@ -21,10 +25,12 @@ if [ $ENSEMBL_API = 'y' ]; then
 fi
 
 
+
+
 if [ $USECACHE = 'n' ]; then
 	#######fetch human gene
 	echo "[$(date +"%T %D")] Fetching human gene..."
-	perl $BASEDIR/fetch_human_gene.pl > $H_GENE
+	[ $ENSEMBL_HUMAN = 'y' ] && perl $BASEDIR/fetch_human_gene.pl > $H_GENE
 
 	#######fetch homolog
 	if [ $ENSEMBL_HOMOLOG = 'y' ];then
@@ -33,10 +39,11 @@ if [ $USECACHE = 'n' ]; then
 		echo "[$(date +"%T %D")] Create/Empty chunk folder..."
 		( [ -d $CHUNK ] && rm -f $CHUNK/* ) || mkdir $BASEDIR/tmp/chunks;
 		echo "[$(date +"%T %D")] Chunking file..."
-		if [ $DEBUG = 'n' ];then
-			cp $H_GENE $CHUNK/ENSEMBL_human_gene 
+		if [ $DEBUG = 'y' ];then
+			head -50 $H_GENE > $CHUNK/ENSEMBL_human_gene
+			printf "ENSG00000000457\t13\t23708313\t23708703" >> $CHUNK/ENSEMBL_human_gene
 		else
-			head -100 $H_GENE > $CHUNK/ENSEMBL_human_gene 
+			cp $H_GENE $CHUNK/ENSEMBL_human_gene
 		fi
 		(cd $CHUNK && split -n l/$ENSEMBL_CHUNK_NUMBER -a 3 -e -d ENSEMBL_human_gene chunk_ && rm -f ./ENSEMBL_human_gene)
 		#ls $CHUNK

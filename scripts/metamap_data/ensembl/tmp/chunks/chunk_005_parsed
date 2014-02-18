@@ -1,0 +1,35 @@
+Processing 00000000.tx.1: 456|BAK PLATELET-SPECIFIC ANTIGEN
+Processing 00000000.tx.1: 5620|Angiotensin-converting enzyme activity
+Processing 00000000.tx.1: 32|ABDOMINAL OBESITY-METABOLIC SYNDROME
+Meta Mapping (926):
+    926  DOID14221:ABDOMINAL OBESITY-METABOLIC SYNDROME (metabolic syndrome X)
+Processing 00000000.tx.1: 3372|MEMORY IMPAIRMENT, SUSCEPTIBILITY TO
+Processing 00000000.tx.1: 561|BODY MASS INDEX
+Processing 00000000.tx.1: 6100|Smoking behavior
+Processing 00000000.tx.1: 6167|Weight
+Processing 00000000.tx.1: 22870|Obsessive-compulsive_disorder,_protection_against
+Meta Mapping (833):
+    833  DOID10933:obsessive-compulsive disorder
+Processing 00000000.tx.1: 22871|Anorexia_nervosa_2
+Meta Mapping (833):
+    833  DOID8689:anorexia nervosa
+Processing 00000000.tx.1: 22872|Bulimia_nervosa_2
+Meta Mapping (833):
+    833  DOID12129:bulimia nervosa
+Processing 00000000.tx.1: 536|BIPOLAR AFFECTIVE DISORDER, SUSCEPTIBILITY TO
+Meta Mapping (783):
+    783  DOID3312:bipolar disorder
+Processing 00000000.tx.1: 22874|Parkinson_disease,_age_at_onset,_susceptibility_to
+Meta Mapping (770):
+    770  DOID14330:Parkinson's disease
+Processing 00000000.tx.1: 6168|White blood cell count
+Processing 00000000.tx.1: 6169|White blood cell types
+Processing 00000000.tx.1: 4508|SPASTIC PARAPLEGIA 15, AUTOSOMAL RECESSIVE
+Meta Mapping (753):
+    753  DOID607:paraplegia
+Processing 00000000.tx.1: 4718|THROMBOPHILIA DUE TO THROMBIN DEFECT
+Meta Mapping (753):
+    753  DOID2452:thrombophilia
+Processing 00000000.tx.1: 5592|Activated partial thromboplastin time
+Processing 00000000.tx.1: 321|APOLIPOPROTEIN B
+Processing 00000000.tx.1: 5905|LDL cholesterol

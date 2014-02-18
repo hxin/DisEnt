@@ -9,7 +9,7 @@ fi
 M2G=$BASEDIR/tmp/mim2gene.txt
 MORBIDMAP=$BASEDIR/tmp/morbidmap
 D2G=$BASEDIR/tmp/OMIM_disease2gene
-
+[ ! -d $BASEDIR/tmp ] && mkdir $BASEDIR/tmp;
 if [ $USECACHE = 'n' ]; then
 	echo "[$(date +"%T %D")] Checking update..."
 	([ -z "$(cd $BASEDIR/tmp/; wget -N --spider $MIM2GENE_URL 2>&1 | grep 'exists')" ] && [ -z "$(cd $BASEDIR/tmp/; wget -N --spider $MORBIDMAP_URL 2>&1 | grep 'exists')" ] && exit 0; exit 1; )
