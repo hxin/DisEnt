@@ -1,0 +1,38 @@
+Processing 00000000.tx.1: 8945|Hirschsprung disease 2
+Meta Mapping (833):
+    833  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 4813|TUBEROUS SCLEROSIS 1
+Meta Mapping (833):
+    833  DOID13515:tuberous sclerosis
+Processing 00000000.tx.1: 1655|FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+Meta Mapping (790):
+    790  DOID9255:FRONTOTEMPORAL LOBAR DEGENERATION (frontotemporal dementia)
+Processing 00000000.tx.1: 4982|FRONTOTEMPORAL LOBAR DEGENERATION WITH UBIQUITIN-POSITIVE INCLUSIONS, SUSCEPTIBILITY TO
+Meta Mapping (782):
+    782  DOID9255:FRONTOTEMPORAL LOBAR DEGENERATION (frontotemporal dementia)
+Processing 00000000.tx.1: 758|CATECHOL-O-METHYLTRANSFERASE
+Processing 00000000.tx.1: 60|ADDUCIN 2
+Processing 00000000.tx.1: 458|BAND 3 MEMPHIS
+Processing 00000000.tx.1: 6141|Type 2 diabetes
+Meta Mapping (770):
+    770  DOID9351:Diabetes NOS (diabetes mellitus)
+Processing 00000000.tx.1: 5781|Erectile dysfunction and prostate cancer treatment
+Meta Mapping (612):
+    612  DOID10283:prostate cancer
+Processing 00000000.tx.1: 5981|Non-alcoholic fatty liver disease histology (other)
+Meta Mapping (633):
+    633  DOID9452:fatty liver disease
+Processing 00000000.tx.1: 2853|HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO
+Meta Mapping (806):
+    797  DOID10825:essential hypertension
+Processing 00000000.tx.1: 20369|Preeclampsia,_susceptibility_to
+Meta Mapping (770):
+    770  DOID10591:pre-eclampsia
+Processing 00000000.tx.1: 20384|Susceptibility_to_progression_to_renal_failure_in_IgA_nephropathy
+Meta Mapping (520):
+    593  DOID1074:renal failure NOS (kidney failure)
+    593  DOID2986:IgA nephropathy (IgA glomerulonephritis)
+Processing 00000000.tx.1: 176|ALPHA-2-MACROGLOBULIN POLYMORPHISM
+Processing 00000000.tx.1: 20932|Alzheimer_disease,_susceptibility_to
+Meta Mapping (806):
+    806  DOID10652:Alzheimer's disease

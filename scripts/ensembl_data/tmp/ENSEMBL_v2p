@@ -1,0 +1,329 @@
+rs8326	OMIM	MIM:105800	262	ANEURYSM, INTRACRANIAL BERRY, 1
+rs6318	OMIM	MIM:312861	4418	SEROTONIN 5-HT-2C RECEPTOR POLYMORPHISM
+rs6318	dbSNP_ClinVar	\N	4418	SEROTONIN 5-HT-2C RECEPTOR POLYMORPHISM
+rs4880	OMIM	MIM:147460	4642	SUPEROXIDE DISMUTASE 2 POLYMORPHISM
+rs4880	dbSNP_ClinVar	\N	4642	SUPEROXIDE DISMUTASE 2 POLYMORPHISM
+rs4880	dbSNP_ClinVar	\N	21617	Microvascular_complications_of_diabetes_6
+rs9253	NHGRI_GWAS_catalog	pubmed/17903294	5846	Hemostatic factors and hematological phenotypes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs9253	dbGaP	pubmed/17903294	18061	Erythrocytes
+rs1330	NHGRI_GWAS_catalog	pubmed/20881960	5840	Height
+rs4961	OMIM	MIM:102680	2856	HYPERTENSION, SALT-SENSITIVE ESSENTIAL, SUSCEPTIBILITY TO
+rs4961	dbSNP_ClinVar	\N	2856	HYPERTENSION, SALT-SENSITIVE ESSENTIAL, SUSCEPTIBILITY TO
+rs4220	OMIM	MIM:134830	1585	FIBRINOGEN BALTIMORE 2
+rs4220	dbSNP_ClinVar	\N	1585	FIBRINOGEN BALTIMORE 2
+rs334	OMIM	MIM:141900	2037	HEMOGLOBIN C (GEORGETOWN)
+rs334	OMIM	MIM:141900	2038	HEMOGLOBIN C (ZIGUINCHOR)
+rs334	OMIM	MIM:141900	2209	HEMOGLOBIN G (MAKASSAR)
+rs334	OMIM	MIM:141900	2209	HEMOGLOBIN G (MAKASSAR)
+rs334	OMIM	MIM:141900	2324	HEMOGLOBIN JAMAICA PLAIN
+rs334	OMIM	MIM:141900	2534	HEMOGLOBIN S
+rs334	OMIM	MIM:141900	2534	HEMOGLOBIN S
+rs334	OMIM	MIM:141900	2535	HEMOGLOBIN S (ANTILLES)
+rs334	OMIM	MIM:141900	2536	HEMOGLOBIN S (CAMEROON)
+rs334	OMIM	MIM:141900	2537	HEMOGLOBIN S (OMAN)
+rs334	OMIM	MIM:141900	2538	HEMOGLOBIN S (PROVIDENCE)
+rs334	OMIM	MIM:141900	2539	HEMOGLOBIN S (TRAVIS)
+rs334	dbSNP_ClinVar	\N	22528	HEMOGLOBIN_ZIGUINCHOR
+rs334	dbSNP_ClinVar	\N	2534	HEMOGLOBIN S
+rs334	dbSNP_ClinVar	\N	22712	Hb_SS_disease
+rs334	dbSNP_ClinVar	\N	20282	Malaria,_resistance_to
+rs334	dbSNP_ClinVar	\N	2535	HEMOGLOBIN S (ANTILLES)
+rs334	dbSNP_ClinVar	\N	2537	HEMOGLOBIN S (OMAN)
+rs334	dbSNP_ClinVar	\N	2538	HEMOGLOBIN S (PROVIDENCE)
+rs334	dbSNP_ClinVar	\N	2539	HEMOGLOBIN S (TRAVIS)
+rs334	dbSNP_ClinVar	\N	2536	HEMOGLOBIN S (CAMEROON)
+rs334	dbSNP_ClinVar	\N	2324	HEMOGLOBIN JAMAICA PLAIN
+rs334	dbSNP_ClinVar	\N	22528	HEMOGLOBIN_ZIGUINCHOR
+rs334	dbSNP_ClinVar	\N	2209	HEMOGLOBIN G (MAKASSAR)
+rs6336	OMIM	MIM:191315	2985	INSENSITIVITY TO PAIN, CONGENITAL, WITH ANHIDROSIS
+rs6336	OMIM	MIM:191315	4724	THYROID CARCINOMA, FAMILIAL MEDULLARY
+rs6336	dbSNP_ClinVar	\N	6849	Familial medullary thyroid carcinoma
+rs6336	dbSNP_ClinVar	\N	20250	Hereditary_insensitivity_to_pain_with_anhidrosis
+rs6336	dbSNP_ClinVar	\N	20250	Hereditary_insensitivity_to_pain_with_anhidrosis
+rs6133	OMIM	MIM:173610	395	ATOPY, SUSCEPTIBILITY TO
+rs6133	dbSNP_ClinVar	\N	395	ATOPY, SUSCEPTIBILITY TO
+rs4869	OMIM	MIM:178500	4202	PULMONARY FIBROSIS, IDIOPATHIC
+rs331	dbGaP	\N	18044	Cholesterol, HDL
+rs331	NHGRI_GWAS_catalog	pubmed/19936222	5912	Lipid metabolism phenotypes
+rs331	Teslovich	\N	6135	Triglycerides
+rs331	Teslovich	\N	25214	High Density Lipoprotein Cholesterol
+rs6859	NHGRI_GWAS_catalog	pubmed/20885792	5616	Alzheimer's disease (late onset)
+rs6859	NHGRI_GWAS_catalog	pubmed/18823527	5614	Alzheimer's disease
+rs6859	NHGRI_GWAS_catalog	pubmed/22159054	5614	Alzheimer's disease
+rs6859	Teslovich	\N	19982	Low-density lipoprotein cholesterol
+rs6859	Teslovich	\N	19984	Total Cholesterol
+rs671	OMIM	MIM:100650	158	ALCOHOL SENSITIVITY, ACUTE
+rs671	NHGRI_GWAS_catalog	pubmed/22286173	5893	Intracranial aneurysm
+rs671	NHGRI_GWAS_catalog	pubmed/19698717	1466	ESOPHAGEAL CANCER
+rs671	NHGRI_GWAS_catalog	pubmed/21372407	5754	Drinking behavior
+rs671	NHGRI_GWAS_catalog	pubmed/21971053	5724	Coronary heart disease
+rs671	NHGRI_GWAS_catalog	pubmed/22797727	6595	Renal function-related traits (sCR)
+rs671	NHGRI_GWAS_catalog	pubmed/22171074	6135	Triglycerides
+rs671	NHGRI_GWAS_catalog	pubmed/20139978	10717	Mean corpuscular hemoglobin concentration
+rs671	dbSNP_ClinVar	\N	158	ALCOHOL SENSITIVITY, ACUTE
+rs671	dbSNP_ClinVar	\N	156	ALCOHOL DEPENDENCE
+rs671	dbSNP_ClinVar	\N	23291	Susceptibility_to_hangover
+rs671	dbSNP_ClinVar	\N	23292	Sublingual_nitroglycerin,_susceptibility_to_poor_response_to
+rs671	dbSNP_ClinVar	\N	23293	ESOPHAGEAL_CANCER,_ALCOHOL-RELATED,_SUSCEPTIBILITY_TO
+rs9299	NHGRI_GWAS_catalog	pubmed/22484627	3816	OBESITY
+rs6180	OMIM	MIM:600946	2808	HYPERCHOLESTEROLEMIA, FAMILIAL, MODIFICATION OF
+rs6180	dbSNP_ClinVar	\N	5246	Familial hypercholesterolemia
+rs5415	NHGRI_GWAS_catalog	pubmed/23202124	5659	Birth weight
+rs3057	OMIM	MIM:159300	3598	MUSICAL PERFECT PITCH
+rs1635	NHGRI_GWAS_catalog	pubmed/22037552	4380	SCHIZOPHRENIA
+rs6063	OMIM	MIM:134850	1604	FIBRINOGEN MILANO XII, DIGENIC
+rs6063	dbSNP_ClinVar	\N	1604	FIBRINOGEN MILANO XII, DIGENIC
+rs4917	OMIM	MIM:138680	174	ALPHA-2-HS-GLYCOPROTEIN
+rs4917	OMIM	MIM:138680	3097	LEANNESS, SUSCEPTIBILITY TO
+rs4917	dbSNP_ClinVar	\N	3097	LEANNESS, SUSCEPTIBILITY TO
+rs4351	NHGRI_GWAS_catalog	pubmed/23281178	5947	Metabolite levels
+rs5352	OMIM	MIM:131244	2753	HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 2
+rs5352	Uniprot	MIM:600155	5314	Hirschsprung disease type 2
+rs5352	Uniprot	MIM:600155	8945	Hirschsprung disease 2
+rs5352	dbSNP_ClinVar	\N	8945	Hirschsprung disease 2
+rs1748	OMIM	MIM:191100	4813	TUBEROUS SCLEROSIS 1
+rs5848	OMIM	MIM:607485	1655	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED
+rs5848	OMIM	MIM:138945	4982	FRONTOTEMPORAL LOBAR DEGENERATION WITH UBIQUITIN-POSITIVE INCLUSIONS, SUSCEPTIBILITY TO
+rs4818	OMIM	MIM:116790	758	CATECHOL-O-METHYLTRANSFERASE
+rs4984	OMIM	MIM:102681	60	ADDUCIN 2
+rs5036	OMIM	MIM:109270	458	BAND 3 MEMPHIS
+rs5036	dbSNP_ClinVar	\N	458	BAND 3 MEMPHIS
+rs7119	NHGRI_GWAS_catalog	pubmed/21490949	6141	Type 2 diabetes
+rs9948	NHGRI_GWAS_catalog	pubmed/20932654	5781	Erectile dysfunction and prostate cancer treatment
+rs2800	NHGRI_GWAS_catalog	pubmed/20708005	5981	Non-alcoholic fatty liver disease histology (other)
+rs699	OMIM	MIM:106150	2853	HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO
+rs699	dbSNP_ClinVar	\N	2853	HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO
+rs699	dbSNP_ClinVar	\N	20369	Preeclampsia,_susceptibility_to
+rs699	dbSNP_ClinVar	\N	20384	Susceptibility_to_progression_to_renal_failure_in_IgA_nephropathy
+rs669	OMIM	MIM:103950	176	ALPHA-2-MACROGLOBULIN POLYMORPHISM
+rs669	dbSNP_ClinVar	\N	176	ALPHA-2-MACROGLOBULIN POLYMORPHISM
+rs669	dbSNP_ClinVar	\N	20932	Alzheimer_disease,_susceptibility_to
+rs7817	OMIM	MIM:603502	3002	INTERFERON-RELATED DEVELOPMENTAL REGULATOR 1
+rs6472	OMIM	MIM:201910	73	ADRENAL HYPERPLASIA, CONGENITAL, DUE TO 21-HYDROXYLASE DEFICIENCY
+rs6472	dbSNP_ClinVar	\N	20195	Congenital_adrenal_hyperplasia
+rs6472	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs6472	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs6472	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs6472	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs6472	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs10089	NHGRI_GWAS_catalog	pubmed/21139019	5872	Ileal carcinoids
+rs7937	NHGRI_GWAS_catalog	pubmed/22080838	5707	Chronic obstructive pulmonary disease
+rs1535	NHGRI_GWAS_catalog	pubmed/21829377	6017	Phospholipid levels (plasma)
+rs1535	NHGRI_GWAS_catalog	pubmed/20694148	5944	Metabolic syndrome
+rs1535	MAGIC	\N	5799	Fasting plasma glucose
+rs1535	NHGRI_GWAS_catalog	pubmed/20339536	6077	Response to statin therapy
+rs1535	dbGaP	pubmed/19060910	18091	Lipoproteins, LDL
+rs1535	Teslovich	\N	19982	Low-density lipoprotein cholesterol
+rs1535	Teslovich	\N	6135	Triglycerides
+rs1535	Teslovich	\N	19984	Total Cholesterol
+rs1535	Teslovich	\N	25214	High Density Lipoprotein Cholesterol
+rs6003	OMIM	MIM:134580	4874	VENOUS THROMBOSIS, SUSCEPTIBILITY TO
+rs6003	AMDGC	pubmed/23455636	19980	Age Related Macular Degeneration with neovascularization
+rs6003	AMDGC	pubmed/23455636	19979	Age Related Macular Degeneration with GeographicAtropy
+rs6003	dbGaP	pubmed/20385819	18096	Macular Degeneration
+rs6003	dbGaP	\N	18096	Macular Degeneration
+rs6003	dbGaP	\N	18096	Macular Degeneration
+rs6003	dbGaP	\N	18096	Macular Degeneration
+rs6003	dbSNP_ClinVar	\N	4874	VENOUS THROMBOSIS, SUSCEPTIBILITY TO
+rs6003	AMDGC	pubmed/23455636	25212	Advanced age related macular degeneration
+rs6220	OMIM	MIM:147440	2993	INSULIN-LIKE GROWTH FACTOR I
+rs5911	OMIM	MIM:607759	456	BAK PLATELET-SPECIFIC ANTIGEN
+rs5911	dbSNP_ClinVar	\N	456	BAK PLATELET-SPECIFIC ANTIGEN
+rs4343	NHGRI_GWAS_catalog	pubmed/20066004	5620	Angiotensin-converting enzyme activity
+rs1545	OMIM	MIM:605552	32	ABDOMINAL OBESITY-METABOLIC SYNDROME
+rs6265	OMIM	MIM:113505	3372	MEMORY IMPAIRMENT, SUSCEPTIBILITY TO
+rs6265	NHGRI_GWAS_catalog	pubmed/19079260	561	BODY MASS INDEX
+rs6265	GIANT	\N	561	BODY MASS INDEX
+rs6265	NHGRI_GWAS_catalog	pubmed/20418890	6100	Smoking behavior
+rs6265	NHGRI_GWAS_catalog	pubmed/19079260	6167	Weight
+rs6265	dbSNP_ClinVar	\N	3372	MEMORY IMPAIRMENT, SUSCEPTIBILITY TO
+rs6265	dbSNP_ClinVar	\N	22870	Obsessive-compulsive_disorder,_protection_against
+rs6265	dbSNP_ClinVar	\N	22871	Anorexia_nervosa_2
+rs6265	dbSNP_ClinVar	\N	22872	Bulimia_nervosa_2
+rs6265	dbSNP_ClinVar	\N	536	BIPOLAR AFFECTIVE DISORDER, SUSCEPTIBILITY TO
+rs6265	dbSNP_ClinVar	\N	22874	Parkinson_disease,_age_at_onset,_susceptibility_to
+rs445	NHGRI_GWAS_catalog	pubmed/21738479	6168	White blood cell count
+rs445	NHGRI_GWAS_catalog	pubmed/21738478	6169	White blood cell types
+rs445	NHGRI_GWAS_catalog	pubmed/20139978	6168	White blood cell count
+rs8688	OMIM	MIM:270700	4508	SPASTIC PARAPLEGIA 15, AUTOSOMAL RECESSIVE
+rs8688	dbGaP	pubmed/19060910	6135	Triglycerides
+rs9898	OMIM	MIM:188050	4718	THROMBOPHILIA DUE TO THROMBIN DEFECT
+rs9898	NHGRI_GWAS_catalog	pubmed/20303064	5592	Activated partial thromboplastin time
+rs9898	NHGRI_GWAS_catalog	pubmed/22703881	5592	Activated partial thromboplastin time
+rs693	OMIM	MIM:107730	321	APOLIPOPROTEIN B
+rs693	NHGRI_GWAS_catalog	pubmed/18193044	5905	LDL cholesterol
+rs693	NHGRI_GWAS_catalog	pubmed/19060910	5905	LDL cholesterol
+rs693	NHGRI_GWAS_catalog	pubmed/19060911	5905	LDL cholesterol
+rs693	NHGRI_GWAS_catalog	pubmed/19060911	5701	Cholesterol, total
+rs693	NHGRI_GWAS_catalog	pubmed/18193044	6135	Triglycerides
+rs693	NHGRI_GWAS_catalog	pubmed/17463246	6135	Triglycerides
+rs693	dbGaP	pubmed/19060910	18091	Lipoproteins, LDL
+rs693	Teslovich	\N	19982	Low-density lipoprotein cholesterol
+rs693	Teslovich	\N	6135	Triglycerides
+rs693	Teslovich	\N	19984	Total Cholesterol
+rs693	Teslovich	\N	25214	High Density Lipoprotein Cholesterol
+rs6092	OMIM	MIM:173360	4077	PLASMINOGEN ACTIVATOR INHIBITOR-1 DEFICIENCY
+rs6092	OMIM	MIM:173360	4077	PLASMINOGEN ACTIVATOR INHIBITOR-1 DEFICIENCY
+rs6092	dbSNP_ClinVar	\N	21725	Plasminogen_activator_inhibitor_type_1_deficiency
+rs4329	NHGRI_GWAS_catalog	pubmed/21886157	5946	Metabolic traits
+rs10078	NHGRI_GWAS_catalog	pubmed/21897333	25231	Fat distribution (HIV)
+rs8396	NHGRI_GWAS_catalog	pubmed/20037589	5947	Metabolite levels
+rs8396	NHGRI_GWAS_catalog	pubmed/21886157	5946	Metabolic traits
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/23453885	17881	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	NHGRI_GWAS_catalog	pubmed/19115949	5589	AIDS progression
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs8321	dbGaP	pubmed/18204446	18093	Lupus Erythematosus, Systemic
+rs6030	NHGRI_GWAS_catalog	pubmed/23703922	6146	Uric acid levels
+rs4541	Uniprot	MIM:610600	5162	Corticosterone methyloxidase type 2 deficiency
+rs4541	Uniprot	MIM:610600	17558	Corticosterone methyloxidase 2 deficiency
+rs6166	OMIM	MIM:136435	3918	OVARIAN RESPONSE TO FSH STIMULATION
+rs6166	dbSNP_ClinVar	\N	3918	OVARIAN RESPONSE TO FSH STIMULATION
+rs6166	dbSNP_ClinVar	\N	3917	OVARIAN HYPERSTIMULATION SYNDROME
+rs6056	NHGRI_GWAS_catalog	pubmed/20031577	5802	Fibrinogen
+rs430	NHGRI_GWAS_catalog	pubmed/23251661	5990	Obesity-related traits
+rs7636	NHGRI_GWAS_catalog	pubmed/21490949	6141	Type 2 diabetes
+rs6232	OMIM	MIM:162150	3826	OBESITY, SUSCEPTIBILITY TO
+rs6232	dbSNP_ClinVar	\N	563	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+rs4532	OMIM	MIM:126449	1283	DOPAMINE RECEPTOR D1
+rs4532	OMIM	MIM:181500	4380	SCHIZOPHRENIA
+rs4532	OMIM	MIM:188890	4757	TOBACCO ADDICTION, SUSCEPTIBILITY TO
+rs6050	OMIM	MIM:134820	4873	VENOUS THROMBOEMBOLISM, SUSCEPTIBILITY TO
+rs6050	NHGRI_GWAS_catalog	pubmed/21757653	5802	Fibrinogen
+rs6050	dbSNP_ClinVar	\N	4873	VENOUS THROMBOEMBOLISM, SUSCEPTIBILITY TO
+rs1303	OMIM	MIM:107400	4043	PI M3
+rs1303	NHGRI_GWAS_catalog	pubmed/22916037	5947	Metabolite levels
+rs1303	dbSNP_ClinVar	\N	4043	PI M3
+rs5122	OMIM	MIM:608083	327	APOLIPOPROTEIN C-II (SAN FRANCISCO)
+rs5122	dbSNP_ClinVar	\N	327	APOLIPOPROTEIN C-II (SAN FRANCISCO)
+rs6234	OMIM	MIM:612362	563	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+rs6234	OMIM	MIM:162150	4147	PROPROTEIN CONVERTASE, SUBTILISIN/KEXIN-TYPE, 1
+rs6234	MAGIC	\N	17441	Fasting proinsulin
+rs6025	OMIM	MIM:612309	4712	THROMBOPHILIA DUE TO FACTOR V LEIDEN
+rs6025	NHGRI_GWAS_catalog	pubmed/22672568	6153	Venous thromboembolism
+rs6025	dbSNP_ClinVar	\N	4712	THROMBOPHILIA DUE TO FACTOR V LEIDEN
+rs6025	dbSNP_ClinVar	\N	20291	Ischemic_stroke,_susceptibility_to
+rs6025	dbSNP_ClinVar	\N	20292	Budd-Chiari_syndrome,_susceptibility_to
+rs6025	dbSNP_ClinVar	\N	20293	Recurrent_abortion
+rs325	NHGRI_GWAS_catalog	pubmed/20864672	5825	HDL cholesterol
+rs325	Teslovich	\N	6135	Triglycerides
+rs325	Teslovich	\N	25214	High Density Lipoprotein Cholesterol
+rs5917	OMIM	MIM:173470	3993	PEN(a)/PEN(b) ALLOANTIGEN POLYMORPHISM
+rs5917	dbSNP_ClinVar	\N	3993	PEN(a)/PEN(b) ALLOANTIGEN POLYMORPHISM
+rs5917	dbSNP_ClinVar	\N	24162	Thrombocytopenia,_neonatal_alloimmune
+rs5917	dbSNP_ClinVar	\N	24163	Posttransfusion_purpura
+rs4227	NHGRI_GWAS_catalog	pubmed/22197929	5868	IgA nephropathy
+rs6235	OMIM	MIM:612362	563	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+rs6235	OMIM	MIM:162150	4147	PROPROTEIN CONVERTASE, SUBTILISIN/KEXIN-TYPE, 1
+rs6235	NHGRI_GWAS_catalog	pubmed/21873549	6032	Proinsulin levels
+rs6235	MAGIC	\N	17441	Fasting proinsulin
+rs6257	OMIM	MIM:125853	1237	DIABETES MELLITUS, NONINSULIN-DEPENDENT
+rs6136	OMIM	MIM:173610	4407	SELECTIN P POLYMORPHISM
+rs6136	NHGRI_GWAS_catalog	pubmed/20167578	6105	Soluble levels of adhesion molecules
+rs6136	dbSNP_ClinVar	\N	4407	SELECTIN P POLYMORPHISM
+rs6046	OMIM	MIM:227500	1498	FACTOR VII DEFICIENCY
+rs6046	OMIM	MIM:613878	4995	MYOCARDIAL INFARCTION, DECREASED SUSCEPTIBILITY TO
+rs6046	dbSNP_ClinVar	\N	4995	MYOCARDIAL INFARCTION, DECREASED SUSCEPTIBILITY TO
+rs1547	OMIM	MIM:605552	32	ABDOMINAL OBESITY-METABOLIC SYNDROME
+rs2273	NHGRI_GWAS_catalog	pubmed/20834067	5919	Longevity
+rs6182	Uniprot	MIM:262500	3090	LARON SYNDROME
+rs6152	OMIM	MIM:300710	171	ALOPECIA, ANDROGENETIC, 2
+rs5736	OMIM	MIM:600761	616	BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3
+rs5736	dbSNP_ClinVar	\N	616	BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3
+rs9036	NHGRI_GWAS_catalog	pubmed/19734545	5714	Cognitive performance
+rs328	OMIM	MIM:609708	3177	LIPOPROTEIN LIPASE
+rs328	OMIM	MIM:609708	3179	LIPOPROTEIN LIPASE POLYMORPHISM
+rs328	NHGRI_GWAS_catalog	pubmed/18193044	5825	HDL cholesterol
+rs328	NHGRI_GWAS_catalog	pubmed/22171074	6135	Triglycerides
+rs328	NHGRI_GWAS_catalog	pubmed/18193044	6135	Triglycerides
+rs328	NHGRI_GWAS_catalog	pubmed/17463246	6135	Triglycerides
+rs328	Teslovich	\N	6135	Triglycerides
+rs328	dbSNP_ClinVar	\N	3179	LIPOPROTEIN LIPASE POLYMORPHISM
+rs328	Teslovich	\N	25214	High Density Lipoprotein Cholesterol
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/22737229	5848	Hepatitis B (viral clearance)
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs3077	NHGRI_GWAS_catalog	pubmed/21750111	5847	Hepatitis B
+rs6280	OMIM	MIM:126451	4386	SCHIZOPHRENIA, SUSCEPTIBILITY TO
+rs6280	dbSNP_ClinVar	\N	4386	SCHIZOPHRENIA, SUSCEPTIBILITY TO
+rs6280	dbSNP_ClinVar	\N	20892	Essential_tremor,_susceptibility_to
+rs3129	OMIM	MIM:603956	814	CERVICAL CANCER
+rs6445	OMIM	MIM:201910	73	ADRENAL HYPERPLASIA, CONGENITAL, DUE TO 21-HYDROXYLASE DEFICIENCY
+rs6445	Uniprot	MIM:201910	5041	Adrenal hyperplasia type 3
+rs6445	Uniprot	MIM:201910	17458	Adrenal hyperplasia 3
+rs6445	Uniprot	MIM:201910	17458	Adrenal hyperplasia 3
+rs6445	Uniprot	MIM:201910	17458	Adrenal hyperplasia 3
+rs6445	Uniprot	MIM:201910	17458	Adrenal hyperplasia 3
+rs6445	Uniprot	MIM:201910	17458	Adrenal hyperplasia 3
+rs6445	dbSNP_ClinVar	\N	21503	21-hydroxylase_deficiency
+rs4340	OMIM	MIM:106180	276	ANGIOTENSIN I-CONVERTING ENZYME INSERTION/DELETION POLYMORPHISM
+rs6065	NHGRI_GWAS_catalog	pubmed/22139419	6021	Platelet counts
+rs6065	NHGRI_GWAS_catalog	pubmed/20139978	6021	Platelet counts
+rs5370	OMIM	MIM:131240	2747	HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 7
+rs5370	NHGRI_GWAS_catalog	pubmed/23381795	17884	Circulating vasoactive peptide levels 
+rs5370	dbSNP_ClinVar	\N	2747	HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 7
+rs7775	OMIM	MIM:605083	3869	OSTEOARTHRITIS SUSCEPTIBILITY 1
+rs7775	dbSNP_ClinVar	\N	3869	OSTEOARTHRITIS SUSCEPTIBILITY 1
+rs689	NHGRI_GWAS_catalog	pubmed/21829393	6140	Type 1 diabetes autoantibodies
+rs6339	OMIM	MIM:191315	2985	INSENSITIVITY TO PAIN, CONGENITAL, WITH ANHIDROSIS
+rs6339	OMIM	MIM:191315	4724	THYROID CARCINOMA, FAMILIAL MEDULLARY
+rs6339	dbSNP_ClinVar	\N	6849	Familial medullary thyroid carcinoma
+rs6339	dbSNP_ClinVar	\N	20250	Hereditary_insensitivity_to_pain_with_anhidrosis
+rs6339	dbSNP_ClinVar	\N	20250	Hereditary_insensitivity_to_pain_with_anhidrosis
+rs6028	NHGRI_GWAS_catalog	pubmed/22703881	5592	Activated partial thromboplastin time
+rs7667	NHGRI_GWAS_catalog	pubmed/22482804	5733	Crohn's disease and psoriasis
+rs326	OMIM	MIM:609708	2743	HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 11
+rs326	NHGRI_GWAS_catalog	pubmed/18193046	6135	Triglycerides
+rs4746	OMIM	MIM:138750	4233	RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+rs4746	dbSNP_ClinVar	\N	4233	RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+rs4918	OMIM	MIM:138680	174	ALPHA-2-HS-GLYCOPROTEIN
+rs4918	OMIM	MIM:138680	3097	LEANNESS, SUSCEPTIBILITY TO
+rs4918	dbSNP_ClinVar	\N	3097	LEANNESS, SUSCEPTIBILITY TO
+rs7435	NHGRI_GWAS_catalog	pubmed/21829377	6017	Phospholipid levels (plasma)
+rs5186	OMIM	MIM:106165	278	ANGIOTENSIN RECEPTOR 1
+rs5186	OMIM	MIM:106165	2853	HYPERTENSION, ESSENTIAL, SUSCEPTIBILITY TO
+rs5186	OMIM	MIM:609337	3462	MICRO RNA 155
+rs1208	OMIM	MIM:612182	38	ACETYLATION, SLOW
+rs1208	dbSNP_ClinVar	\N	21817	Slow_acetylator_due_to_N-acetyltransferase_enzyme_variant
+rs5738	OMIM	MIM:600761	616	BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3
+rs5738	dbSNP_ClinVar	\N	616	BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3
+rs301	NHGRI_GWAS_catalog	pubmed/21386085	5945	Metabolic syndrome (bivariate traits)
+rs301	Teslovich	\N	6135	Triglycerides
+rs301	Teslovich	\N	25214	High Density Lipoprotein Cholesterol

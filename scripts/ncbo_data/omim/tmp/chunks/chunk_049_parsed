@@ -1,0 +1,102 @@
+604302	{Rheumatoid arthritis, systemic juvenile, susceptibility to}	DOID:7148	RHEUMATOID ARTHRITIS
+604302	{Rheumatoid arthritis, systemic juvenile, susceptibility to}	DOID:848	ARTHRITIS
+604302	{Rheumatoid arthritis, systemic juvenile}	DOID:7148	RHEUMATOID ARTHRITIS
+604302	{Rheumatoid arthritis, systemic juvenile}	DOID:848	ARTHRITIS
+106180	{SARS, progression of}	DOID:2945	SARS
+181000	{Sarcoidosis, susceptibility to, 1}	DOID:11335	SARCOIDOSIS
+612387	{Sarcoidosis, susceptibility to, 2}	DOID:11335	SARCOIDOSIS
+612388	{Sarcoidosis, susceptibility to, 3}	DOID:11335	SARCOIDOSIS
+181500	{Schizoaffective disorder, susceptibility to}	DOID:5418	SCHIZOAFFECTIVE DISORDER
+605419	{Schizophrenia 10}	DOID:5419	SCHIZOPHRENIA
+181500	{Schizophrenia 12}	DOID:5419	SCHIZOPHRENIA
+613950	{Schizophrenia 15}	DOID:5419	SCHIZOPHRENIA
+613025	{Schizophrenia, susceptibility to, 13}	DOID:5419	SCHIZOPHRENIA
+612361	{Schizophrenia, susceptibility to, 14}	DOID:5419	SCHIZOPHRENIA
+614332	{Schizophrenia, susceptibility to, 17}	DOID:5419	SCHIZOPHRENIA
+600850	{Schizophrenia, susceptibility to, 4}	DOID:5419	SCHIZOPHRENIA
+181500	{Schizophrenia, susceptibility to}	DOID:5419	SCHIZOPHRENIA
+604906	{Schizophrenia, susceptibility to}	DOID:5419	SCHIZOPHRENIA
+181500	{Schizophrenia}	DOID:5419	SCHIZOPHRENIA
+608516	{Seasonal affective disorder, susceptibility to}	DOID:0060167	SEASONAL AFFECTIVE DISORDER
+614090	{Sick sinus syndrome 3}	DOID:13884	SICK SINUS SYNDROME
+614090	{Sick sinus syndrome 3}	DOID:225	SYNDROME
+601634	{Spina bifida, folate-sensitive, susceptibility to}	DOID:0080016	SPINA BIFIDA
+182940	{Spina bifida, susceptibility to}	DOID:0080016	SPINA BIFIDA
+253400	{Spinal muscular atrophy, type III, modifier of}	DOID:767	MUSCULAR ATROPHY
+253400	{Spinal muscular atrophy, type III, modifier of}	DOID:12377	SPINAL MUSCULAR ATROPHY
+106300	{Spondyloarthropathy, susceptibility to, 1}	DOID:1123	SPONDYLOARTHROPATHY
+183840	{Spondyloarthropathy, susceptibility to, 2}	DOID:1123	SPONDYLOARTHROPATHY
+613238	{Spondyloarthropathy, susceptibility to, 3}	DOID:1123	SPONDYLOARTHROPATHY
+608579	{Stevens-Johnson syndrome, susceptibility to}	DOID:0050426	STEVENS-JOHNSON SYNDROME
+608579	{Stevens-Johnson syndrome, susceptibility to}	DOID:225	SYNDROME
+185100	{Strabismus, susceptibility to, 1}	DOID:540	STRABISMUS
+272120	{Sudden infant death syndrome, susceptibility to}	DOID:9007	SUDDEN INFANT DEATH SYNDROME
+272120	{Sudden infant death syndrome, susceptibility to}	DOID:225	SYNDROME
+142830	{Synovitis, chronic, susceptibility to}	DOID:2703	SYNOVITIS
+300809	{Systemic lupus erthematosus, susceptibility to, 15}	DOID:8857	LUPUS
+152700	{Systemic lupus erythematosus susceptibility to}	DOID:8857	LUPUS
+152700	{Systemic lupus erythematosus susceptibility to}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+607279	{Systemic lupus erythematosus with hemolytic anemia}	DOID:8857	LUPUS
+607279	{Systemic lupus erythematosus with hemolytic anemia}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+607279	{Systemic lupus erythematosus with hemolytic anemia}	DOID:2355	ANEMIA
+607279	{Systemic lupus erythematosus with hemolytic anemia}	DOID:583	HEMOLYTIC ANEMIA
+607965	{Systemic lupus erythematosus with nephritis, susceptibility to, 1}	DOID:8857	LUPUS
+607965	{Systemic lupus erythematosus with nephritis, susceptibility to, 1}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+607965	{Systemic lupus erythematosus with nephritis, susceptibility to, 1}	DOID:10952	NEPHRITIS
+607966	{Systemic lupus erythematosus with nephritis, susceptibility to, 2}	DOID:8857	LUPUS
+607966	{Systemic lupus erythematosus with nephritis, susceptibility to, 2}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+607966	{Systemic lupus erythematosus with nephritis, susceptibility to, 2}	DOID:10952	NEPHRITIS
+607967	{Systemic lupus erythematosus with nephritis, susceptibility to, 3}	DOID:8857	LUPUS
+607967	{Systemic lupus erythematosus with nephritis, susceptibility to, 3}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+607967	{Systemic lupus erythematosus with nephritis, susceptibility to, 3}	DOID:10952	NEPHRITIS
+152700	{Systemic lupus erythematosus, association with}	DOID:8857	LUPUS
+152700	{Systemic lupus erythematosus, association with}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+601744	{Systemic lupus erythematosus, resistance to}	DOID:8857	LUPUS
+601744	{Systemic lupus erythematosus, resistance to}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+612251	{Systemic lupus erythematosus, susceptibility to, 10}	DOID:8857	LUPUS
+612251	{Systemic lupus erythematosus, susceptibility to, 10}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+612254	{Systemic lupus erythematosus, susceptibility to, 12}	DOID:8857	LUPUS
+612254	{Systemic lupus erythematosus, susceptibility to, 12}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+612378	{Systemic lupus erythematosus, susceptibility to, 13}	DOID:8857	LUPUS
+612378	{Systemic lupus erythematosus, susceptibility to, 13}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+613145	{Systemic lupus erythematosus, susceptibility to, 14}	DOID:8857	LUPUS
+613145	{Systemic lupus erythematosus, susceptibility to, 14}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+601744	{Systemic lupus erythematosus, susceptibility to, 1}	DOID:8857	LUPUS
+601744	{Systemic lupus erythematosus, susceptibility to, 1}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+605218	{Systemic lupus erythematosus, susceptibility to, 2}	DOID:8857	LUPUS
+605218	{Systemic lupus erythematosus, susceptibility to, 2}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+605480	{Systemic lupus erythematosus, susceptibility to, 3}	DOID:8857	LUPUS
+605480	{Systemic lupus erythematosus, susceptibility to, 3}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+608437	{Systemic lupus erythematosus, susceptibility to, 4}	DOID:8857	LUPUS
+608437	{Systemic lupus erythematosus, susceptibility to, 4}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+609903	{Systemic lupus erythematosus, susceptibility to, 5}	DOID:8857	LUPUS
+609903	{Systemic lupus erythematosus, susceptibility to, 5}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+610065	{Systemic lupus erythematosus, susceptibility to, 7}	DOID:8857	LUPUS
+610065	{Systemic lupus erythematosus, susceptibility to, 7}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+610066	{Systemic lupus erythematosus, susceptibility to, 8}	DOID:8857	LUPUS
+610066	{Systemic lupus erythematosus, susceptibility to, 8}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+610927	{Systemic lupus erythematosus, susceptibility to, 9}	DOID:8857	LUPUS
+610927	{Systemic lupus erythematosus, susceptibility to, 9}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+152700	{Systemic lupus erythematosus, susceptibility to}	DOID:8857	LUPUS
+152700	{Systemic lupus erythematosus, susceptibility to}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+612253	{Systemic lupus erythematosus, susceptitbility to, 11}	DOID:8857	LUPUS
+612253	{Systemic lupus erythematosus, susceptitbility to, 11}	DOID:9074	SYSTEMIC LUPUS ERYTHEMATOSUS
+609939	{Systemic lupus erythematous, association with susceptibility to, 6}	DOID:8857	LUPUS
+188055	{Thrombophilia, susceptibility to, due to factor V Leiden}	DOID:2452	THROMBOPHILIA
+607464	{Thyroid carcinoma, Hurthle cell}	DOID:3963	THYROID CARCINOMA
+607464	{Thyroid carcinoma, Hurthle cell}	DOID:305	CARCINOMA
+188470	{Thyroid carcinoma, follicular, somatic}	DOID:3963	THYROID CARCINOMA
+188470	{Thyroid carcinoma, follicular, somatic}	DOID:305	CARCINOMA
+607948	{Tuberculosis, protection against}	DOID:399	TUBERCULOSIS
+607949	{Tuberculosis, susceptibility to}	DOID:399	TUBERCULOSIS
+607948	{Tuberculosis, susceptibility to}	DOID:399	TUBERCULOSIS
+608516	{Unipolar depression, susceptibility to}	DOID:1595	UNIPOLAR DEPRESSION
+608307	{Venoocclusive disease after bone marrow transplantation}	DOID:4	DISEASE
+606579	{Vitiligo-associated multiple autoimmune disease susceptibility 1}	DOID:4	DISEASE
+606579	{Vitiligo-associated multiple autoimmune disease susceptibility 1}	DOID:417	AUTOIMMUNE DISEASE
+606579	{Vitiligo-associated multiple autoimmune disease susceptibility 1}	DOID:12306	VITILIGO
+193200	{Vitiligo-associated multiple autoimmune disease susceptiblity 6}	DOID:4	DISEASE
+193200	{Vitiligo-associated multiple autoimmune disease susceptiblity 6}	DOID:417	AUTOIMMUNE DISEASE
+193200	{Vitiligo-associated multiple autoimmune disease susceptiblity 6}	DOID:12306	VITILIGO
+193300	{von Hippel-Lindau disease, modifier of}	DOID:4	DISEASE
+193300	{von Hippel-Lindau disease, modifier of}	DOID:14175	VON HIPPEL-LINDAU DISEASE

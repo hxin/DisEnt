@@ -1,0 +1,97 @@
+600231	Palmoplantar keratoderma, Bothnia type	DOID:3390	PALMOPLANTAR KERATODERMA
+600231	Palmoplantar keratoderma, Bothnian type	DOID:3390	PALMOPLANTAR KERATODERMA
+615598	Palmoplantar keratoderma, Nagashima type	DOID:3390	PALMOPLANTAR KERATODERMA
+144200	Palmoplantar keratoderma, epidermolytic	DOID:3390	PALMOPLANTAR KERATODERMA
+600962	Palmoplantar keratoderma, nonepidermolytic	DOID:3390	PALMOPLANTAR KERATODERMA
+613000	Palmoplantar keratoderma, nonepidermolytic, focal	DOID:3390	PALMOPLANTAR KERATODERMA
+600001	Pancreatic agenesis and congenital heart defects	DOID:1682	CONGENITAL HEART DEFECTS
+260350	Pancreatic cancer	DOID:162	CANCER
+260350	Pancreatic cancer	DOID:1793	PANCREATIC CANCER
+613347	Pancreatic cancer	DOID:162	CANCER
+613347	Pancreatic cancer	DOID:1793	PANCREATIC CANCER
+260350	Pancreatic cancer, somatic	DOID:162	CANCER
+260350	Pancreatic cancer, somatic	DOID:1793	PANCREATIC CANCER
+606719	Pancreatic cancer/melanoma syndrome	DOID:162	CANCER
+606719	Pancreatic cancer/melanoma syndrome	DOID:1909	MELANOMA
+606719	Pancreatic cancer/melanoma syndrome	DOID:1793	PANCREATIC CANCER
+606719	Pancreatic cancer/melanoma syndrome	DOID:225	SYNDROME
+260350	Pancreatic carcinoma, somatic	DOID:305	CARCINOMA
+260350	Pancreatic carcinoma, somatic	DOID:4905	PANCREATIC CARCINOMA
+167800	Pancreatitis, hereditary	DOID:4989	PANCREATITIS
+312000	Panhypopituitarism, X-linked	DOID:9410	PANHYPOPITUITARISM
+607853	Panic disorder 2	DOID:594	PANIC DISORDER
+609985	Panic disorder 3	DOID:594	PANIC DISORDER
+167870	Panic disorder syndrome 1	DOID:594	PANIC DISORDER
+167870	Panic disorder syndrome 1	DOID:225	SYNDROME
+245000	Papillon-Lefevre syndrome	DOID:225	SYNDROME
+120330	Papillorenal syndrome	DOID:225	SYNDROME
+606864	Paraganglioma and gastric stromal sarcoma	DOID:4228	STROMAL SARCOMA
+606864	Paraganglioma and gastric stromal sarcoma	DOID:1115	SARCOMA
+606864	Paraganglioma and gastric stromal sarcoma	DOID:0050773	PARAGANGLIOMA
+145001	Parathyroid adenoma with cystic changes	DOID:657	ADENOMA
+145001	Parathyroid adenoma with cystic changes	DOID:7608	PARATHYROID ADENOMA
+608266	Parathyroid carcinoma	DOID:305	CARCINOMA
+608266	Parathyroid carcinoma	DOID:1540	PARATHYROID CARCINOMA
+168550	Parietal foramina with cleidocranial dysplasia	DOID:13994	CLEIDOCRANIAL DYSPLASIA
+608355	Parkes Weber syndrome	DOID:225	SYNDROME
+168601	Parkinson disease 1	DOID:4	DISEASE
+606852	Parkinson disease 10	DOID:4	DISEASE
+607688	Parkinson disease 11	DOID:4	DISEASE
+300557	Parkinson disease 12	DOID:4	DISEASE
+610297	Parkinson disease 13	DOID:4	DISEASE
+612953	Parkinson disease 14	DOID:4	DISEASE
+260300	Parkinson disease 15, autosomal recessive	DOID:4	DISEASE
+614203	Parkinson disease 17	DOID:4	DISEASE
+614251	Parkinson disease 18	DOID:4	DISEASE
+615528	Parkinson disease 19, juvenile-onset	DOID:4	DISEASE
+615530	Parkinson disease 20, early-onset	DOID:4	DISEASE
+602404	Parkinson disease 3	DOID:4	DISEASE
+605543	Parkinson disease 4	DOID:4	DISEASE
+605909	Parkinson disease 6, early onset	DOID:4	DISEASE
+606324	Parkinson disease 7, autosomal recessive early-onset	DOID:4	DISEASE
+607060	Parkinson disease 8	DOID:4	DISEASE
+600116	Parkinson disease, juvenile, type 2	DOID:4	DISEASE
+613135	Parkinsonism-dystonia, infantile	DOID:543	DYSTONIA
+167400	Paroxysmal extreme pain disorder	DOID:0060164	PAIN DISORDER
+300818	Paroxysmal nocturnal hemoglobinuria, somatic	DOID:582	HEMOGLOBINURIA
+611147	Paroxysmal nonkinesigenic dyskinesia 2	DOID:306	DYSKINESIA
+118800	Paroxysmal nonkinesigenic dyskinesia	DOID:306	DYSKINESIA
+309510	Partington syndrome	DOID:14744	PARTINGTON SYNDROME
+309510	Partington syndrome	DOID:225	SYNDROME
+270300	Peeling skin syndrome	DOID:225	SYNDROME
+609796	Peeling skin syndrome, acral type	DOID:225	SYNDROME
+169400	Pelger-Huet anomaly	DOID:9631	PELGER-HUET ANOMALY
+312080	Pelizaeus-Merzbacher disease	DOID:3210	PELIZAEUS-MERZBACHER DISEASE
+312080	Pelizaeus-Merzbacher disease	DOID:4	DISEASE
+274600	Pendred syndrome	DOID:225	SYNDROME
+170650	Periodontitis 1, juvenile	DOID:824	PERIODONTITIS
+608526	Periodontitis, aggressive, 2	DOID:824	PERIODONTITIS
+606787	Peripheral arterial occlusive disease 1	DOID:2868	ARTERIAL OCCLUSIVE DISEASE
+606787	Peripheral arterial occlusive disease 1	DOID:4	DISEASE
+614369	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DOID:423	MYOPATHY
+614369	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DOID:0060053	PERIPHERAL NEUROPATHY
+614369	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DOID:870	NEUROPATHY
+608097	Periventricular heterotopia with microcephaly	DOID:10907	MICROCEPHALY
+608098	Periventricular nodular heterotopia 3	DOID:0050454	PERIVENTRICULAR NODULAR HETEROTOPIA
+612881	Periventricular nodular heterotopia 5	DOID:0050454	PERIVENTRICULAR NODULAR HETEROTOPIA
+267000	Perlman syndrome	DOID:225	SYNDROME
+233400	Perrault syndrome 1	DOID:225	SYNDROME
+614926	Perrault syndrome 2	DOID:225	SYNDROME
+614129	Perrault syndrome 3	DOID:225	SYNDROME
+615300	Perrault syndrome 4	DOID:225	SYNDROME
+168605	Perry syndrome	DOID:225	SYNDROME
+261550	Persistent Mullerian duct syndrome, type I	DOID:225	SYNDROME
+261550	Persistent Mullerian duct syndrome, type II	DOID:225	SYNDROME
+261540	Peters-plus syndrome	DOID:225	SYNDROME
+304340	Pettigrew syndrome	DOID:225	SYNDROME
+175200	Peutz-Jeghers syndrome	DOID:225	SYNDROME
+175200	Peutz-Jeghers syndrome	DOID:3852	PEUTZ-JEGHERS SYNDROME
+101600	Pfeiffer syndrome	DOID:14705	PFEIFFER SYNDROME
+101600	Pfeiffer syndrome	DOID:225	SYNDROME
+606232	Phelan-McDermid syndrome	DOID:225	SYNDROME
+261600	Phenylketonuria	DOID:9281	PHENYLKETONURIA
+601815	Phosphoglycerate dehydrogenase deficiency	DOID:0050722	PHOSPHOGLYCERATE DEHYDROGENASE DEFICIENCY
+610992	Phosphoserine aminotransferase deficiency	DOID:0050723	PHOSPHOSERINE AMINOTRANSFERASE DEFICIENCY
+614023	Phosphoserine phosphatase deficiency	DOID:0050724	PHOSPHOSERINE PHOSPHATASE DEFICIENCY
+172700	Pick disease	DOID:4	DISEASE
+172800	Piebaldism	DOID:3263	PIEBALDISM

@@ -1,0 +1,39 @@
+Processing 00000000.tx.1: 5724|Coronary heart disease
+Meta Mapping (909):
+    909  DOID3393:coronary heart disease
+Processing 00000000.tx.1: 6595|Renal function-related traits (sCR)
+Meta Mapping (480):
+    480  DOID10952:nephritis
+Processing 00000000.tx.1: 10717|Mean corpuscular hemoglobin concentration
+Processing 00000000.tx.1: 156|ALCOHOL DEPENDENCE
+Meta Mapping (882):
+    882  DOID0050741:alcohol dependence
+Processing 00000000.tx.1: 23291|Susceptibility_to_hangover
+Processing 00000000.tx.1: 23292|Sublingual_nitroglycerin,_susceptibility_to_poor_response_to
+Processing 00000000.tx.1: 23293|ESOPHAGEAL_CANCER,_ALCOHOL-RELATED,_SUSCEPTIBILITY_TO
+Meta Mapping (778):
+    778  DOID5041:esophageal cancer
+Processing 00000000.tx.1: 3816|OBESITY
+Meta Mapping (833):
+    833  DOID9970:obesity
+Processing 00000000.tx.1: 2808|HYPERCHOLESTEROLEMIA, FAMILIAL, MODIFICATION OF
+Meta Mapping (806):
+    797  DOID13810:familial hypercholesterolemia
+Processing 00000000.tx.1: 5246|Familial hypercholesterolemia
+Meta Mapping (882):
+    882  DOID13810:familial hypercholesterolemia
+Processing 00000000.tx.1: 5659|Birth weight
+Processing 00000000.tx.1: 3598|MUSICAL PERFECT PITCH
+Processing 00000000.tx.1: 4380|SCHIZOPHRENIA
+Meta Mapping (833):
+    833  DOID5419:schizophrenia
+Processing 00000000.tx.1: 1604|FIBRINOGEN MILANO XII, DIGENIC
+Processing 00000000.tx.1: 174|ALPHA-2-HS-GLYCOPROTEIN
+Processing 00000000.tx.1: 3097|LEANNESS, SUSCEPTIBILITY TO
+Processing 00000000.tx.1: 5947|Metabolite levels
+Processing 00000000.tx.1: 2753|HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 2
+Meta Mapping (790):
+    790  DOID10487:Hirschsprung's disease
+Processing 00000000.tx.1: 5314|Hirschsprung disease type 2
+Meta Mapping (806):
+    806  DOID10487:Hirschsprung's disease

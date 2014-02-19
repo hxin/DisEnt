@@ -1,0 +1,32 @@
+Processing 00000000.tx.1: 5701|Cholesterol, total
+Processing 00000000.tx.1: 4077|PLASMINOGEN ACTIVATOR INHIBITOR-1 DEFICIENCY
+Processing 00000000.tx.1: 21725|Plasminogen_activator_inhibitor_type_1_deficiency
+Processing 00000000.tx.1: 5946|Metabolic traits
+Processing 00000000.tx.1: 25231|Fat distribution (HIV)
+Processing 00000000.tx.1: 17881|Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+Meta Mapping (749):
+    757  DOID0060041:autism spectrum disorder
+    604  DOID1094:attention deficit hyperactivity disorder
+    578  DOID3312:bipolar disorder
+    590  DOID1470:major depressive disorder
+    566  DOID5419:schizophrenia
+Processing 00000000.tx.1: 5589|AIDS progression
+Meta Mapping (623):
+    623  DOID635:AIDS (acquired immunodeficiency syndrome)
+Processing 00000000.tx.1: 18093|Lupus Erythematosus, Systemic
+Meta Mapping (881):
+    881  DOID9074:systemic lupus erythematosus
+Processing 00000000.tx.1: 6146|Uric acid levels
+Processing 00000000.tx.1: 5162|Corticosterone methyloxidase type 2 deficiency
+Processing 00000000.tx.1: 17558|Corticosterone methyloxidase 2 deficiency
+Processing 00000000.tx.1: 3918|OVARIAN RESPONSE TO FSH STIMULATION
+Processing 00000000.tx.1: 3917|OVARIAN HYPERSTIMULATION SYNDROME
+Meta Mapping (909):
+    909  DOID5425:ovarian hyperstimulation syndrome
+Processing 00000000.tx.1: 5802|Fibrinogen
+Processing 00000000.tx.1: 5990|Obesity-related traits
+Meta Mapping (604):
+    604  DOID9970:obesity
+Processing 00000000.tx.1: 3826|OBESITY, SUSCEPTIBILITY TO
+Meta Mapping (770):
+    770  DOID9970:obesity

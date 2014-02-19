@@ -1,0 +1,119 @@
+612381	{Inflammatory bowel disease 23}	DOID:4	DISEASE
+612381	{Inflammatory bowel disease 23}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+612566	{Inflammatory bowel disease 24}	DOID:4	DISEASE
+612566	{Inflammatory bowel disease 24}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+612639	{Inflammatory bowel disease 26}	DOID:4	DISEASE
+612639	{Inflammatory bowel disease 26}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+612796	{Inflammatory bowel disease 27}	DOID:4	DISEASE
+612796	{Inflammatory bowel disease 27}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+601458	{Inflammatory bowel disease 2}	DOID:4	DISEASE
+601458	{Inflammatory bowel disease 2}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+604519	{Inflammatory bowel disease 3}	DOID:4	DISEASE
+604519	{Inflammatory bowel disease 3}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+606675	{Inflammatory bowel disease 4}	DOID:4	DISEASE
+606675	{Inflammatory bowel disease 4}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+606348	{Inflammatory bowel disease 5}	DOID:4	DISEASE
+606348	{Inflammatory bowel disease 5}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+606674	{Inflammatory bowel disease 6}	DOID:4	DISEASE
+606674	{Inflammatory bowel disease 6}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+605225	{Inflammatory bowel disease 7}	DOID:4	DISEASE
+605225	{Inflammatory bowel disease 7}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+606668	{Inflammatory bowel disease 8}	DOID:4	DISEASE
+606668	{Inflammatory bowel disease 8}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+608448	{Inflammatory bowel disease 9}	DOID:4	DISEASE
+608448	{Inflammatory bowel disease 9}	DOID:0050589	INFLAMMATORY BOWEL DISEASE
+614680	{Influenza, severe, susceptibility to}	DOID:8469	INFLUENZA
+603932	{Intervertebral disc disease, susceptibility to}	DOID:4	DISEASE
+608207	{Kala-azar, susceptibility to, 1}	DOID:9146	KALA-AZAR
+611381	{Kala-azar, susceptibility to, 2}	DOID:9146	KALA-AZAR
+611382	{Kala-azar, susceptibility to, 3}	DOID:9146	KALA-AZAR
+148000	{Kaposi sarcoma, susceptibility to}	DOID:1115	SARCOMA
+611775	{Kawasaki disease, susceptibility to}	DOID:4	DISEASE
+611775	{Kawasaki disease, susceptibility to}	DOID:13378	KAWASAKI DISEASE
+245300	{Kuru, susceptibility to}	DOID:648	KURU
+308905	{Leber optic atrophy, susceptibility to}	DOID:5723	OPTIC ATROPHY
+608556	{Legionaire disease, susceptibility to}	DOID:4	DISEASE
+609888	{Leprosy, paucibacillary type, susceptibility to}	DOID:1024	LEPROSY
+613223	{Leprosy, protection against}	DOID:1024	LEPROSY
+610988	{Leprosy, susceptibility to, 4}	DOID:1024	LEPROSY
+613223	{Leprosy, susceptibility to, 5}	DOID:1024	LEPROSY
+246300	{Leprosy, susceptibility to}	DOID:1024	LEPROSY
+607572	{Leprosy, susceptibility to}	DOID:1024	LEPROSY
+613407	{Leprosy, susceptiblity to, 6}	DOID:1024	LEPROSY
+613067	{Leukemia, acute lymphoblastic, susceptibility to, 2}	DOID:1240	LEUKEMIA
+142981	{Leukemia, acute lymphoblastic, susceptibility to}	DOID:1240	LEUKEMIA
+613065	{Leukemia, acute lymphocytic, susceptibility to, 1}	DOID:1240	LEUKEMIA
+601626	{Leukemia, acute myeloid, susceptibility to}	DOID:1240	LEUKEMIA
+601626	{Leukemia, acute myeloid}	DOID:1240	LEUKEMIA
+612558	{Leukemia, chronic lymphocytic susceptibility to, 4}	DOID:1240	LEUKEMIA
+612559	{Leukemia, chronic lymphocytic susceptibility to, 5}	DOID:1240	LEUKEMIA
+609630	{Leukemia, chronic lymphocytic, susceptibility to, 1}	DOID:1240	LEUKEMIA
+109543	{Leukemia, chronic lymphocytic, susceptibility to, 2}	DOID:1240	LEUKEMIA
+612557	{Leukemia, chronic lymphocytic, susceptibility to, 3}	DOID:1240	LEUKEMIA
+125860	{Leukemia, post-chemotherapy, susceptibility to}	DOID:1240	LEUKEMIA
+127750	{Lewy body dementia, susceptibility to}	DOID:12217	LEWY BODY DEMENTIA
+127750	{Lewy body dementia, susceptibility to}	DOID:1307	DEMENTIA
+608709	{Lipodystrophy, partial, acquired, susceptibility to}	DOID:811	LIPODYSTROPHY
+192500	{Long QT syndrome 1, acquired, susceptibility to}	DOID:225	SYNDROME
+192500	{Long QT syndrome 1, acquired, susceptibility to}	DOID:2843	LONG QT SYNDROME
+613688	{Long QT syndrome 2, acquired, susceptibility to}	DOID:225	SYNDROME
+613688	{Long QT syndrome 2, acquired, susceptibility to}	DOID:2843	LONG QT SYNDROME
+613688	{Long QT syndrome, acquired, reduced susceptibility to}	DOID:225	SYNDROME
+613688	{Long QT syndrome, acquired, reduced susceptibility to}	DOID:2843	LONG QT SYNDROME
+603932	{Lumbar disc disease, susceptibility to}	DOID:4	DISEASE
+612052	{Lung cancer susceptibility 2}	DOID:162	CANCER
+612052	{Lung cancer susceptibility 2}	DOID:1324	LUNG CANCER
+612571	{Lung cancer susceptibility 3}	DOID:162	CANCER
+612571	{Lung cancer susceptibility 3}	DOID:1324	LUNG CANCER
+612593	{Lung cancer susceptibility 4}	DOID:162	CANCER
+612593	{Lung cancer susceptibility 4}	DOID:1324	LUNG CANCER
+614210	{Lung cancer susceptibility 5}	DOID:162	CANCER
+614210	{Lung cancer susceptibility 5}	DOID:1324	LUNG CANCER
+608935	{Lung cancer susceptibility}	DOID:162	CANCER
+608935	{Lung cancer susceptibility}	DOID:1324	LUNG CANCER
+211980	{Lung cancer, protection against}	DOID:162	CANCER
+211980	{Lung cancer, protection against}	DOID:1324	LUNG CANCER
+211980	{Lung cancer, resistance to}	DOID:162	CANCER
+211980	{Lung cancer, resistance to}	DOID:1324	LUNG CANCER
+211980	{Lung cancer, susceptibility to}	DOID:162	CANCER
+211980	{Lung cancer, susceptibility to}	DOID:1324	LUNG CANCER
+613024	{Lymphoma, follicular, somatic}	DOID:0060058	LYMPHOMA
+153600	{Macroglobulinemia, Waldenstrom, susceptibility to, 1}	DOID:9080	MACROGLOBULINEMIA
+610430	{Macroglobulinemia, Waldenstrom, susceptibility to, 2}	DOID:9080	MACROGLOBULINEMIA
+611488	{Macular degeneration, age-related, 10}	DOID:4448	MACULAR DEGENERATION
+613784	{Macular degeneration, age-related, 12}	DOID:4448	MACULAR DEGENERATION
+615439	{Macular degeneration, age-related, 13, susceptibility to}	DOID:4448	MACULAR DEGENERATION
+615489	{Macular degeneration, age-related, 14, reduced risk of}	DOID:4448	MACULAR DEGENERATION
+603075	{Macular degeneration, age-related, 1}	DOID:4448	MACULAR DEGENERATION
+610698	{Macular degeneration, age-related, 4}	DOID:4448	MACULAR DEGENERATION
+610149	{Macular degeneration, age-related, 7}	DOID:4448	MACULAR DEGENERATION
+613778	{Macular degeneration, age-related, 8}	DOID:4448	MACULAR DEGENERATION
+611378	{Macular degeneration, age-related, 9}	DOID:4448	MACULAR DEGENERATION
+610149	{Macular degeneration, age-related, neovascular type}	DOID:4448	MACULAR DEGENERATION
+603075	{Macular degeneration, age-related, reduced risk of}	DOID:4448	MACULAR DEGENERATION
+613761	{Macular degeneration, age-related, susceptibility to 5}	DOID:4448	MACULAR DEGENERATION
+608516	{Major depressive disorder and accelerated response to antidepressant drug treatment}	DOID:1470	MAJOR DEPRESSIVE DISORDER
+608516	{Major depressive disorder, response to citalopram therapy in}	DOID:1470	MAJOR DEPRESSIVE DISORDER
+611162	{Malaria, cerebral, reduced risk of}	DOID:12365	MALARIA
+611162	{Malaria, cerebral, susceptibility to}	DOID:12365	MALARIA
+248310	{Malaria, intensity of infection}	DOID:12365	MALARIA
+609148	{Malaria, mild, susceptibility to}	DOID:12365	MALARIA
+611162	{Malaria, protection against}	DOID:12365	MALARIA
+611162	{Malaria, resistance to}	DOID:12365	MALARIA
+611162	{Malaria, severe, resistance to}	DOID:12365	MALARIA
+611162	{Malaria, severe, susceptibility to}	DOID:12365	MALARIA
+611162	{Malaria, susceptibility to}	DOID:12365	MALARIA
+611162	{Malaria, vivax, protection against}	DOID:12365	MALARIA
+145600	{Malignant hyperthermia susceptibility 1}	DOID:8545	MALIGNANT HYPERTHERMIA
+154275	{Malignant hyperthermia susceptibility 2}	DOID:8545	MALIGNANT HYPERTHERMIA
+154276	{Malignant hyperthermia susceptibility 3}	DOID:8545	MALIGNANT HYPERTHERMIA
+600467	{Malignant hyperthermia susceptibility 4}	DOID:8545	MALIGNANT HYPERTHERMIA
+601887	{Malignant hyperthermia susceptibility 5}	DOID:8545	MALIGNANT HYPERTHERMIA
+601888	{Malignant hyperthermia susceptibility 6}	DOID:8545	MALIGNANT HYPERTHERMIA
+156240	{Malignant mesothelioma, susceptibility to}	DOID:2645	MESOTHELIOMA
+156240	{Malignant mesothelioma, susceptibility to}	DOID:1790	MALIGNANT MESOTHELIOMA
+603855	{Meconium ileus in cystic fibrosis, susceptibility to}	DOID:1485	CYSTIC FIBROSIS
+603855	{Meconium ileus in cystic fibrosis, susceptibility to}	DOID:8440	ILEUS
+155255	{Medulloblastoma}	DOID:3858	MEDULLOBLASTOMA
+155600	{Melanoma, cutaneous malignant, 1}	DOID:1909	MELANOMA
+155601	{Melanoma, cutaneous malignant, 2}	DOID:1909	MELANOMA
