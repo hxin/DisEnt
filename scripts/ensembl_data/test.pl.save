@@ -20,8 +20,7 @@ my($debug)=@ARGV;
 #print getCurrentTime()."\n";
 my $registry=connectEBI();
 # Get a VariationSetAdaptor on the human variation database
-my $vs_adaptor = $registry->get_adaptor( 'human', 'variation', 'variationset' );
-# Get the variation set for the phenotype-associated variants.
+ Get the variation set for the phenotype-associated variants.
 my $vs = $vs_adaptor->fetch_by_short_name('ph_variants');
 # Get pf adapter
 my $pf_adaptor = $registry->get_adaptor('homo_sapiens', 'variation', 'phenotypefeature');
@@ -34,8 +33,7 @@ if($debug == 'y'){
 my $fetched = 0;
 
 
-#my $it      = $vs->get_Variation_Iterator()->grep(sub {$_->name =~ /^rs.+/});
-my $it = $vs->get_Variation_Iterator();
+my $it      = $vs->get_Variation_Iterator()->grep(sub {$_->name =~ /^rs.+/});
 # Get the first 10 examples and print some data from them
 while ( $fetched++ < $limit && $it->has_next() ) {	
 	my $var = $it->next();
