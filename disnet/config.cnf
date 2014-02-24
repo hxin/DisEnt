@@ -1,0 +1,10 @@
+version=1.0.0
+
+DB=disent2
+HOST=localhost
+USER=root
+PSW=12091209
+
+log=/home/xin/Workspace/DisEnt/disnet/log
+
+test=y

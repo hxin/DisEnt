@@ -28,7 +28,7 @@ my $pf_adaptor = $registry->get_adaptor('homo_sapiens', 'variation', 'phenotypef
 
 
 my $limit   = 9999999999999999;
-if($debug == 'y'){
+if($debug eq 'y'){
 	$limit = 100
 }
 my $fetched = 0;
