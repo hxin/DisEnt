@@ -68,7 +68,20 @@ if [ $USECACHE = 'n' ]; then
 	#######fetch variation
 	if [ $ENSEMBL_VARIATION = 'y' ];then
 		echo "[$(date +"%T %D")] Fetching Variation and Phenotypes..."
-		perl $BASEDIR/fetch_variation_pehnotype.pl $DEBUG> $BASEDIR/tmp/ENSEMBL_variation2phenotype
+#######################################
+		( [ -d $CHUNK ] && rm -f $CHUNK/* ) || mkdir $CHUNK;
+		for i in `perl  $BASEDIR/fetch_variationsets.pl`
+		do
+			perl $BASEDIR/fetch_variation.pl $i $DEBUG >$CHUNK/$i & 
+		done
+		echo "[$(date +"%T %D")] Waiting..."
+		wait
+		echo "[$(date +"%T %D")] Joining result..."
+		for line in $(find $CHUNK -type f); do 
+			cat $line >> $BASEDIR/tmp/ENSEMBL_variation2phenotype
+		done
+#######################################
+		#perl $BASEDIR/fetch_variation_pehnotype.pl $DEBUG> $BASEDIR/tmp/ENSEMBL_variation2phenotype
 		echo "[$(date +"%T %D")] Parsing..."
 		grep ^rs $BASEDIR/tmp/ENSEMBL_variation2phenotype|cut -f 1,2,3,4 > $BASEDIR/tmp/ENSEMBL_variation
 		grep ^rs $BASEDIR/tmp/ENSEMBL_variation2phenotype|cut -f 1,5,6,7,8 > $BASEDIR/tmp/ENSEMBL_v2p

@@ -1,0 +1,35 @@
+The stable_id database is used by the Registry method get_species_and_object_type().
+EnsEMBL REST API heavily relies on this method.
+
+The database can be created on one of the staging servers once all the release databases, which contain
+stable_ids to be copied into the stable_id database, are ready.
+
+Currently the following stable ids are copied:
+
+core	  Exon
+	  Gene
+	  Transcript
+	  Translation
+	  Operon
+	  OperonTranscript
+
+compara	  GeneTree
+	  Family
+
+For Gene, Transcript and Translation, an archive_id_lookup is also created, containing all previously used ids
+
+
+
+Command to create the stable_id database on ens-staging1 and copy stable ids from databases on ens-staging1 and 2:
+
+RELEASE=70
+DIR=ensembl/misc-scripts/stable_id_lookup
+USR=''
+PASS=''
+
+cd $DIR
+bsub -q normal -M 700000 -R'select[mem>700] rusage[mem=700]' -o ./stable_ids_${RELEASE}.out -e ./stable_ids_${RELEASE}.err perl populate_stable_id_lookup.pl \
+-lhost ens-staging1 -luser $USR -lpass $PASS -create -host ens-staging1 -host ens-staging2 -user ensro
+
+
+For release 74, the job consumed 584Mb of memory and took 1hr 53 minutes to run

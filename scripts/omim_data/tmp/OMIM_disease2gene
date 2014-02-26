@@ -5443,7 +5443,6 @@ Encephalopathy, neonatal severe	300673	MRXSL	300005	Xq28
 Encephalopathy, neonatal severe	300673	MRXS13	300005	Xq28
 Encephalopathy, neonatal severe	300673	MRX79	300005	Xq28
 Encephalopathy, neonatal severe	300673	MRX16	300005	Xq28
-Encephalopathy, progressive mitochondrial, with proximal renal tubulopathy due to cytochrome c oxidase deficiency		COX10	602125	17p12
 Endocrine-cerebroosteodysplasia	612651	ICK	612325	6p12.2-p12.1
 Endocrine-cerebroosteodysplasia	612651	MRK	612325	6p12.2-p12.1
 Endocrine-cerebroosteodysplasia	612651	KIAA0936	612325	6p12.2-p12.1
@@ -8350,6 +8349,7 @@ Legius syndrome	611431	SPRED1	609291	15q14
 Legius syndrome	611431	NFLS	609291	15q14
 Leigh syndrome due to cytochrome c oxidase deficiency	256000	COX15	603646	10q24.2
 Leigh syndrome due to cytochrome c oxidase deficiency	256000	CEMCOX2	603646	10q24.2
+Leigh syndrome due to mitochondrial COX4 deficiency	256000	COX10	602125	17p12
 Leigh syndrome due to mitochondrial complex 1 deficiency	256000	NDUFA12	614530	12q22
 Leigh syndrome due to mitochondrial complex I deficiency	256000	FOXRED1	613622	11q24.2
 Leigh syndrome due to mitochondrial complex I deficiency	256000	NDUFA2	602137	5q31.3
@@ -10117,6 +10117,7 @@ Mitochondrial complex III deficiency, nuclear type 6	615453	MC3DN6	123980	8q24.3
 Mitochondrial complex IV deficiency	220110	COA5	613920	2q11.2
 Mitochondrial complex IV deficiency	220110	C2orf64	613920	2q11.2
 Mitochondrial complex IV deficiency	220110	PET191	613920	2q11.2
+Mitochondrial complex IV deficiency	220110	COX10	602125	17p12
 Mitochondrial complex IV deficiency	220110	COX14	614478	12q13.12
 Mitochondrial complex IV deficiency	220110	C12orf62	614478	12q13.12
 Mitochondrial complex IV deficiency	220110	COX20	614698	1q44

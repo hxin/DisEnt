@@ -1,0 +1,14 @@
+/ChecksumBasic.pm/1.3/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateBasic.pm/1.47/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateBest1.pm/1.3/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest1.pm/1.7/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest1_55_perc_id.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest5.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest5_55_perc_id.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest_100_perc_id.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateGappedBest_90_perc_id.pm/1.4/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/ExonerateUngappedBest1.pm/1.4/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/LocalExonerateGappedBest1.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/MySQLUniParc.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+/PBSExonerateGappedBest1.pm/1.2/Mon Nov 25 16:49:39 2013//Tbranch-ensembl-74
+D

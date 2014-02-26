@@ -1,0 +1,27 @@
+/alt_id.txt/1.1/Mon Apr 15 10:25:54 2013//Tbranch-ensembl-74
+/aux_GO_Cross_product_review_map.txt/1.1/Mon Feb 18 10:51:26 2013//Tbranch-ensembl-74
+/aux_GO_goslim_aspergillus_map.txt/1.1/Mon Feb 18 10:51:26 2013//Tbranch-ensembl-74
+/aux_GO_goslim_candida_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_generic_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_metagenomics_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_pir_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_plant_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_pombe_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_goslim_yeast_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_gosubset_prok_map.txt/1.1/Mon Feb 18 10:51:27 2013//Tbranch-ensembl-74
+/aux_GO_high_level_annotation_qc_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/aux_GO_mf_needs_review_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/aux_GO_virus_checked_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/aux_SO_DBVAR_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/aux_SO_SOFA_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/aux_SO_biosapiens_map.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/closure.txt/1.2/Mon Apr 15 10:25:54 2013//Tbranch-ensembl-74
+/meta.txt/1.4/Tue Sep  3 15:43:33 2013//Tbranch-ensembl-74
+/ontology.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/relation.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/relation_type.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/subset.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/synonym.txt/1.1/Mon Feb 18 10:51:28 2013//Tbranch-ensembl-74
+/table.sql/1.3/Tue Sep  3 15:43:33 2013//Tbranch-ensembl-74
+/term.txt/1.4/Thu Sep 12 14:54:20 2013//Tbranch-ensembl-74
+D

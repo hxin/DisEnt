@@ -1830,7 +1830,6 @@ Emphysema-cirrhosis, due to AAT deficiency, 613490 (3)|SERPINA1, PI, AAT|107400|
 Encephalopahty, lethal, due to defective mitochondrial peroxisomal fission, 614388 (3)|DNM1L, DRP1, DVLP, DYMPLE, EMPF|603850|12p11.21
 Encephalopathy, familial, with neuroserpin inclusion bodies, 604218 (3)|SERPINI1, PI12|602445|3q26.1
 Encephalopathy, neonatal severe, 300673 (3)|MECP2, RTT, PPMX, MRX16, MRX79, AUTSX3, MRXSL, MRXS13, MRX79, MRX16|300005|Xq28
-Encephalopathy, progressive mitochondrial, with proximal renal tubulopathy due to cytochrome c oxidase deficiency (3)|COX10|602125|17p12
 Endocrine-cerebroosteodysplasia, 612651 (3)|ICK, MRK, KIAA0936, ECO|612325|6p12.2-p12.1
 Endometrial cancer, 608089 (3)|MLH3, HNPCC7|604395|14q24.3
 Endometrial cancer, familial, 608089 (3)|MSH6, GTBP, HNPCC5|600678|2p16.3
@@ -2843,6 +2842,7 @@ Left-right axis malformations (3)|EBAF, TGFB4, LEFTY2, LEFTA, LEFTYA|601877|1q42
 Legg-Calve-Perthes disease, 150600 (3)|COL2A1|120140|12q13.11
 Legius syndrome, 611431 (3)|SPRED1, NFLS|609291|15q14
 Leigh syndrome due to cytochrome c oxidase deficiency, 256000 (3)|COX15, CEMCOX2|603646|10q24.2
+Leigh syndrome due to mitochondrial COX4 deficiency, 256000 (3)|COX10|602125|17p12
 Leigh syndrome due to mitochondrial complex 1 deficiency, 256000 (3)|NDUFA12|614530|12q22
 Leigh syndrome due to mitochondrial complex I deficiency, 256000 (3)|FOXRED1|613622|11q24.2
 Leigh syndrome due to mitochondrial complex I deficiency, 256000 (3)|NDUFA2|602137|5q31.3
@@ -3450,6 +3450,7 @@ Mitochondrial complex III deficiency, nuclear type 4, 615159 (3)|UQCRQ, QPC, MC3
 Mitochondrial complex III deficiency, nuclear type 5, 615160 (3)|UQCRC2, MC3DN5|191329|16p12.2
 Mitochondrial complex III deficiency, nuclear type 6, 615453 (3)|CYC1, MC3DN6|123980|8q24.3
 Mitochondrial complex IV deficiency, 220110 (3)|COA5, C2orf64, PET191|613920|2q11.2
+Mitochondrial complex IV deficiency, 220110 (3)|COX10|602125|17p12
 Mitochondrial complex IV deficiency, 220110 (3)|COX14, C12orf62|614478|12q13.12
 Mitochondrial complex IV deficiency, 220110 (3)|COX20, FAM36A|614698|1q44
 Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1, 604273 (3)|ATPAF2, ATP12, MC5DN1|608918|17p11.2

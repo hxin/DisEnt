@@ -23357,3 +23357,7 @@
 615651	phenotype	-	-
 615654	phenotype	-	-
 615656	phenotype	-	-
+615662	gene	-	-
+615663	phenotype	-	-
+615666	gene	-	-
+615667	gene	-	-

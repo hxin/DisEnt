@@ -292,12 +292,12 @@ DOID:4524	prostate angiosarcoma	"An angiosarcoma and sarcoma of prostate that is
 DOID:0050554	X-linked sideroblastic anemia with ataxia	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:718	autoimmune hemolytic anemia	"An autoimmune disease of blood that is characterized by deficient red blood cells caused by auto-antibodies." [sn:IEDB, url:http\://en.wikipedia.org/wiki/Autoimmune_hemolytic_anemia]	OMIM mapping confirmed by DO. [SN].	0
 DOID:7023	borderline ovarian serous neoplasm with microinvasion	\N	\N	1
-DOID:0050645	arterial tortuosity syndrome	\N	OMIM mapping confirmed by DO. [SN].	0
+DOID:0050645	arterial tortuosity syndrome	"A connective tissue disease that is characterized by elongation and generalized tortuosity of the major arteries including the aorta." [url:http\://en.wikipedia.org/wiki/Arterial_tortuosity_syndrome, url:http\://ghr.nlm.nih.gov/condition/arterial-tortuosity-syndrome]	OMIM mapping confirmed by DO. [SN].	0
 DOID:0050199	Whitewater Arroyo hemorrhagic fever	"A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Whitewater Arroyo virus, which is transmitted_by white-throated woodrats (Neotoma albigula). The infection has_symptom fever, has_symptom headache, has_symptom myalgia, and has_symptom hemorrhagic manifestations." [url:http\://jama.ama-assn.org/cgi/content/full/284/10/1237, url:http\://www.ncbi.nlm.nih.gov/sites/entrez/1799746]	\N	0
 DOID:104	bacterial infectious disease	"A disease by infectious agent that results_in infection, has_material_basis_in Bacteria." [url:http\://en.wikipedia.org/wiki/Pathogenic_bacteria]	\N	0
 DOID:10507	Dressler's syndrome	\N	\N	0
 DOID:11283	peripheral scars of retina	\N	\N	0
-DOID:1271	capillary disease	\N	\N	0
+DOID:1271	capillary disease	"A vascular disease that is located_in the capillaries." [url:http\://en.wikipedia.org/wiki/Capillary#Pathophysiology]	\N	0
 DOID:4347	lymphocele	\N	\N	0
 DOID:4112	cervical carcinosarcoma	\N	\N	0
 DOID:3892	insulinoma	"An adenoma that is a tumor in the pancreas that produces too much insulin." [url:http\://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001424/]	\N	0
@@ -1121,7 +1121,7 @@ DOID:13866	multiple cranial nerve palsy	\N	\N	0
 DOID:0050688	anal canal cancer	\N	\N	0
 DOID:8281	recurrent malignant peripheral nerve sheath neoplasm	\N	\N	1
 DOID:11727	facioscapulohumeral muscular dystrophy	\N	OMIM mapping confirmed by DO. [SN].	0
-DOID:9931	Waterhouse-Friderichsen syndrome	"A meningococcal meningitis described as an adrenal gland hypofunction disease functionally, resulting from a meningococcal infection caused by the bacterium Neisseria meningitidis, which is characterized by hemorrhages in the adrenal glands, usually observed in severe cases of meningitis. Infection can also be caused by Streptococcus pneumoniae infection. Staphylococcus aureus has recently also been implicated in pediatric WFS. The symptoms include fever, rigors, vomiting, headache, rash, hypotension and septic shock." [url:http\://en.wikipedia.org/wiki/Waterhouse-Friderichsen_syndrome, url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=waterhouse]	\N	0
+DOID:9931	Waterhouse-Friderichsen syndrome	"An adrenal gland disease that is characterized by failure of the adrenal gland due to bleeding into the gland." [url:http\://en.wikipedia.org/wiki/Waterhouse-Friderichsen_syndrome, url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=waterhouse]	\N	0
 DOID:4810	cerebrotendinous xanthomatosis	"A xanthomatosis that is characterized by a deficiency in the production of the bile acid, chenodeoxycholic acid that has_material_basis_in autosomal recessive inheritance and results in cholestanol deposition in the brain and other tissues and with elevated levels of cholesterol in plasma." [url:http\://en.wikipedia.org/wiki/Cerebrotendineous_xanthomatosis, url:http\://rarediseasesnetwork.epi.usf.edu/stair/ctx/, url:http\://www.ncbi.nlm.nih.gov/books/NBK1409/, url:http\://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=909]	OMIM mapping confirmed by DO. [SN].	0
 DOID:11851	indeterminate leprosy	"A leprosy that is an early form of the disease which causes one to a few hypopigmented or erythematous macules." [url:http\://emedicine.medscape.com/article/1104977-clinical#a0217]	\N	0
 DOID:6021	malignant testicular Leydig cell tumor	\N	\N	0
@@ -1276,7 +1276,7 @@ DOID:4123	nail disease	"An integumentary system disease that is located_in nail.
 DOID:8426	follicular infundibulum tumor	\N	\N	0
 DOID:7808	necrotic uveal melanoma	\N	\N	0
 DOID:7360	solid pattern testicular yolk sac tumor	\N	\N	0
-DOID:3103	thoracic outlet syndrome	\N	\N	0
+DOID:3103	thoracic outlet syndrome	"A vascular disease that is characterized by compression at the superior thoracic outlet[1] resulting from excess pressure placed on a neurovascular bundle passing between the anterior scalene and middle scalene muscles." [url:http\://en.wikipedia.org/wiki/Thoracic_outlet_syndrome]	\N	0
 DOID:14182	metastatic tumor to the choroid	\N	\N	1
 DOID:638	demyelinating disease of central nervous system	\N	\N	1
 DOID:1752	eye melanoma	\N	\N	0
@@ -1425,7 +1425,7 @@ DOID:6989	non-neoplastic non-molar trophoblastic disorder	\N	\N	1
 DOID:3846	adamantinous craniopharyngioma	\N	\N	0
 DOID:8276	Hodgkin-like posttransplantation lymphoproliferative disease	\N	\N	1
 DOID:13213	metastatic cancer to the breast	\N	\N	1
-DOID:326	ischemia	\N	\N	0
+DOID:326	ischemia	"A vascular disease that is characterized by a restriction in blood supply to tissues." [url:http\://en.wikipedia.org/wiki/Ischemia]	\N	0
 DOID:6713	cerebrovascular disease	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:3660	wheat allergic reaction	\N	\N	0
 DOID:0050082	hepatic Torque teno virus infectious disease	"A viral infectious disease that results_in infection located_in liver, has_material_basis_in Torque teno virus, which is transmitted_by blood transfusion." [url:https\://www.doria.fi/bitstream/handle/10024/36074/humantor.pdf?sequence=1]	\N	1
@@ -2617,7 +2617,7 @@ DOID:2139	paraurethral gland neoplasm	\N	\N	0
 DOID:3171	respiratory tract papilloma	\N	\N	1
 DOID:8392	reticular pattern testicular yolk sac tumor	\N	\N	0
 DOID:4870	lacrimal gland adenoid cystic carcinoma	\N	\N	0
-DOID:866	vein disease	\N	\N	0
+DOID:866	vein disease	"A vascular disease that is located_in a vein." [url:http\://en.wikipedia.org/wiki/Vein#Venous_diseases]	\N	0
 DOID:5238	benign perivascular tumor	\N	\N	0
 DOID:1361	frontal sinus neoplasm	\N	\N	0
 DOID:3020	Complication of labor and/or delivery	\N	\N	1
@@ -3243,6 +3243,7 @@ DOID:3495	extrahepatic bile duct adenocarcinoma	\N	\N	0
 DOID:13270	erythropoietic protoporphyria	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:5418	schizoaffective disorder	"A psychotic disorder that is characterized by recurring episodes of mood fluctuations and a loss of contact with reality." [url:http\://en.wikipedia.org/wiki/Schizoaffective_disorder, url:http\://www.nlm.nih.gov/medlineplus/ency/article/000930.htm]	\N	0
 DOID:0050520	Lymphocytic choriomeningitis virus meningoencephalitis	"A lymphocytic choriomeningitis that results_in inflammation located_in meninges and located_in brain, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted_by common house mouse, Mus musculus. The infection has_symptom fever, has_symptom headache, has_symptom stiff neck, has_symptom drowsiness, has_symptom confusion, has_symptom sensory disturbances, and has_symptom paralysis." [url:http\://www.cdc.gov/ncidod/dvrd/spb/mnpages/dispages/lcmv/qa.htm]	\N	1
+DOID:0050831	familial encephalopathy with neuroserpin inclusion bodies	"A neurodegenerative disease that is characterized by intraneuronal inclusions of mutant neuroserpin resulting in progressive encephalopathy, dementia and seizures and has_material_basis_in a mutation in the SERPINI1 gene inherited in an in autosomal dominant pattern." [url:http\://ghr.nlm.nih.gov/condition/familial-encephalopathy-with-neuroserpin-inclusion-bodies, url:http\://www.jbc.org/content/277/19/17367, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/1238/viewFullReport]	\N	0
 DOID:1523	colon lymphoma	\N	\N	0
 DOID:12397	entropion	\N	\N	0
 DOID:7075	atypical vulvar nevus	\N	\N	1
@@ -3391,7 +3392,7 @@ DOID:0080014	chromosomal disease	"A genetic disease that has_material_basis_in e
 DOID:11695	portal vein thrombosis	\N	\N	0
 DOID:10437	metastasis to lymph node	\N	\N	1
 DOID:0080049	acromesomelic dysplasia	"An osteochondrodysplasia that has_material_basis_in mesomelia and acromelia, which results_in short limb Dwarfism." [url:http\://www.cigna.com/healthinfo/nord1087.html, url:http\://www.questdiagnostics.com/kbase/nord/nord1087.htm, url:http\://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Acromesomelic%20Dysplasia, url:http\://www.webmd.com/a-to-z-guides/acromesomelic-dysplasia]	\N	0
-DOID:1461	cholesterol embolism	\N	\N	0
+DOID:1461	cholesterol embolism	"A vascular disease that is characterized by blood vessel obstruction resulting from the release of cholesterol from the inside of blood vessels along the bloodstream." [url:http\://en.wikipedia.org/wiki/Cholesterol_embolism]	\N	0
 DOID:2708	mushroom workers' lung	"An extrinsic allergic alveolitis involving inflammation of the alveoli within the lung caused by hypersensitivity to the inhalation of organic dust particles derived from either the mushrooms, their spores or the compost in which the mushrooms are grown. It is usually caused by the spores of thermophilic actinomycetes." [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC470139/pdf/thorax00134-0122.pdf]	\N	0
 DOID:10074	hymenolepiasis	"A parasitic helminthiasis infectious disease that involves infection of the bowel by Hymenolepis nana or Hymenolepis diminuta. The symptoms include diarrhea, gastrointestinal discomfort, itchy anus, poor appetite and weakness." [url:http\://en.wikipedia.org/wiki/Hymenolepiasis, url:http\://www.nlm.nih.gov/medlineplus/ency/article/001378.htm]	\N	0
 DOID:4039	Crohn's associated gastritis	\N	\N	1
@@ -3621,7 +3622,7 @@ DOID:986	alopecia areata	"An autoimmune skin disease resulting in the loss of ha
 DOID:9287	penile vascular disorder	\N	\N	1
 DOID:1400	lacrimal apparatus disease	\N	\N	0
 DOID:2994	germ cell cancer	"A cell type cancer that has_material_basis_in abnormally proliferating cells derived_from germ cells." [url:http\://en.wikipedia.org/wiki/Germ_cell_tumor]	\N	0
-DOID:10556	supine hypotensive syndrome	\N	\N	0
+DOID:10556	supine hypotensive syndrome	"A vascular disease that is characterized by severe supine hypotension in late pregnancy, whose clinical presentation ranges from minimal cardiovascular alterations to severe shock, resulting from inferior vena cava compression by gravid uterus." [url:http\://www.ncbi.nlm.nih.gov/pubmed/22537582, url:http\://www.ncbi.nlm.nih.gov/pubmed/8164943]	\N	0
 DOID:10569	myopathy of critical illness	\N	\N	1
 DOID:5593	gastric papillary adenocarcinoma	\N	\N	0
 DOID:11258	cat-scratch disease	"A primary bacterial infectious disease that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain." [url:http\://en.wikipedia.org/wiki/Cat_scratch_disease, url:http\://kidshealth.org/parent/infections/bacterial_viral/cat_scratch.html#]	\N	0
@@ -4248,6 +4249,7 @@ DOID:12211	filarial elephantiasis	"A filariasis that is characterized by the thi
 DOID:12226	hearing disease	\N	\N	1
 DOID:2524	abnormal glucose tolerance in mother complicating pregnancy childbirth and/or puerperium	\N	\N	1
 DOID:6641	breast juvenile papillomatosis	\N	\N	0
+DOID:0050833	orotic aciduria	"A pyrimidine metabolic disorder that is characterized by an excessive secretion of orotic acid in urine." [url:http\://en.wikipedia.org/wiki/Orotic_aciduria, url:http\://www.expertconsultbook.com/expertconsult/op/book.do?method=display&type=bookPage&decorator=none&eid=4-u1.0-B978-1-4160-4478-9..50227-6--cesec50&isbn=978-1-4160-4478-9, url:http\://www.omim.org/entry/258900]	\N	0
 DOID:1389	polyneuropathy	\N	\N	0
 DOID:0050181	Herpes simplex virus encephalitis	"A Simplexvirus infectious disease that results_in infection located_in brain, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2. The infection has_symptom headache, has_symptom fever, has_symptom personality and behavioral changes, has_symptom seizures, has_symptom partial paralysis, and has_symptom hallucinations." [url:http\://www.ninds.nih.gov/disorders/encephalitis_meningitis/detail_encephalitis_meningitis.htm]	\N	1
 DOID:12910	sickle-cell/Hb-C disease with crisis	\N	\N	1
@@ -5148,7 +5150,7 @@ DOID:11488	idiopathic peripheral autonomic neuropathy	\N	\N	0
 DOID:9551	smoldering myeloma	"A multiple myeloma that is a slow growing type of myeloma in which abnormal plasma cells results_in too much of a single type of monoclonal antibody." [url:http\://www.cancer.gov/dictionary/?CdrID=413932]	\N	0
 DOID:5239	glomus tumor of uncertain malignant potential	\N	\N	1
 DOID:4879	Bartholin's gland adenoid cystic carcinoma	\N	\N	0
-DOID:0050644	arterial calcification of infancy	\N	OMIM mapping confirmed by DO. [SN].	0
+DOID:0050644	arterial calcification of infancy	"A vascular disease that is characterized by generalised calcification of the arterial internal elastic lamina, leading to rupture of the lamina and occlusive changes in the tunica intima with stenosis and decreased elasticity of the vessel wall." [url:http\://en.wikipedia.org/wiki/Idiopathic_infantile_arterial_calcification, url:http\://www.omim.org/entry/208000]	OMIM mapping confirmed by DO. [SN].	0
 DOID:11153	miliaria rubra	\N	\N	0
 DOID:13002	subclavian steal syndrome	\N	\N	0
 DOID:8257	transitional cell carcinoma of the ureter with squamous differentiation	\N	\N	1
@@ -5441,7 +5443,7 @@ DOID:9829	drug abstinence syndrome or symptom	\N	\N	1
 DOID:7489	Osgood-Schlatter's disease	"A bone inflammation disease that involves rupture of the growth plate in children located_in tibia." [url:http\://emedicine.medscape.com/article/827380-overview, url:http\://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease, url:http\://orthoinfo.aaos.org/topic.cfm?topic=a00411, url:http\://www.mayoclinic.com/health/osgood-schlatter-disease/DS00392, url:http\://www.nlm.nih.gov/medlineplus/ency/article/001258.htm, urlXX:http\://www.medicinenet.com/osgood-schlatter_disease/article.htm]	\N	0
 DOID:0050433	fatal familial insomnia	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:0080023	Schwachman Diamond type metaphyseal dysplasia	\N	\N	0
-DOID:0050828	artery disease	\N	\N	0
+DOID:0050828	artery disease	"A vascular disease that is located_in an artery." [url:http\://en.wikipedia.org/wiki/Artery#Pathology]	\N	0
 DOID:4471	chromophobe adenocarcinoma	"Chromophobe adenocarcinoma is a renal cell carcinoma described as the third most common type of renal cell carcinoma. The cancerous cells are similar with the clear cells, they appear pale when viewed under microscope, but there are larger and display different features than clear cells. This type of cancer rarely metastasizes, and the tumors can be successfully removed with surgery." [URL:http\://www.omnimedicalsearch.com/conditions-disease/renal-cell-carcinoma-overview-types.html]	\N	0
 DOID:5941	lung carcinoma metastatic to the brain	\N	\N	1
 DOID:11328	schizophreniform disorder	"A psychotic disorder that involves schizophrenia symptoms over time period of one month." [url:http\://en.wikipedia.org/wiki/Schizophreniform_disorder]	\N	0
@@ -5734,8 +5736,8 @@ DOID:13195	nontoxic goiter	\N	\N	0
 DOID:2242	mild recurrent major depression	\N	\N	1
 DOID:8773	nodular lymphoma involving lymph nodes of head, face, and neck	\N	\N	1
 DOID:6098	thalamic neoplasm	\N	\N	0
-DOID:0060120	skeletal system benign neoplasm	\N	\N	0
 DOID:9042	polyp of corpus uteri	\N	\N	0
+DOID:0060120	skeletal system benign neoplasm	\N	\N	0
 DOID:0050196	Venezuelan hemorrhagic fever	"A viral infectious disease that is a hemorrhagic fever, has_material_basis_in Guanarito virus, which is transmitted_by cotton rat, Sigmodon alstoni and transmitted_by cane mouse, Zygodontomys brevicauda. The infection has_symptom fever, has_symptom headache, has_symptom myalgia, has_symptom sore throat, has_symptom weakness, has_symptom anorexia, has_symptom nausea, has_symptom vomiting, has_symptom convulsions, has_symptom epistaxis, has_symptom bleeding gums, has_symptom hematemesis, has_symptom melena, and has_symptom menorrhagia." [url:http\://www.paho.org/English/SHA/epibul_95-98/be953vhf.htm]	\N	0
 DOID:5480	ovarian endometrioid adenofibroma	\N	\N	0
 DOID:10944	tongue disease	\N	\N	0
@@ -6727,7 +6729,7 @@ DOID:980	choroidal sclerosis	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:786	laryngeal disease	\N	\N	0
 DOID:885	fascioliasis	"A parasitic helminthiasis infectious disease that involves parasitic infection of the bile ducts of the liver by Fasciola hepatica or Fasciola gigantica. During the acute phase, manifestations include abdominal pain, hepatomegaly, fever, vomiting, diarrhea, urticaria and eosinophilia. Occasionally, infection occurs in intestinal wall, lungs, subcutaneous tissue, and pharyngeal mucosa." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Fascioliasis.htm]	\N	0
 DOID:6676	Froelich's syndrome	"A syndrome characterized by a combination of obesity, retarded development of the sex glands, and changes in secondary sex characteristics that results from impaired function or disease of the pituitary gland and hypothalamus." [URL:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=Adiposogenital%20dystrophy]	\N	0
-DOID:272	hepatic vascular disease	\N	\N	0
+DOID:272	hepatic vascular disease	"A vascular disease that is located_in the liver." [url:http\://www.ncbi.nlm.nih.gov/pubmed/21055687]	\N	0
 DOID:13956	uterine corpus myxoid leiomyoma	\N	\N	0
 DOID:4173	disseminated neuroblastoma	\N	\N	1
 DOID:7646	multiple spinal canal and spinal cord meningioma	\N	\N	0
@@ -6847,6 +6849,7 @@ DOID:0050540	Charcot-Marie-Tooth disease type 3	\N	OMIM mapping confirmed by DO.
 DOID:3298	vaccinia	"A viral infectious disease that results_in infection, located_in skin, has_material_basis_in Vaccinia virus, which is used as a live vaccine against smallpox. The virus is transmitted_by contact with the vaccination site before it has healed, or transmitted_by fomites that have been contaminated with live virus from the vaccination site. The infection has_symptom rash, has_symptom fever, and has_symptom body aches." [url:http\://en.wikipedia.org/wiki/Vaccinia, url:http\://www.bt.cdc.gov/agent/smallpox/vaccination/live-virus.asp]	\N	0
 DOID:1251	tuberculous epididymitis	"An urogenital tuberculosis that is located_in epididymis, has_symptom pain and has_symptom scrotal swelling." [url:http\://www.nature.com/aja/journal/v7/n3/abs/aja200560a.html]	\N	0
 DOID:2833	dehydration polycythemia	\N	\N	0
+DOID:0050832	pyrimidine metabolic disorder	"An inherited metabolic disorder involving dysfunction of pyrimidine metabolism." [url:http\://en.wikipedia.org/wiki/Pyrimidine_metabolism, url:http\://www.expertconsultbook.com/expertconsult/op/book.do?method=display&type=bookPage&decorator=none&eid=4-u1.0-B978-1-4160-4478-9..50227-6--cesec50&isbn=978-1-4160-4478-9]	\N	0
 DOID:0050084	rhinotracheitis	"An upper respiratory tract disease involving inflammation of the nasal cavities and trachea caused by feline herpesvirus 1, of the family Herpesviridae in cats and especially young kittens that is characterized by sneezing, conjunctivitis with discharge, and nasal discharges." [url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=rhinotracheitis]	\N	0
 DOID:5488	mediastinum synovial sarcoma	"A sarcoma of the mediastinum and synovial sarcoma that is located_in the mediastinum." [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC2001131/]	\N	0
 DOID:7960	malignant spiradenoma	\N	\N	0
@@ -6898,7 +6901,7 @@ DOID:6050	esophageal disease	\N	\N	0
 DOID:3265	chronic granulomatous disease	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:5137	pericardium leiomyoma	\N	\N	0
 DOID:5260	colon sarcoma	"A sarcoma and malignant tumor of colon that is located_in the colon." [url:http\://www3.interscience.wiley.com/journal/76043/abstract]	\N	0
-DOID:2494	angiodysplasia	\N	\N	0
+DOID:2494	angiodysplasia	"A vascular disease that is characterized as a small vascular malformation of the gut." [url:http\://en.wikipedia.org/wiki/Angiodysplasia]	\N	0
 DOID:3255	botryoid rhabdomyosarcoma	\N	\N	0
 DOID:11163	apnea of prematurity	\N	\N	1
 DOID:14261	fragile X syndrome	\N	OMIM mapping confirmed by DO. [SN].	0
@@ -7270,8 +7273,8 @@ DOID:0050760	X-linked myopathy with excessive autophagy	\N	\N	0
 DOID:11204	allergic conjunctivitis	"A chronic conjunctivitis that is an inflammation of the conjunctiva involing red, itchy, and watery eyes a resulting from an exposure to an allergen or an irritant." [ls:IEDB, url:http\://en.wikipedia.org/wiki/Allergic_conjunctivitis]	\N	0
 DOID:3212	hereditary central nervous system demyelinating disease	\N	\N	1
 DOID:3417	glossopharyngeal nerve neoplasm	\N	\N	0
-DOID:12705	Friedreich ataxia	\N	\N	0
 DOID:9041	Hodgkin's lymphoma, mixed cellularity, involving lymph nodes of axilla and upper limb	\N	\N	1
+DOID:12705	Friedreich ataxia	\N	\N	0
 DOID:13601	enteropathogenic Escherichia coli infectious disease	"An Escherichia coli intestinal infectious disease that involves infection of the intestine caused by a serological subgroup of Escherichia coli called enteropathogenic Escherichia coli (EPEC), which has a plasmid-encoded protein referred to as EPEC adherence factor that enables localized adherence of bacteria to intestinal cells and a non fimbrial adhesin designated intimin, which is an outer membrane protein that mediates the final stages of adherence. EPEC induce a profuse watery (sometimes bloody) diarrhea." [url:http\://www.textbookofbacteriology.net/e.coli_4.html]	\N	1
 DOID:6246	oncocytic neoplasm	\N	OMIM mapping confirmed by DO. [LS].	1
 DOID:398	cutaneous tuberculosis	\N	\N	1
@@ -7313,7 +7316,7 @@ DOID:11872	Staphylococcus aureus septicemia	\N	\N	1
 DOID:4043	skeletal muscle cancer	\N	\N	0
 DOID:8947	diabetic retinopathy	\N	\N	0
 DOID:3753	Hermansky-Pudlak syndrome	\N	OMIM mapping confirmed by DO. [SN].	0
-DOID:9286	priapism	\N	\N	0
+DOID:9286	priapism	"A peripheral vascular disease characterized by blood trapped in the penis that is unable to drain." [url:http\://en.wikipedia.org/wiki/Priapism, url:http\://my.clevelandclinic.org/disorders/priapism/hic_priapism.aspx]	\N	0
 DOID:0050499	ssDNA virus infectious disease	"A DNA virus infectious disease that results_in infection, has_material_basis_in ssDNA viruses, which possess single-stranded DNA." [url:http\://en.wikipedia.org/wiki/Viral_classification]	\N	1
 DOID:0050051	Rickettsia parkeri spotted fever	"A spotted fever that has_material_basis_in Rickettsia parkeri, which is transmitted_by Gulf Coast tick (Amblyomma maculatum). The infection has_symptom fever, has_symptom headache, has_symptom eschar, and has_symptom rash." [url:http\://cmr.asm.org/cgi/content/full/18/4/719#Rickettsia_parkeri, url:http\://www.cdc.gov/otherspottedfever/index.html]	\N	0
 DOID:13561	optic disk drusen	\N	\N	0
@@ -7776,7 +7779,7 @@ DOID:9265	histidine metabolism disease	"An amino acid metabolic disorder that in
 DOID:1770	toxic megacolon	\N	\N	0
 DOID:0050548	hereditary sensory neuropathy	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:6590	spondylitis	\N	\N	0
-DOID:341	peripheral vascular disease	\N	\N	0
+DOID:341	peripheral vascular disease	"A vascular disease that is characterized by obstruction of larger arteries not within the coronary, aortic arch vasculature, or brain." [url:http\://en.wikipedia.org/wiki/Peripheral_vascular_disease]	\N	0
 DOID:5289	uterus leiomyosarcoma	"A uterine Corpus sarcoma and leiomyosarcoma and uterine Corpus smooth muscle neoplasm that is located_in the smooth muscle of the uterus." [url:http\://en.wikipedia.org/wiki/Leiomyosarcoma]	\N	0
 DOID:10986	discitis	\N	\N	0
 DOID:3565	meningioma	"A central nervous system cancer that are manifested in the central nervous system and arise from the arachnoid \"cap\" cells of the arachnoid villi in the meninges." [url:http\://en.wikipedia.org/wiki/Meningioma]	\N	0
@@ -8194,8 +8197,8 @@ DOID:13687	chronic duodenal ileus	\N	\N	0
 DOID:11347	Meniere's disease in remission	\N	\N	1
 DOID:5963	schistosoma hematobium-related bladder squamous cell carcinoma	\N	\N	1
 DOID:8748	acute dermatitis due to solar radiation	\N	\N	1
-DOID:2683	adenofibroma	"A cell type benign neoplasm that is composed_of glandular and fibrous tissues, with a relatively large proportion of glands." [url:http\://www.ncbi.nlm.nih.gov/mesh/68000232]	\N	0
 DOID:2388	renal artery disease	\N	\N	0
+DOID:2683	adenofibroma	"A cell type benign neoplasm that is composed_of glandular and fibrous tissues, with a relatively large proportion of glands." [url:http\://www.ncbi.nlm.nih.gov/mesh/68000232]	\N	0
 DOID:0050504	ssRNA-RT virus infectious disease	"A RNA virus infectious disease that results_in infection, has_material_basis_in ssRNA retro-transcribing viruses, which possess single-stranded RNA genomes and replicate using reverse transcriptase." [url:http\://en.wikipedia.org/wiki/Viral_classification]	\N	1
 DOID:1270	hereditary hemorrhagic telangiectasia	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:9620	vesicoureteral reflux	\N	OMIM mapping confirmed by DO. [LS].	0

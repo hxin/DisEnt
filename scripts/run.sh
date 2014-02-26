@@ -86,6 +86,7 @@ sh $BASEDIR/ensembl_data/run.sh 2>&1 | tee -a $LOG
 echo ''
 fi
 
+exit;
 
 ##parpear metamap data
 if [ $METAMAP = 'y' ]; then
