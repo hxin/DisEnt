@@ -1,0 +1,8 @@
+id: DOID:0002116
+name: pterygium
+xref: MSH:D011625
+is_a: DOID:10124 ! corneal disease
+created_by: laronhughes
+creation_date: 2010-06-30T02:44:30Z
+
+[Term]

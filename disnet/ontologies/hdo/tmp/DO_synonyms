@@ -6515,6 +6515,7 @@ DOID:3495	adenocarcinoma of the extrahepatic bile duct
 DOID:13270	EPP (erythropoietic protoporphyria porphyria)
 DOID:13270	Erythropoietic protoporphyria (disorder)
 DOID:13270	Protoporphyria
+DOID:0050831	FENIB
 DOID:1523	Colonic Lymphoma
 DOID:12397	entropion
 DOID:12397	Entropion (disorder)
@@ -6799,6 +6800,11 @@ DOID:3652	Infantile necrotizing encephalomyelopathy
 DOID:3652	LEIGH SYNDROME
 DOID:3652	Leigh's disease (disorder)
 DOID:3652	subacute necrotizing encephalomyelopathy
+DOID:1461	atheroembolism
+DOID:1461	cholesterol crystal embolism 
+DOID:1461	purple toe syndrome 
+DOID:1461	trash foot 
+DOID:1461	warfarin blue toe syndrome
 DOID:2708	Mushroom workers' lung (disorder)
 DOID:10074	dwarf tapeworm infection 
 DOID:10074	Hymenolepis infectious disease
@@ -14676,12 +14682,12 @@ DOID:2653	localized benign fibrous Mesothelioma
 DOID:0050760	XMEA
 DOID:3417	neoplasm of glossopharyngeal nerve (disorder)
 DOID:3417	tumor of Glossopharyngeal nerve
-DOID:12705	FRIEDREICH ATAXIA 1
-DOID:12705	Friedreich's ataxia
-DOID:12705	Friedreich's tabes
 DOID:9041	Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb (disorder)
 DOID:9041	Hodgkin's disease, mixed cellularity of lymph nodes of axilla and/or upper limb (disorder)
 DOID:9041	Hodgkin's disease, mixed cellularity, involving lymph nodes of axilla and upper limb
+DOID:12705	FRIEDREICH ATAXIA 1
+DOID:12705	Friedreich's ataxia
+DOID:12705	Friedreich's tabes
 DOID:13601	Enteropathogenic Escherichia coli gastrointestinal tract infection
 DOID:13601	Enteropathogenic Escherichia coli gastrointestinal tract infection (disorder)
 DOID:13601	intestinal infection due to enteropathogenic E. coli
@@ -16738,9 +16744,9 @@ DOID:13775	Verruca plantaris (disorder)
 DOID:13687	chronic duodenal ileus (disorder)
 DOID:11347	Inactive Meniere's disease
 DOID:11347	Mnire's disease in remission
-DOID:2683	adenofibroma, no ICD-O subtype (morphologic abnormality)
 DOID:2388	renal vascular disease
 DOID:2388	vascular disorder of kidney
+DOID:2683	adenofibroma, no ICD-O subtype (morphologic abnormality)
 DOID:0050504	single stranded RNA reverse transcribing virus infectious disease
 DOID:0050504	ssRNA-RT virus infection
 DOID:1270	Osler hemorrhagic telangiectasia syndrome (disorder)

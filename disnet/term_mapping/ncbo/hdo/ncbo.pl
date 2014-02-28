@@ -10,6 +10,9 @@ use XML::LibXML;
 use PadWalker;
 use Data::Dumper;
 
+#use lib '/home/xin/Workspace/DisEnt/disnet/common/lib/mylib';
+use Ncbo::Functions;
+
 
 my($in)=@ARGV;
 

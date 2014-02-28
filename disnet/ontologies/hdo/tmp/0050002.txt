@@ -1,0 +1,6 @@
+id: DOID:0050002
+name: Actinomadura pelletieri infectious disease
+subset: gram-positive_bacterial_infectious_disease
+is_obsolete: true
+
+[Term]

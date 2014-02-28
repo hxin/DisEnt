@@ -1,0 +1,6 @@
+id: DOID:0050010
+name: Mansonella perstans infectious disease
+def: "A mansonelliasis that involves parasitic infection by the nematode Mansonella perstans, which resides in body cavities and the surrounding tissues causing angioedema, pruritus, fever, headaches, arthralgias, and neurologic manifestations. Midges transmit the disease." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Filariasis.htm]
+is_obsolete: true
+
+[Term]

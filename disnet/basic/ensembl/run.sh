@@ -1,7 +1,6 @@
 #!/bin/sh
 BASEDIR=$(dirname $0)
 
-
 functions=$BASEDIR/../../common/functions.sh
 scripts=$BASEDIR/scripts
 tmp=$BASEDIR/tmp
@@ -26,6 +25,11 @@ readcnf $config_g && readcnf $config_l
 [ ! -d $tmp ] && mkdir $tmp || [ $cleantmp = 'y' ] && rm -rf $tmp/*
 [ ! -d $chunks ] && mkdir $chunks || [ $cleanchunks = 'y' ] && rm -rf $chunks/*
 [ ! -d $data ] && mkdir $data || [ $cleandata = 'y' ] && rm -rf $data/*
+
+
+perl $scripts/p.pl;
+exit;
+
 
 if [ $checkupdate = 'y' ];then 
 	

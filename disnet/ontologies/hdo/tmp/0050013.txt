@@ -1,0 +1,5 @@
+id: DOID:0050013
+name: carbohydrate metabolism disease
+is_a: DOID:0060158 ! acquired metabolic disease
+
+[Term]

@@ -20,6 +20,8 @@ readcnf $config_g && readcnf $config_l
 ##create tmp folder
 [ ! -d $tmp ] && mkdir $tmp
 
+##awk -F ":" '/^id:/ {ofn=$3 ".txt"} ofn {print > ofn}'
+
 if [ $checkupdate = 'y' ]; then
 	echo $(gettime)" Checking update..."
 	( [ -n "$(cd $tmp; wget -nv -N --spider $HDO_RAW_URL 2>&1 | grep '200 OK')" ] && exit 1; exit 0; )

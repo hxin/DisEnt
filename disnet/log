@@ -417,3 +417,75 @@ ENSG00000000457	FBgn0027507	NA	ortholog_one2one	fly
 ENSG00000261657	HG991_PATCH	66119285	66465398
 ENSG00000223116	13	23551994	23552136
 [17:48:38 02/25/14] All done!!
+**************************************************************
+[12:54:38 02/28/14] Basic data...
+Can't locate BioMart/Initializer.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[12:54:38 02/28/14] All done!!
+**************************************************************
+[12:55:36 02/28/14] Basic data...
+Can't locate XML/Simple.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 47.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 47.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[12:55:36 02/28/14] All done!!
+**************************************************************
+[13:02:15 02/28/14] Basic data...
+Can't locate Log/Log4perl.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /home/xin/Workspace/DisEnt/disnet/common/lib/XML-Simple-2.20/lib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Root.pm line 30.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Root.pm line 30.
+Compilation failed in require at (eval 14) line 2.
+	...propagated at /usr/share/perl/5.14/base.pm line 93.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configuration/ConfigurationTree.pm line 44.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 59.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 59.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[13:02:15 02/28/14] All done!!
+**************************************************************
+[13:04:23 02/28/14] Basic data...
+Can't locate Exception/Class.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /home/xin/Workspace/DisEnt/disnet/common/lib/XML-Simple-2.20/lib /home/xin/Workspace/DisEnt/disnet/common/lib/Log-Log4perl-1.42/lib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Exception.pm line 88.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Exception.pm line 88.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configuration/DBLocation.pm line 40.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configuration/DBLocation.pm line 40.
+Compilation failed in require at (eval 27) line 2.
+	...propagated at /usr/share/perl/5.14/base.pm line 93.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configuration/RegistryDBPointer.pm line 38.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 63.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 63.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[13:04:24 02/28/14] All done!!
+**************************************************************
+[13:14:53 02/28/14] Basic data...
+Can't locate XML/DOM.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /home/xin/Workspace/DisEnt/disnet/common/lib/XML-Simple-2.20/lib /home/xin/Workspace/DisEnt/disnet/common/lib/Log-Log4perl-1.42/lib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 71.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 71.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[13:14:54 02/28/14] All done!!
+**************************************************************
+[13:15:04 02/28/14] Basic data...
+Can't locate XML/Simple.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 47.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 47.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[13:15:04 02/28/14] All done!!
+**************************************************************
+[15:29:42 02/28/14] Basic data...
+Can't locate Log/Log4perl.pm in @INC (@INC contains: /home/xin/Workspace/DisEnt/disnet/common/lib/BioPerl-1.6.0 /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-compara/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-variation/modules /home/xin/Workspace/DisEnt/disnet/common/lib/ensembl-api/ensembl-functgenomics/modules /home/xin/Workspace/DisEnt/disnet/common/lib/mylib /etc/perl /usr/local/lib/perl/5.14.2 /usr/local/share/perl/5.14.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.14 /usr/share/perl/5.14 /usr/local/lib/site_perl .) at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Root.pm line 30.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Root.pm line 30.
+Compilation failed in require at (eval 11) line 2.
+	...propagated at /usr/share/perl/5.14/base.pm line 93.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configuration/ConfigurationTree.pm line 44.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 59.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Configurator.pm line 59.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/common/lib/biomart/biomart-perl/lib/BioMart/Initializer.pm line 57.
+Compilation failed in require at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+BEGIN failed--compilation aborted at /home/xin/Workspace/DisEnt/disnet/basic/ensembl/scripts/p.pl line 6.
+[15:29:42 02/28/14] All done!!

@@ -1,0 +1,15 @@
+subset: gram-positive_bacterial_infectious_disease
+subset: gram-positive_bacterial_infectious_disease
+subset: gram-positive_bacterial_infectious_disease
+subset: zoonotic_infectious_disease
+subset: zoonotic_infectious_disease
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+subset: zoonotic_infectious_disease
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+subset: zoonotic_infectious_disease

@@ -1,0 +1,18 @@
+id: DOID:0001816
+name: angiosarcoma
+alt_id: DOID:267
+alt_id: DOID:4508
+def: "A malignant vascular tumor that results_in rapidly proliferating, extensively infiltrating anaplastic cells derived_from blood vessels and derived_from the lining of irregular blood-filled spaces." [url:http\://emedicine.medscape.com/article/276512-overview]
+synonym: "Hemangioendothelioma, malignant (morphologic abnormality)" EXACT [SNOMEDCT_2005_07_31:33176006]
+synonym: "hemangiosarcoma" EXACT []
+synonym: "primary hemangiosarcoma" EXACT [NCI2004_11_17:C9275]
+xref: MSH:D006394
+xref: NCI:C3088
+xref: SNOMEDCT_2010_1_31:33176006
+xref: SNOMEDCT_2010_1_31:39000009
+xref: SNOMEDCT_2010_1_31:403977003
+xref: UMLS_CUI:C0018923
+xref: UMLS_CUI:C0854893
+is_a: DOID:1115 ! sarcoma
+
+[Term]

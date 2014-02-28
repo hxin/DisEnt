@@ -1,0 +1,6 @@
+id: DOID:0050007
+name: cutaneous strongyloidiasis
+def: "A strongyloidiasis that involves parasitic infection by the filariform larvae of Strongyloides stercoralis, which penetrate the human skin causing urticarial rashes in the buttocks and waist areas." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Strongyloidiasis.htm]
+is_obsolete: true
+
+[Term]

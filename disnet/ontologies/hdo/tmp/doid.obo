@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: releases/2014-02-20
-date: 20:02:2014 16:01
+data-version: releases/2014-02-24
+date: 24:02:2014 15:12
 saved-by: lschriml
 auto-generated-by: OBO-Edit 2.1-beta6
 subsetdef: GOLD "GOLD"
@@ -4862,6 +4862,7 @@ is_a: DOID:4123 ! nail disease
 [Term]
 id: DOID:0050644
 name: arterial calcification of infancy
+def: "A vascular disease that is characterized by generalised calcification of the arterial internal elastic lamina, leading to rupture of the lamina and occlusive changes in the tunica intima with stenosis and decreased elasticity of the vessel wall." [url:http\://en.wikipedia.org/wiki/Idiopathic_infantile_arterial_calcification, url:http\://www.omim.org/entry/208000]
 comment: OMIM mapping confirmed by DO. [SN].
 synonym: "generalized arterial calcification of infancy" EXACT []
 synonym: "IDIOPATHIC INFANTILE ARTERIAL CALCIFICATION" EXACT []
@@ -4871,9 +4872,10 @@ is_a: DOID:178 ! vascular disease
 [Term]
 id: DOID:0050645
 name: arterial tortuosity syndrome
+def: "A connective tissue disease that is characterized by elongation and generalized tortuosity of the major arteries including the aorta." [url:http\://en.wikipedia.org/wiki/Arterial_tortuosity_syndrome, url:http\://ghr.nlm.nih.gov/condition/arterial-tortuosity-syndrome]
 comment: OMIM mapping confirmed by DO. [SN].
 xref: OMIM:208050
-is_a: DOID:178 ! vascular disease
+is_a: DOID:65 ! connective tissue disease
 
 [Term]
 id: DOID:0050646
@@ -6514,6 +6516,7 @@ creation_date: 2014-02-12T03:03:38Z
 [Term]
 id: DOID:0050828
 name: artery disease
+def: "A vascular disease that is located_in an artery." [url:http\://en.wikipedia.org/wiki/Artery#Pathology]
 is_a: DOID:178 ! vascular disease
 created_by: lschriml
 creation_date: 2014-02-12T03:08:35Z
@@ -6533,6 +6536,33 @@ def: "An artery disease that is characterized by build up of plaque in the arter
 is_a: DOID:0050828 ! artery disease
 created_by: lschriml
 creation_date: 2014-02-18T12:41:09Z
+
+[Term]
+id: DOID:0050831
+name: familial encephalopathy with neuroserpin inclusion bodies
+def: "A neurodegenerative disease that is characterized by intraneuronal inclusions of mutant neuroserpin resulting in progressive encephalopathy, dementia and seizures and has_material_basis_in a mutation in the SERPINI1 gene inherited in an in autosomal dominant pattern." [url:http\://ghr.nlm.nih.gov/condition/familial-encephalopathy-with-neuroserpin-inclusion-bodies, url:http\://www.jbc.org/content/277/19/17367, url:https\://www.rarediseases.org/rare-disease-information/rare-diseases/byID/1238/viewFullReport]
+synonym: "FENIB" EXACT []
+xref: OMIM:604218
+is_a: DOID:1289 ! neurodegenerative disease
+created_by: lschriml
+creation_date: 2014-02-24T10:14:57Z
+
+[Term]
+id: DOID:0050832
+name: pyrimidine metabolic disorder
+def: "An inherited metabolic disorder involving dysfunction of pyrimidine metabolism." [url:http\://en.wikipedia.org/wiki/Pyrimidine_metabolism, url:http\://www.expertconsultbook.com/expertconsult/op/book.do?method=display&type=bookPage&decorator=none&eid=4-u1.0-B978-1-4160-4478-9..50227-6--cesec50&isbn=978-1-4160-4478-9]
+is_a: DOID:655 ! inherited metabolic disorder
+created_by: lschriml
+creation_date: 2014-02-24T10:29:22Z
+
+[Term]
+id: DOID:0050833
+name: orotic aciduria
+def: "A pyrimidine metabolic disorder that is characterized by an excessive secretion of orotic acid in urine." [url:http\://en.wikipedia.org/wiki/Orotic_aciduria, url:http\://www.expertconsultbook.com/expertconsult/op/book.do?method=display&type=bookPage&decorator=none&eid=4-u1.0-B978-1-4160-4478-9..50227-6--cesec50&isbn=978-1-4160-4478-9, url:http\://www.omim.org/entry/258900]
+xref: OMIM:258900
+is_a: DOID:0050832 ! pyrimidine metabolic disorder
+created_by: lschriml
+creation_date: 2014-02-24T10:29:22Z
 
 [Term]
 id: DOID:0060000
@@ -12288,6 +12318,7 @@ id: DOID:10556
 name: supine hypotensive syndrome
 alt_id: DOID:10555
 alt_id: DOID:12413
+def: "A vascular disease that is characterized by severe supine hypotension in late pregnancy, whose clinical presentation ranges from minimal cardiovascular alterations to severe shock, resulting from inferior vena cava compression by gravid uterus." [url:http\://www.ncbi.nlm.nih.gov/pubmed/22537582, url:http\://www.ncbi.nlm.nih.gov/pubmed/8164943]
 synonym: "antepartum maternal hypotension syndrome" EXACT []
 synonym: "postpartum maternal hypotension syndrome" EXACT []
 xref: ICD9CM:669.20
@@ -27597,6 +27628,7 @@ is_a: DOID:2478 ! spinocerebellar degeneration
 [Term]
 id: DOID:1271
 name: capillary disease
+def: "A vascular disease that is located_in the capillaries." [url:http\://en.wikipedia.org/wiki/Capillary#Pathophysiology]
 synonym: "disease of capillaries" EXACT []
 xref: ICD9CM:448
 xref: SNOMEDCT_2010_1_31:155446001
@@ -39636,6 +39668,12 @@ is_a: DOID:1461 ! cholesterol embolism
 [Term]
 id: DOID:1461
 name: cholesterol embolism
+def: "A vascular disease that is characterized by blood vessel obstruction resulting from the release of cholesterol from the inside of blood vessels along the bloodstream." [url:http\://en.wikipedia.org/wiki/Cholesterol_embolism]
+synonym: "atheroembolism" EXACT []
+synonym: "cholesterol crystal embolism " EXACT []
+synonym: "purple toe syndrome " EXACT []
+synonym: "trash foot " EXACT []
+synonym: "warfarin blue toe syndrome" EXACT []
 xref: ICD9CM:445
 xref: MSH:D017700
 xref: SNOMEDCT_2010_1_31:10690002
@@ -48952,6 +48990,7 @@ is_a: DOID:1271 ! capillary disease
 id: DOID:2494
 name: angiodysplasia
 alt_id: DOID:12071
+def: "A vascular disease that is characterized as a small vascular malformation of the gut." [url:http\://en.wikipedia.org/wiki/Angiodysplasia]
 synonym: "angiodysplasia of stomach and duodenum with hemorrhage" EXACT []
 xref: MSH:D016888
 xref: SNOMEDCT_2010_1_31:71072006
@@ -51003,6 +51042,7 @@ is_a: DOID:1673 ! pneumothorax
 [Term]
 id: DOID:272
 name: hepatic vascular disease
+def: "A vascular disease that is located_in the liver." [url:http\://www.ncbi.nlm.nih.gov/pubmed/21055687]
 synonym: "vascular disorder of liver (disorder)" EXACT [SNOMEDCT_2005_07_31:235878005]
 xref: NCI:C35442
 xref: SNOMEDCT_2010_1_31:235878005
@@ -54603,6 +54643,7 @@ is_obsolete: true
 [Term]
 id: DOID:3103
 name: thoracic outlet syndrome
+def: "A vascular disease that is characterized by compression at the superior thoracic outlet[1] resulting from excess pressure placed on a neurovascular bundle passing between the anterior scalene and middle scalene muscles." [url:http\://en.wikipedia.org/wiki/Thoracic_outlet_syndrome]
 synonym: "TOS - Thoracic outlet syndrome" EXACT [SNOMEDCT_2005_07_31:212769008]
 xref: MSH:D013901
 xref: NCI:C85188
@@ -56064,6 +56105,7 @@ is_a: DOID:9987 ! orbit sarcoma
 [Term]
 id: DOID:326
 name: ischemia
+def: "A vascular disease that is characterized by a restriction in blood supply to tissues." [url:http\://en.wikipedia.org/wiki/Ischemia]
 synonym: "ischemia" EXACT [CSP2005:0571-6706]
 xref: MSH:D007511
 xref: NCI:C34738
@@ -57570,6 +57612,7 @@ is_a: DOID:6713 ! cerebrovascular disease
 id: DOID:341
 name: peripheral vascular disease
 alt_id: DOID:2868
+def: "A vascular disease that is characterized by obstruction of larger arteries not within the coronary, aortic arch vasculature, or brain." [url:http\://en.wikipedia.org/wiki/Peripheral_vascular_disease]
 synonym: "Arterial occlusive disease" EXACT [SNOMEDCT_2005_07_31:2929001]
 synonym: "arterial occlusive disease" EXACT []
 xref: ICD9CM:443.81
@@ -62054,7 +62097,6 @@ xref: SNOMEDCT_2010_1_31:190502001
 xref: SNOMEDCT_2010_1_31:9545009
 xref: UMLS_CUI:C0221406
 is_a: DOID:2444 ! hyperpituitarism
-is_a: DOID:3947 ! adrenal gland hyperfunction
 
 [Term]
 id: DOID:3947
@@ -70374,7 +70416,6 @@ xref: NCI:C84917
 xref: SNOMEDCT_2010_1_31:190503006
 xref: SNOMEDCT_2010_1_31:43019009
 xref: UMLS_CUI:C0027577
-is_a: DOID:1785 ! pituitary cancer
 is_a: DOID:3952 ! adrenal cortex disease
 
 [Term]
@@ -94035,6 +94076,7 @@ is_a: DOID:934 ! viral infectious disease
 [Term]
 id: DOID:866
 name: vein disease
+def: "A vascular disease that is located_in a vein." [url:http\://en.wikipedia.org/wiki/Vein#Venous_diseases]
 xref: ICD9CM:453
 xref: SNOMEDCT_2010_1_31:195435006
 xref: UMLS_CUI:C0155774
@@ -99174,6 +99216,7 @@ is_a: DOID:1686 ! glaucoma
 [Term]
 id: DOID:9286
 name: priapism
+def: "A peripheral vascular disease characterized by blood trapped in the penis that is unable to drain." [url:http\://en.wikipedia.org/wiki/Priapism, url:http\://my.clevelandclinic.org/disorders/priapism/hic_priapism.aspx]
 synonym: "Mentulagra" EXACT [SNOMEDCT_2005_07_31:4287008]
 synonym: "Priapism (disorder)" EXACT [SNOMEDCT_2005_07_31:6273006]
 xref: ICD10:N48.3
@@ -99185,7 +99228,7 @@ xref: SNOMEDCT_2010_1_31:198027001
 xref: SNOMEDCT_2010_1_31:4287008
 xref: SNOMEDCT_2010_1_31:6273006
 xref: UMLS_CUI:C0033117
-is_a: DOID:178 ! vascular disease
+is_a: DOID:341 ! peripheral vascular disease
 
 [Term]
 id: DOID:9287
@@ -103425,7 +103468,7 @@ is_obsolete: true
 id: DOID:9931
 name: Waterhouse-Friderichsen syndrome
 alt_id: DOID:12613
-def: "A meningococcal meningitis described as an adrenal gland hypofunction disease functionally, resulting from a meningococcal infection caused by the bacterium Neisseria meningitidis, which is characterized by hemorrhages in the adrenal glands, usually observed in severe cases of meningitis. Infection can also be caused by Streptococcus pneumoniae infection. Staphylococcus aureus has recently also been implicated in pediatric WFS. The symptoms include fever, rigors, vomiting, headache, rash, hypotension and septic shock." [url:http\://en.wikipedia.org/wiki/Waterhouse-Friderichsen_syndrome, url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=waterhouse]
+def: "An adrenal gland disease that is characterized by failure of the adrenal gland due to bleeding into the gland." [url:http\://en.wikipedia.org/wiki/Waterhouse-Friderichsen_syndrome, url:http\://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&va=waterhouse]
 subset: gram-negative_bacterial_infectious_disease
 synonym: "Meningococcal hemorrhagic adrenalitis" EXACT [MTHICD9_2006:036.3]
 synonym: "WFS" EXACT []

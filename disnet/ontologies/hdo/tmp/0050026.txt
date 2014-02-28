@@ -1,0 +1,11 @@
+id: DOID:0050026
+name: human monocytic ehrlichiosis
+alt_id: DOID:14091
+def: "An ehrlichiosis that results_in infection located_in monocyte or located_in macrophage, has_material_basis_in Ehrlichia chaffeensis, which is transmitted_by black-legged tick (Ixodes scapularis), transmitted_by western black-legged tick (Ixodes pacificus) or transmitted_by castor bean tick (Ixodes ricinus,). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash." [url:http\://emedicine.medscape.com/article/235839-overview]
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+synonym: "Ehrlichiosis chafeensis" RELATED []
+xref: UMLS_CUI:C0878687
+is_a: DOID:10242 ! ehrlichiosis
+
+[Term]

@@ -6,8 +6,10 @@ USER=root
 PSW=12091209
 
 log=/home/xin/Workspace/DisEnt/disnet/log
+mylib=/home/xin/Workspace/DisEnt/disnet/common/lib/mylib
 
-mapping_ncbo_path=/home/xin/Workspace/DisEnt/disnet/term_mapping/ncbo;
+
+mapping_ncbo_path=/home/xin/Workspace/DisEnt/disnet/term_mapping/ncbo
 debug=n
 testrun=y
 cleantmp=n
@@ -16,7 +18,7 @@ cleandata=n
 checkupdate=n
 
 ##########BASIC
-basic=y
+basic=n
 
 ####BASIC/ENSEMBL
 basic_ensembl=y
@@ -38,3 +40,9 @@ basic_entrez=y
 e2e_url=ftp://ftp.ncbi.nih.gov/gene/DATA/gene2ensembl.gz
 human_geneinfo_url=ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz
 gene_hist_url=ftp://ftp.ncbi.nih.gov/gene/DATA/gene_history.gz
+
+
+##########SOURCE
+sources=n
+##########ONTOLOGIES
+ontologies=y

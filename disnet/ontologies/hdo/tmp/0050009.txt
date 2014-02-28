@@ -1,0 +1,6 @@
+id: DOID:0050009
+name: intestinal strongyloidiasis
+def: "A strongyloidiasis that involves infection of intestine with Strongyloides stercoralis, which results in abdominal pain, diarrhea, ileus, massive gastrointestinal bleeding, severe malabsorption, and peritonitis." [url:http\://www.dpd.cdc.gov/DPDx/HTML/Strongyloidiasis.htm, url:http\://www.merck.com/mmpe/sec14/ch182/ch182i.html?qt=strongyloidiasis&alt=sh]
+is_obsolete: true
+
+[Term]

@@ -1,0 +1,12 @@
+id: DOID:0050025
+name: human granulocytic anaplasmosis
+alt_id: DOID:0050021
+alt_id: DOID:0050022
+def: "An ehrlichiosis that results_in infection located_in granular leukocyte, has_material_basis_in Anaplasma phagocytophilum, which is transmitted_by lone start tick (Amblyomma americanum ). The infection has_symptom headache, has_symptom muscle aches, has_symptom fatigue, has_symptom fever and has_symptom rash." [url:http\://emedicine.medscape.com/article/235839-overview]
+subset: gram-negative_bacterial_infectious_disease
+subset: tick-borne_infectious_disease
+synonym: "HGE" RELATED []
+synonym: "human granulocytic ehrlichiosis" EXACT []
+is_a: DOID:10242 ! ehrlichiosis
+
+[Term]

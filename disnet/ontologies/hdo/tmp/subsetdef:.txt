@@ -1,0 +1,6 @@
+subsetdef: GOLD "GOLD"
+subsetdef: gram-negative_bacterial_infectious_disease "gram-negative bacterial infectious disease"
+subsetdef: gram-positive_bacterial_infectious_disease "gram-positive bacterial infectious disease"
+subsetdef: sexually_transmitted_infectious_disease "sexually transmitted infectious disease"
+subsetdef: tick-borne_infectious_disease "tick-borne infectious disease"
+subsetdef: zoonotic_infectious_disease "zoonotic infectious disease"

@@ -1,0 +1,6 @@
+id: DOID:0050003
+name: Streptomyces somaliensis infectious disease
+subset: gram-positive_bacterial_infectious_disease
+is_obsolete: true
+
+[Term]

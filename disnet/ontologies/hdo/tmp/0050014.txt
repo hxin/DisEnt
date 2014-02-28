@@ -1,0 +1,7 @@
+id: DOID:0050014
+name: epizootic hemorrhagic disease
+def: "A viral infectious disease that results_in infection in deer, has_material_basis_in Epizootic hemorrhagic disease virus, which is transmitted_by Culicoides biting midges. The infection has_symptom hemorrhages in many tissues including the skin, heart, and gastrointestinal tract, and has_symptom ulcers of the tongue, dental pad, palate, rumen, and omasum." [url:http\://www.cfsph.iastate.edu/Factsheets/pdfs/epizootic_hemorrhagic_disease.pdf]
+synonym: "EHD" RELATED []
+is_obsolete: true
+
+[Term]
