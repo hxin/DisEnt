@@ -1,4 +1,4 @@
-tmp/**/* 
-data/*
+tmp/ 
+data/
 scripts/lib/
 
