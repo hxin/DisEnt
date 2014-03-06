@@ -1,7 +1,0 @@
-alt_id: DOID:267
-alt_id: DOID:4508
-alt_id: DOID:0050021
-alt_id: DOID:0050022
-alt_id: DOID:14091
-alt_id: DOID:0050034
-alt_id: DOID:0050036

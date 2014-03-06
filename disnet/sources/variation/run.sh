@@ -5,6 +5,8 @@ functions=$BASEDIR/../../common/functions.sh
 scripts=$BASEDIR/scripts
 tmp=$BASEDIR/tmp
 chunks=$tmp/chunks
+data=$BASEDIR/data
+queries=$scripts/queries
 
 config_g=$BASEDIR/../../config.cnf
 config_l=$BASEDIR/config.cnf
@@ -20,10 +22,37 @@ fi
 ##read config file
 readcnf $config_g && readcnf $config_l
 
+
+
+
 ##create/clean tmp folder
 [ ! -d $tmp ] && mkdir $tmp || [ $cleantmp = 'y' ] && rm -rf $tmp/*
 [ ! -d $chunks ] && mkdir $chunks || [ $cleanchunks = 'y' ] && rm -rf $chunks/*
+[ ! -d $data ] && mkdir $data || [ $cleandata = 'y' ] && rm -rf $data/*
 
+echo $(gettime)" Fetching variation and phenotypes..."
+if [ $testrun = y ];then
+	perl $bin/biomart_xml_query.pl $queries/v2p_test.xml | sort | uniq >$data/source_v2p
+else
+	perl $bin/biomart_xml_query.pl $queries/v2p.xml | sort | uniq >$data/source_v2p
+fi
+wait
+
+echo '****************Result****************'
+for result in $(find $data -type f); do
+	echo  $result Count:`wc -l $result | cut -d ' ' -f1`
+	head -2 $result
+	echo ...
+	echo '#############################################################'
+done
+#name='variation';
+#des='ensembl variation database'
+#link='http://www.ensembl.org/info/genome/variation/index.html'
+source_id="$(perl $scripts/create_source.pl $db $host $user $psw)"
+echo $(gettime)" Updating db..."
+mysqlimport -h $host -u $user -p$psw --delete -L $db $data/source_v2p
+
+exit 0;
 if [ $checkupdate = 'y' ];then 
 	echo "[$(date +"%T %D")] Fetching variation and phenotypes from ensembl..."
 	for i in `perl  $scripts/fetch_variationsets.pl`

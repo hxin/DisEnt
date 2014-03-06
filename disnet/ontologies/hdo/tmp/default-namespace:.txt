@@ -1,1 +1,0 @@
-default-namespace: disease_ontology

@@ -470,7 +470,9 @@ sub datasetNumber {
 
 sub addDataset {
   my ($self, $dataset) = @_;
-
+#  print Data::Dumper::Dumper($self->get('datasets'));
+#  print "****************************************";
+#  exit;
   my $dataSetName = $dataset->name();
   my $dataSetHash = $self->get('datasets');
 

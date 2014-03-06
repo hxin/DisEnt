@@ -34,10 +34,12 @@ if [ ! $# -eq 0 ] ; then
     shift
 	done 
 else
-	in=$BASEDIR/data/in
-	out=$BASEDIR/data/out
-	#usage
-	#exit 1
+	#in=$BASEDIR/data/in
+	#out=$BASEDIR/data/out
+	while read LINE; do
+		echo ${LINE} >>  /tmp/1.tmp
+	done
+	in=/tmp/1.tmp	
 fi
 
 functions=$BASEDIR/../../../common/functions.sh
@@ -84,7 +86,6 @@ for line in $(find $chunks -iname 'chunk_*'); do
 done
 echo "	[$(date +"%T %D")] Waiting for process to be finished..."| tee -a $log
 wait
-[ $debug = 'y' ] && exit 0;
 
 echo "	[$(date +"%T %D")] Finish!"| tee -a $log
 echo "[$(date +"%T %D")] Joining result..."| tee -a $log
@@ -92,6 +93,6 @@ echo 	"[$(date +"%T %D")] Done..."| tee -a $log
 for line in $(find $chunks -iname 'chunk_*_parsed'); do 
 	cat $line >> $chunks/all	
 done
-cp $chunks/all $out
+[ -n $out ] && cp $chunks/all $out || cat $chunks/all
 
 exit 0;

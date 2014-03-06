@@ -3389,7 +3389,7 @@ DOID:8105	extrahepatic bile duct cystadenoma	\N	\N	0
 DOID:12756	lacrimal duct cancer	\N	\N	0
 DOID:3652	Leigh disease	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:0080014	chromosomal disease	"A genetic disease that has_material_basis_in extra, missing, or re-arranged chromosomes." [url:http\://en.wikipedia.org/wiki/Chromosome_abnormality, url:http\://www.genome.gov/11508982#al-5, url:http\://www.rarechromo.org/html/chromosomesanddisorders.asp]	\N	0
-DOID:11695	portal vein thrombosis	\N	\N	0
+DOID:11695	portal vein thrombosis	"A vein disease that is characterized by a blood clot that forms within the hepatic portal vein." [url:http\://en.wikipedia.org/wiki/Portal_vein_thrombosis]	\N	0
 DOID:10437	metastasis to lymph node	\N	\N	1
 DOID:0080049	acromesomelic dysplasia	"An osteochondrodysplasia that has_material_basis_in mesomelia and acromelia, which results_in short limb Dwarfism." [url:http\://www.cigna.com/healthinfo/nord1087.html, url:http\://www.questdiagnostics.com/kbase/nord/nord1087.htm, url:http\://www.rarediseases.org/search/rdbdetail_abstract.html?disname=Acromesomelic%20Dysplasia, url:http\://www.webmd.com/a-to-z-guides/acromesomelic-dysplasia]	\N	0
 DOID:1461	cholesterol embolism	"A vascular disease that is characterized by blood vessel obstruction resulting from the release of cholesterol from the inside of blood vessels along the bloodstream." [url:http\://en.wikipedia.org/wiki/Cholesterol_embolism]	\N	0
@@ -4968,7 +4968,7 @@ DOID:4387	recurrent peripheral primitive neuroectodermal tumor	\N	\N	1
 DOID:8292	atypical follicular adenoma	\N	\N	0
 DOID:9973	substance dependence	"A substance-related disorder that involves the continued use of alcohol or other drugs despite despite problems related to use of the substance." [url:http\://en.wikipedia.org/wiki/Drug_dependence]	\N	0
 DOID:5000	cutaneous syphilis	\N	\N	1
-DOID:864	phlebitis	\N	\N	0
+DOID:864	phlebitis	"A vein disease that is characterized by inflammation of a vein." [url:http\://en.wikipedia.org/wiki/Phlebitis]	\N	0
 DOID:4864	Rubella virus infectious disease	"A viral infectious disease that results_in infection, has_material_basis_in Rubella virus, which is transmitted_by direct contact with the infected person through coughing and sneezing, and transmitted_by congenital method." [url:http\://www.ictvdb.org/ICTVdB/00.073.0.02.htm]	\N	1
 DOID:3813	central nervous system chondroma	\N	\N	0
 DOID:2877	larynx sarcoma	"A sarcoma and malignant neoplasm of larynx that is located_in the larynx." [url:http\://www.searchmedica.com/search.html?q=sarcoma%20of%20the%20larynx&c=pc&ss=]	\N	0
@@ -7501,7 +7501,7 @@ DOID:0050168	autoimmune polyendocrine syndrome type 2	"An autoimmune polyendocri
 DOID:5798	macrotrabecular hepatoblastoma	\N	\N	0
 DOID:5515	nasal cavity squamous cell carcinoma	\N	\N	0
 DOID:8618	oral cavity cancer	"A gastrointestinal system cancer that is located_in the oral cavity." [url:http\://en.wikipedia.org/wiki/Oral_cancer]	\N	0
-DOID:799	varicose veins	\N	OMIM mapping confirmed by DO. [LS].	0
+DOID:799	varicose veins	"A vein disease that is characterized by swollen, twisted veins visible just under the surface of the skin." [url:http\://www.nlm.nih.gov/medlineplus/varicoseveins.html, url:https\://www.nhlbi.nih.gov/health/health-topics/topics/vv/]	OMIM mapping confirmed by DO. [LS].	0
 DOID:1301	RNA virus infectious disease	"A viral infectious disease that results_in infection, has_material_basis_in RNA viruses, which have RNA as their genetic material." [url:http\://en.wikipedia.org/wiki/RNA_viruses]	\N	1
 DOID:8016	anaplastic ganglioglioma	\N	\N	1
 DOID:14547	sphenoid sinus squamous cell carcinoma	\N	\N	0
@@ -8286,7 +8286,7 @@ DOID:1111	malignant neoplasm of cervical part of esophagus	\N	\N	1
 DOID:9158	Sezary's disease involving intra-abdominal lymph nodes	\N	\N	1
 DOID:7327	pseudosarcomatous fibromatosis	\N	\N	0
 DOID:11201	parathyroid gland disease	\N	\N	0
-DOID:10128	venous insufficiency	\N	\N	0
+DOID:10128	venous insufficiency	"A vein disease that is characterized by impaired flow of blood through the veins." [url:http\://my.clevelandclinic.org/disorders/venous_insufficiency/hic_venous_insufficiency.aspx, url:http\://www.nlm.nih.gov/medlineplus/ency/article/000203.htm]	\N	0
 DOID:11093	bacterial gastroenteritis	"A gastroenteritis that involves inflammation of the stomach and intestines caused by bacteria. The symptoms include abdominal cramps and pain, diarrhea, loss of appetite, nausea, and vomiting." [url:http\://www.nlm.nih.gov/medlineplus/ency/article/000254.htm]	\N	1
 DOID:5154	borna disease	"A viral infectious disease that results_in infection, which affects dopaminergic neurotransmission located_in central nervous system, has_material_basis_in Borna disease virus, which is transmitted_by contact with infected oronasal secretions. The infection has_symptom mood disturbances, has_symptom behaviour disturbances, has_symptom cognitive disturbances, has_symptom neurologic disturbances, and has_symptom movement impairment." [url:http\://www.biomedcentral.com/1471-244X/10/70]	\N	0
 DOID:6923	fibrolipomatous hamartoma of peripheral nerve	\N	\N	1
@@ -8442,7 +8442,7 @@ DOID:8256	olfactory neural tumor	\N	\N	0
 DOID:11527	laryngostenosis	\N	\N	0
 DOID:2986	IgA glomerulonephritis	\N	OMIM mapping confirmed by DO. [SN].	0
 DOID:193	reproductive organ cancer	"An organ system cancer that is manifested in the reproductive organs." [url:http\://en.wikipedia.org/wiki/Reproductive_system#Examples_of_cancers]	\N	0
-DOID:14392	thrombophlebitis migrans	\N	\N	0
+DOID:14392	thrombophlebitis migrans	"A thrombophlebitis that is characterized by repeated occurances of thrombophlebitis in different locations." [url:http\://en.wikipedia.org/wiki/Thrombophlebitis]	\N	0
 DOID:3616	angiolipoma	"A lipoma that is a painful subcutaneous nodule, having all other features of a typical lipoma." [url:http\://en.wikipedia.org/wiki/Angiolipoma]	\N	0
 DOID:11227	acute hemorrhagic conjunctivitis	"A viral infectious disease that results_in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted_by contaminated fomites or transmitted_by contact with contaminated hands. The infection has_symptom vascular dilation, has_symptom eyelid edema, has_symptom photophobia, has_symptom redness of the eyes, has_symptom watering of the eye, has_symptom conjunctival congestion, and has_symptom superficial punctate epithelial keratitis." [url:http\://www.cdc.gov/mmwr/preview/mmwrhtml/mm5328a2.htm, url:http\://www.cdc.gov/ncidod/eid/vol5no2/maitreyi.htm, url:http\://www.doh.state.fl.us/disease_ctrl/epi/htopics/reports/ahcpres.pdf]	\N	0
 DOID:14445	chronic closed-angle glaucoma	\N	\N	0
@@ -8585,7 +8585,7 @@ DOID:7435	polyvesicular vitelline pattern testicular yolk sac tumor	\N	\N	0
 DOID:1824	status epilepticus	\N	\N	0
 DOID:1756	facial nerve disease	\N	\N	0
 DOID:1106	esophagus lymphoma	\N	\N	0
-DOID:3875	thrombophlebitis	\N	\N	0
+DOID:3875	thrombophlebitis	"A phlebitis that results from a blood clot in the vessel." [url:http\://en.wikipedia.org/wiki/Thrombophlebitis, url:http\://www.hopkinsmedicine.org/heart_vascular_institute/conditions_treatments/conditions/thrombophlebitis.html, url:http\://www.nlm.nih.gov/medlineplus/ency/article/001108.htm]	\N	0
 DOID:0050686	organ system cancer	"A cancer that is classified based on the organ it starts in." [url:http\://cancerguide.org/basic.html]	\N	0
 DOID:5308	ampulla of Vater clear cell adenocarcinoma	\N	\N	0
 DOID:1584	acute chest syndrome	"A lung disease that involves a vasoocclusive crisis of the pulmonary vasculature seen in patients with sickle cell anemia. The crisis is initiated by a lung infection, and the resulting inflammation and loss of oxygen tension leads to sickling of red cells and further vasoocclusion. The disease has_symptom fever, has_symptom pleuritic chest pain, has_symptom tachypnea, has_symptom cough, has_symptom hypoxemia, has_symptom marked leukocytosis, and has_symptom diffuse infiltrates on chest radiograph." [url:http\://en.wikipedia.org/wiki/Acute_chest_syndrome, url:http\://www.rcjournal.com/contents/03.04/03.04.0263.pdf]	\N	0
@@ -8660,7 +8660,7 @@ DOID:7408	vulvar keratoacanthoma-like carcinoma	\N	\N	0
 DOID:10811	nasal cavity cancer	"A respiratory system cancer that is located_in the nasal cavity." [url:http\://en.wikipedia.org/wiki/Nasal_cavity]	\N	0
 DOID:4278	scrotum basal cell carcinoma	\N	\N	0
 DOID:6438	malignant choroid melanoma	\N	\N	0
-DOID:2364	postphlebitic syndrome	\N	\N	0
+DOID:2364	post-thrombotic syndrome	"A venous insufficiency that is characterized by aching pain, heaviness, swelling, cramps, itching, or tingling in the affected limb and is a chronic complication of deep venous thrombosis." [url:http\://en.wikipedia.org/wiki/Post-thrombotic_syndrome, url:http\://www.ncbi.nlm.nih.gov/pubmed/21239797]	\N	0
 DOID:10177	malignant hypertensive renal disease	\N	\N	0
 DOID:4438	central nervous system germinoma	\N	\N	0
 DOID:11442	malignant mast cell tumors involving lymph node of head	\N	\N	1

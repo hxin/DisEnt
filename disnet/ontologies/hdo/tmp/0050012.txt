@@ -1,8 +1,0 @@
-id: DOID:0050012
-name: chikungunya
-def: "A viral infectious disease that results_in infection located_in joint, has_material_basis_in Chikungunya virus, which is transmitted_by Aedes mosquito bite. The infection has_symptom fever, has_symptom arthralgia, and has_symptom maculopapular rash." [url:http\://en.wikipedia.org/wiki/Chikungunya_virus]
-subset: zoonotic_infectious_disease
-synonym: "Chikungunya fever" EXACT []
-is_a: DOID:934 ! viral infectious disease
-
-[Term]

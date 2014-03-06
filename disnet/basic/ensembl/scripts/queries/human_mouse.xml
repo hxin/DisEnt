@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Query>
+<Query  virtualSchemaName = "default" formatter = "TSV" header = "0" uniqueRows = "0" count = "" datasetConfigVersion = "0.6" >
+			
+	<Dataset name = "hsapiens_gene_ensembl" interface = "default" >
+		<Attribute name = "ensembl_gene_id" />
+		<Attribute name = "mmusculus_homolog_ensembl_gene" />
+		<Attribute name = "mmusculus_homolog_orthology_type" />
+		<Attribute name = "mmusculus_homolog_dn" />
+		<Attribute name = "mmusculus_homolog_ds" />
+	</Dataset>
+</Query>

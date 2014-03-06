@@ -1,11 +1,8 @@
-rs661	202	ALZHEIMER DISEASE, FAMILIAL, 3	DOID:4	DISEASE	14 73683933 73683933 OMIM MIM:104311
-rs661	5053	Alzheimer disease type 3	DOID:4	DISEASE	14 73683933 73683933 Uniprot MIM:607822
-rs661	199	ALZHEIMER DISEASE 3	DOID:4	DISEASE	14 73683933 73683933 Uniprot MIM:607822
-rs661	23445	Alzheimer_disease,_type_3	DOID:4	DISEASE	14 73683933 73683933 dbSNP_ClinVar \N
-rs6445	73	ADRENAL HYPERPLASIA, CONGENITAL, DUE TO 21-HYDROXYLASE DEFICIENCY	DOID:4967	ADRENAL HYPERPLASIA	6 32008783 32008783 OMIM MIM:201910
-rs6445	5041	Adrenal hyperplasia type 3	DOID:4967	ADRENAL HYPERPLASIA	6 32008783 32008783 Uniprot MIM:201910
-rs6445	17458	Adrenal hyperplasia 3	DOID:4967	ADRENAL HYPERPLASIA	HSCHR6_MHC_MCF_CTG1 3388624 3388624 Uniprot MIM:201910
-rs6445	17458	Adrenal hyperplasia 3	DOID:4967	ADRENAL HYPERPLASIA	6 32008783 32008783 Uniprot MIM:201910
-rs6445	17458	Adrenal hyperplasia 3	DOID:4967	ADRENAL HYPERPLASIA	HSCHR6_MHC_SSTO_CTG1 3341491 3341491 Uniprot MIM:201910
-rs6445	17458	Adrenal hyperplasia 3	DOID:4967	ADRENAL HYPERPLASIA	HSCHR6_MHC_DBB_CTG1 3287999 3287999 Uniprot MIM:201910
-rs6445	17458	Adrenal hyperplasia 3	DOID:4967	ADRENAL HYPERPLASIA	HSCHR6_MHC_COX_CTG1 3479434 3479434 Uniprot MIM:201910
+Autism spectrum disorder attention deficit-hyperactivity disorder bipolar disorder major depressive disorder and schizophrenia (combined)	DOID:3312	BIPOLAR DISORDER
+Autism spectrum disorder attention deficit-hyperactivity disorder bipolar disorder major depressive disorder and schizophrenia (combined)	DOID:1470	MAJOR DEPRESSIVE DISORDER
+Autism spectrum disorder attention deficit-hyperactivity disorder bipolar disorder major depressive disorder and schizophrenia (combined)	DOID:12849	AUTISM
+Autism spectrum disorder attention deficit-hyperactivity disorder bipolar disorder major depressive disorder and schizophrenia (combined)	DOID:0060041	AUTISM SPECTRUM DISORDER
+Autism spectrum disorder attention deficit-hyperactivity disorder bipolar disorder major depressive disorder and schizophrenia (combined)	DOID:5419	SCHIZOPHRENIA
+Behcet Syndrome	DOID:13241	BEHCET SYNDROME
+Behcet Syndrome	DOID:225	SYNDROME
+BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 3	DOID:9563	BRONCHIECTASIS

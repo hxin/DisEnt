@@ -1,7 +1,0 @@
-id: DOID:0050011
-name: Mansonella streptocerca infectious disease
-def: "A mansonelliasis that involves parasitic infection by the nematode Mansonella streptocerca, which resides in the dermis and subcutaneous tissue causing pruritus, papular eruptions and pigmentation changes. Midges transmit the disease." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Filariasis.htm]
-subset: zoonotic_infectious_disease
-is_obsolete: true
-
-[Term]

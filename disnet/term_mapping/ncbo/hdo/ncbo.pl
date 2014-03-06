@@ -10,11 +10,11 @@ use XML::LibXML;
 use PadWalker;
 use Data::Dumper;
 
-#use lib '/home/xin/Workspace/DisEnt/disnet/common/lib/mylib';
+use lib '/home/xin/Workspace/DisEnt/disnet/common/lib/mylib';
 use Ncbo::Functions;
 
-
 my($in)=@ARGV;
+
 
 open (MYIN, $in);
 #my $out=$in."_parsed";
@@ -23,12 +23,14 @@ open (MYIN, $in);
 
 while ( <MYIN> ) {
 	chomp;
-	my @row = split(/\t/, $_);
-	my $g=shift @row;
-	my $did=shift @row;
-	my $d=shift @row;
-	my @ref=@row;
-	ncbo_annotator($g,$did,$d,@ref);
+	#my @row = split(/\t/, $_);
+	#my $g=shift @row;
+	#my $did=shift @row;
+	#my $d=shift @row;
+	#my @ref=@row;
+	#ncbo_annotator($g,$did,$d,@ref);
+	my $text=$_;
+	ncbo_annotator($text);
 }
 
 
@@ -36,7 +38,8 @@ while ( <MYIN> ) {
 
 
 sub ncbo_annotator{
-my($g,$did,$des,@ref)=@_;
+#my($g,$did,$des,@ref)=@_;
+my ($des)=@_;
 #print Dumper(@ARGV);
 
 $|=1;
@@ -83,7 +86,8 @@ if ($response->is_success) {
 
 		if(%{$M_ConceptREF}){
 			foreach my $c (keys %{$M_ConceptREF}){
-   			 	print $g,"\t",$did,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c},"\t","@ref","\n";
+   			 	#print $g,"\t",$did,"\t",$des,"\t",$c,"\t", $$M_ConceptREF{$c},"\t","@ref","\n";
+   			 	print $des,"\t",$c,"\t", $$M_ConceptREF{$c},"\n";
    			 }    
 		}
 		#else{

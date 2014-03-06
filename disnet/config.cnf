@@ -1,24 +1,26 @@
 version=1.0.0
 
-DB=disent2
-HOST=localhost
-USER=root
-PSW=12091209
+db=mydb
+host=localhost
+user=root
+psw=12091209
 
 log=/home/xin/Workspace/DisEnt/disnet/log
 mylib=/home/xin/Workspace/DisEnt/disnet/common/lib/mylib
+bin=/home/xin/Workspace/DisEnt/disnet/bin
 
 
 mapping_ncbo_path=/home/xin/Workspace/DisEnt/disnet/term_mapping/ncbo
 debug=n
 testrun=y
+cleandb=y
 cleantmp=n
 cleanchunks=n
 cleandata=n
-checkupdate=n
+checkupdate=y
 
 ##########BASIC
-basic=n
+basic=y
 
 ####BASIC/ENSEMBL
 basic_ensembl=y
@@ -36,13 +38,25 @@ species="drosophila_melanogaster:fly"
 
 
 ####BASIC/NCBI
-basic_entrez=y
+basic_ncbi=y
 e2e_url=ftp://ftp.ncbi.nih.gov/gene/DATA/gene2ensembl.gz
 human_geneinfo_url=ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz
 gene_hist_url=ftp://ftp.ncbi.nih.gov/gene/DATA/gene_history.gz
 
 
-##########SOURCE
-sources=n
 ##########ONTOLOGIES
 ontologies=y
+
+####ONTOLOGIES/HDO
+ontologies_hdo=y
+hdo_url=http://purl.obolibrary.org/obo/doid.obo
+
+
+##########SOURCE
+sources=y
+####SOURCES/DGA
+sources_dga=n
+####SOURCES/OMIM
+####SOURCES/VARIATION
+source_variation=y
+

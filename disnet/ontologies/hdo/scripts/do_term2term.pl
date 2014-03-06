@@ -68,7 +68,7 @@ READLINE:while ( <> ) {
 while (my ($do_acc, $hash_ref) = each(%return)){
 #if(!defined($hash_ref->{'is_obsolete'})){
 	foreach(@{$hash_ref->{'parents'}}){
-		print $do_acc."\t".$_."\n";
+		print $do_acc."\t".$_."\t"."is_a"."\n";
 	}
 #}
 	

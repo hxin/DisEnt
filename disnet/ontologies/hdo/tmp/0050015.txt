@@ -1,6 +1,0 @@
-id: DOID:0050015
-name: Rocio virus encephalitis
-def: "A viral infectious disease that results_in inflammation located_in brain, has_material_basis_in Rocio virus, which is transmitted_by Psorophora ferox and transmitted_by Aedes species of mosquitoes. The infection has_symptom abdominal distension, has_symptom confusion, has_symptom motor impairment, has_symptom difficulty in walking and maintaining balance, has_symptom meningeal irritation, and has_symptom cerebellar syndrome." [url:http\://books.google.com/books?id=5O0somr0w18C&pg=RA1-PA1198&lpg=RA1-PA1198&dq#v=onepage&q=&f=false, url:http\://www.ncbi.nlm.nih.gov/sites/entrez/17622628, url:http\://www.scielo.br/pdf/rsp/v20n3/01.pdf]
-is_obsolete: true
-
-[Term]

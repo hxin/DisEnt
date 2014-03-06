@@ -1,8 +1,0 @@
-id: DOID:0050004
-name: seminal vesicle acute gonorrhea
-xref: ICD9CM:098.14
-xref: SNOMEDCT_2010_1_31:301990003
-xref: UMLS_CUI:C0578661
-is_a: DOID:10400 ! gonococcal seminal vesiculitis
-
-[Term]

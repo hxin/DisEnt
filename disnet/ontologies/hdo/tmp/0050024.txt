@@ -1,8 +1,0 @@
-id: DOID:0050024
-name: Ehrlichia ewingii ehrlichiosis
-subset: gram-negative_bacterial_infectious_disease
-subset: tick-borne_infectious_disease
-subset: zoonotic_infectious_disease
-is_obsolete: true
-
-[Term]

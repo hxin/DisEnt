@@ -1,6 +1,6 @@
 #!/bin/sh
 BASEDIR=$(dirname $0)
-
+clear
 PERL5LIB=${PERL5LIB}:${PWD}/common/lib/BioPerl-1.6.0
 PERL5LIB=${PERL5LIB}:${PWD}/common/lib/biomart/biomart-perl/lib
 PERL5LIB=${PERL5LIB}:${PWD}/common/lib/ensembl-api/ensembl/modules
@@ -29,35 +29,36 @@ fi
 ##read config file
 readcnf $config_g
 
+##clean db
 
-if [ $ontologies = 'y' ]; then
-echo '**************************************************************'| tee -a $log
-echo "[$(date +"%T %D")] Source data..."| tee -a $log
-sh $BASEDIR/ontologies/hdo/run.sh 2>&1 | tee -a $log
-echo ''
-echo "[$(date +"%T %D")] All done!!" | tee -a $log
-fi
+[ $cleandb = 'y' ] && echo $(gettime)" Cleaning db..." && mysql -h $host -u $user -p$psw $db <$BASEDIR/db.sql
 
 
 
 if [ $basic = 'y' ]; then
-	if [ $basic_ensembl = 'y' ]; then
-		echo '**************************************************************'| tee -a $log
-		echo "[$(date +"%T %D")] Basic data..."| tee -a $log
-		sh $BASEDIR/basic/ensembl/run.sh 2>&1 | tee -a $log
-		echo ''
-		echo "[$(date +"%T %D")] All done!!" | tee -a $log
-	fi
-	
+	echo '****************************************************'| tee -a $log
+	echo '*********************Basic data*********************'| tee -a $log
+	echo '****************************************************'| tee -a $log
+	sh $BASEDIR/basic/run.sh 2>&1 | tee -a $log
+	echo ''
+fi
+
+
+
+if [ $ontologies = 'y' ]; then
+	echo '****************************************************'| tee -a $log
+	echo '*********************Ontologies*********************'| tee -a $log
+	echo '****************************************************'| tee -a $log
+	sh $BASEDIR/ontologies/hdo/run.sh 2>&1 | tee -a $log
+	echo ''
 fi
 
 
 if [ $sources = 'y' ]; then
-echo '**************************************************************'| tee -a $log
-echo "[$(date +"%T %D")] Source data..."| tee -a $log
-sh $BASEDIR/sources/variation/run.sh 2>&1 | tee -a $log
-echo ''
-
-echo "[$(date +"%T %D")] All done!!" | tee -a $log
+	echo '****************************************************'| tee -a $log
+	echo '**********************Sources***********************'| tee -a $log
+	echo '****************************************************'| tee -a $log
+	sh $BASEDIR/sources/run.sh 2>&1 | tee -a $log
+	echo ''
 fi
 exit 0;

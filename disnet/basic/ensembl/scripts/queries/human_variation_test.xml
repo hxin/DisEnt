@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Query>
+<Query  virtualSchemaName = "default" formatter = "TSV" header = "0" uniqueRows = "1" limitSize= "1000" count = "" datasetConfigVersion = "0.6" >
+			
+	<Dataset name = "hsapiens_snp" interface = "default" >
+		<Filter name = "variation_set_name" value = "All phenotype-associated variants"/>
+		<Filter name = "phenotype_significance" value = "1"/>
+		<Attribute name = "refsnp_id" />
+		<Attribute name = "chr_name" />
+		<Attribute name = "chrom_start" />
+	</Dataset>
+</Query>

@@ -1,6 +1,0 @@
-id: DOID:0050001
-name: Actinomadura madurae infectious disease
-subset: gram-positive_bacterial_infectious_disease
-is_obsolete: true
-
-[Term]
